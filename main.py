@@ -22,13 +22,31 @@ def getName(soup):
 
 name = getName(soup)
 
+#Biodata: Age, D.O.B, Height, WeightClass, Country
+def getBioData(soup):
+    bioData = soup.find("div", class_="bio-holder").text.split()
+    countryOfOrigin = soup.find("strong", itemprop="nationality").text
 
-ageHeightWeight = soup.find("div", class_="bio-holder").text.strip()
-weightClass = soup.find("div", class_="association-class").text.strip()
-country = soup.find("strong", itemprop="nationality").text
-wins = soup.find("div", class_="winloses win").text
+    a = bioData[6].split("'") # Helper varible to format height in feet)
+    heightFt = a[0].replace("HEIGHT", "") + "'" + a[1]
+    hieghtCm = bioData[8] + "cm"
+
+    results = {
+        "age": int(bioData[1]),
+        "DOB": f"{bioData[4]} {bioData[3]} {bioData[5]}", # e.g. 01 Jan 2000
+        "height": f"{heightFt} / {hieghtCm}",
+        "weightClass": bioData[-1],
+        "country": countryOfOrigin
+    }
+
+    return results
+
+
+
+win = soup.find("div", class_="winloses win").text
 lose = soup.find("div", class_="winloses lose").text
 noContest = soup.find("div", class_="winloses nc").text
 fightHistory = soup.find("table", class_="new_table fighter").text
-print(name)
 
+
+print(win.replace("Wins", "").strip())
