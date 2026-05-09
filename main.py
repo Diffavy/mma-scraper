@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import cloudscraper
 
 
 url = "https://www.sherdog.com/fighter/Tom-Aspinall-65231"
@@ -7,7 +8,10 @@ fightersData = {}
 
 def getSoup(url):
     headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Referer": "https://www.google.com"
     }
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, "html.parser")
@@ -42,11 +46,24 @@ def getBioData(soup):
     return results
 
 
+#Add function to get record
+def getRecord(soup):
+    win = soup.find("div", class_="winloses win").text
+    lose = soup.find("div", class_="winloses lose").text
+    noContest = soup.find("div", class_="winloses nc").text
+    
+    winRec = win.replace("Wins", "").strip()
+    loseRec = lose.replace("Losses", "").strip()
+    noContestRec = noContest.replace("N/C", "").strip()
 
-win = soup.find("div", class_="winloses win").text
-lose = soup.find("div", class_="winloses lose").text
-noContest = soup.find("div", class_="winloses nc").text
+    return {
+        "wins": int(winRec),
+        "losses": int(loseRec),
+        "noContests": int(noContestRec)
+    }
+
+#Add function to format and get list of fights
+#Add function to add all data into fighters data
 fightHistory = soup.find("table", class_="new_table fighter").text
 
-
-print(win.replace("Wins", "").strip())
+print(getRecord(soup))
