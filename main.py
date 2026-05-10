@@ -1,6 +1,5 @@
-import requests
+import requests, re, cloudscraper
 from bs4 import BeautifulSoup
-import cloudscraper
 
 
 url = "https://www.sherdog.com/fighter/Tom-Aspinall-65231"
@@ -62,8 +61,37 @@ def getRecord(soup):
         "noContests": int(noContestRec)
     }
 
-#Add function to format and get list of fights
-#Add function to add all data into fighters data
-fightHistory = soup.find("table", class_="new_table fighter").text
+def getFights(soup):
+    results = soup.findAll("span", class_="final_result")
+    opponents = soup.find_all("a", href=re.compile("^/fighter/"))
+    events = soup.find_all("a", href=re.compile("^/events/"))
+    dates = soup.find_all("span", class_="sub_line")
 
-print(getRecord(soup))
+
+    resultsArr, opponentsArr, eventsArr, datesArr = [], [], [], []
+
+    for result in results:
+        resultsArr.append(result.text.strip())
+
+    for opponent in opponents:
+        opponentsArr.append(opponent.text.strip())
+
+    for event in events:
+        eventsArr.append(" ".join(event.text.split()))
+
+    for i in range(0, len(dates), 2):
+        datesArr.append(dates[i].text.strip().split("\n"))
+
+    history = []
+
+    for i in range(len(resultsArr)): #Cuts other arrays to the same length to avoid irrelevant data
+        history.append({
+            "result": resultsArr[i],
+            "opponent": opponentsArr[i],
+            "event": eventsArr[i],
+            "date": datesArr[i]
+        })
+    return history
+
+for fight in getFights(soup):
+    print(fight)
