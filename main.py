@@ -2,9 +2,6 @@ import requests, re, cloudscraper
 from bs4 import BeautifulSoup
 
 
-url = "https://www.sherdog.com/fighter/Tom-Aspinall-65231"
-fightersData = {}
-
 def getSoup(url):
     headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
@@ -17,13 +14,9 @@ def getSoup(url):
 
     return soup
 
-soup = getSoup(url)
-
 def getName(soup):
     name = soup.find("span", class_="fn").text
     return name.split(" ") #['first-name','last-name']
-
-name = getName(soup)
 
 #Biodata: Age, D.O.B, Height, WeightClass, Country
 def getBioData(soup):
@@ -45,7 +38,6 @@ def getBioData(soup):
     return results
 
 
-#Add function to get record
 def getRecord(soup):
     win = soup.find("div", class_="winloses win").text
     lose = soup.find("div", class_="winloses lose").text
@@ -83,10 +75,10 @@ def getFights(soup):
     for i in range(0, len(dates), 2):
         datesArr.append(dates[i].text.strip().split("\n"))
 
-    for winby in soup.find_all("td", class_="winby"):
-        methods.append(winby.find("b").text)
-        round_td = winby.find_next_sibling("td")
-        time_td = round_td.find_next_sibling("td")
+    for winby in soup.find_all("td", class_="winby"): 
+        methods.append(winby.find("b").text) #finds child b element with method to end fight
+        round_td = winby.find_next_sibling("td") #final round for each fight first td sibling element to winby
+        time_td = round_td.find_next_sibling("td") #end time for each fight second td sibling element to winby
 
         rounds.append(round_td.text.strip())
         times.append(time_td.text.strip())
@@ -106,8 +98,22 @@ def getFights(soup):
         })
     return history
 
-for fight in getFights(soup):
-    print(fight)
+
+def getFightersData(url):
+    soup = getSoup(url)
+    fighterData = {}
+
+    fighterData["name"] = getName(soup)
+    fighterData["bioData"] = getBioData(soup)
+    fighterData["record"] = getRecord(soup)
+    fighterData["fights"] = getFights(soup)
+
+    return fighterData
+
+
+tomAspinallData = getFightersData("https://www.sherdog.com/fighter/Tom-Aspinall-65231")
+jonJonesData = getFightersData("https://www.sherdog.com/fighter/Jon-Jones-27944")
+
 
 
 
