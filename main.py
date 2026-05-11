@@ -1,4 +1,4 @@
-import requests, re, cloudscraper
+import requests, re, cloudscraper, json
 from bs4 import BeautifulSoup
 
 
@@ -114,6 +114,13 @@ def getFightersData(url):
 tomAspinallData = getFightersData("https://www.sherdog.com/fighter/Tom-Aspinall-65231")
 jonJonesData = getFightersData("https://www.sherdog.com/fighter/Jon-Jones-27944")
 
+def saveFighter(url, filename):
+    fighterData = getFightersData(url)
 
+    with open(f"{filename}.json", "w") as f:
+        json.dump(fighterData, f, indent=4)
+    
+    print(f"Saved {filename}.json")
 
-
+saveFighter("https://www.sherdog.com/fighter/Tom-Aspinall-65231", "tom_aspinall")
+saveFighter("https://www.sherdog.com/fighter/Jon-Jones-27944", "jon_jones")
