@@ -62,13 +62,14 @@ def getRecord(soup):
     }
 
 def getFights(soup):
-    results = soup.findAll("span", class_="final_result")
+    results = soup.find_all("span", class_="final_result")
     opponents = soup.find_all("a", href=re.compile("^/fighter/"))
     events = soup.find_all("a", href=re.compile("^/events/"))
     dates = soup.find_all("span", class_="sub_line")
 
 
     resultsArr, opponentsArr, eventsArr, datesArr = [], [], [], []
+    methods, rounds, times = [], [], []
 
     for result in results:
         resultsArr.append(result.text.strip())
@@ -82,6 +83,15 @@ def getFights(soup):
     for i in range(0, len(dates), 2):
         datesArr.append(dates[i].text.strip().split("\n"))
 
+    for winby in soup.find_all("td", class_="winby"):
+        methods.append(winby.find("b").text)
+        round_td = winby.find_next_sibling("td")
+        time_td = round_td.find_next_sibling("td")
+
+        rounds.append(round_td.text.strip())
+        times.append(time_td.text.strip())
+
+
     history = []
 
     for i in range(len(resultsArr)): #Cuts other arrays to the same length to avoid irrelevant data
@@ -89,9 +99,15 @@ def getFights(soup):
             "result": resultsArr[i],
             "opponent": opponentsArr[i],
             "event": eventsArr[i],
-            "date": datesArr[i]
+            "date": datesArr[i],
+            "method": methods[i],
+            "round": rounds[i],
+            "time": times[i]
         })
     return history
 
 for fight in getFights(soup):
     print(fight)
+
+
+
