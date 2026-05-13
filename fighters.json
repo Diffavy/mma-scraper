@@ -10,5 +10,85 @@
     {
         "name": "Alexander Volkov",
         "filepath": "data\\alexander_volkov.json"
+    },
+    {
+        "name": "Sergei Pavlovich",
+        "filepath": "data\\sergei_pavlovich.json"
+    },
+    {
+        "name": "Waldo Cortes-Acosta",
+        "filepath": "data\\waldo_cortes-acosta.json"
+    },
+    {
+        "name": "Josh Hokit",
+        "filepath": "data\\josh_hokit.json"
+    },
+    {
+        "name": "Serghei Spivac",
+        "filepath": "data\\serghei_spivac.json"
+    },
+    {
+        "name": "Curtis Blaydes",
+        "filepath": "data\\curtis_blaydes.json"
+    },
+    {
+        "name": "Rizvan Kuniev",
+        "filepath": "data\\rizvan_kuniev.json"
+    },
+    {
+        "name": "Derrick Lewis",
+        "filepath": "data\\derrick_lewis.json"
+    },
+    {
+        "name": "Tyrell Fortune",
+        "filepath": "data\\tyrell_fortune.json"
+    },
+    {
+        "name": "Carlos Ulberg",
+        "filepath": "data\\carlos_ulberg.json"
+    },
+    {
+        "name": "Alex Pereira",
+        "filepath": "data\\alex_pereira.json"
+    },
+    {
+        "name": "Jiri Prochazka",
+        "filepath": "data\\jiri_prochazka.json"
+    },
+    {
+        "name": "Khalil Rountree",
+        "filepath": "data\\khalil_rountree.json"
+    },
+    {
+        "name": "Jamahal Hill",
+        "filepath": "data\\jamahal_hill.json"
+    },
+    {
+        "name": "Paulo Costa",
+        "filepath": "data\\paulo_costa.json"
+    },
+    {
+        "name": "Azamat Murzakanov",
+        "filepath": "data\\azamat_murzakanov.json"
+    },
+    {
+        "name": "Volkan Oezdemir",
+        "filepath": "data\\volkan_oezdemir.json"
+    },
+    {
+        "name": "Dominick Reyes",
+        "filepath": "data\\dominick_reyes.json"
+    },
+    {
+        "name": "Sean Strickland",
+        "filepath": "data\\sean_strickland.json"
+    },
+    {
+        "name": "Khamzat Chimaev",
+        "filepath": "data\\khamzat_chimaev.json"
+    },
+    {
+        "name": "Dricus Du Plessis",
+        "filepath": "data\\dricus_du_plessis.json"
     }
 ]

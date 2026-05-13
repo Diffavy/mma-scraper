@@ -1,0 +1,185 @@
+{
+    "name": [
+        "Carlos",
+        "Ulberg"
+    ],
+    "bioData": {
+        "age": 35,
+        "DOB": "17, Nov 1990",
+        "height": "6'4\" / 193.04cm",
+        "weightClass": "Heavyweight",
+        "country": "New Zealand"
+    },
+    "record": {
+        "wins": 14,
+        "losses": 1,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Jiri Prochazka",
+            "event": "UFC 327 - Prochazka vs. Ulberg",
+            "date": [
+                "Apr / 11 / 2026"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Dominick Reyes",
+            "event": "UFC Fight Night 260 - Ulberg vs. Reyes",
+            "date": [
+                "Sep / 27 / 2025"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "4:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Jan Blachowicz",
+            "event": "UFC Fight Night 255 - Edwards vs. Brady",
+            "date": [
+                "Mar / 22 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Volkan Oezdemir",
+            "event": "UFC Fight Night 248 - Yan vs. Figueiredo",
+            "date": [
+                "Nov / 23 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alonzo Menifield",
+            "event": "UFC on ESPN 56 - Lewis vs. Nascimento",
+            "date": [
+                "May / 11 / 2024"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "0:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Da Woon Jung",
+            "event": "UFC 293 - Adesanya vs. Strickland",
+            "date": [
+                "Sep / 09 / 2023"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "4:49"
+        },
+        {
+            "result": "win",
+            "opponent": "Ihor Potieria",
+            "event": "UFC on ABC 4 - Rozenstruik vs. Almeida",
+            "date": [
+                "May / 13 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Nicolae Negumereanu",
+            "event": "UFC 281 - Adesanya vs. Pereira",
+            "date": [
+                "Nov / 12 / 2022"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:44"
+        },
+        {
+            "result": "win",
+            "opponent": "Tafon Nchukwi",
+            "event": "UFC on ESPN 38 - Tsarukyan vs. Gamrot",
+            "date": [
+                "Jun / 25 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Fabio Cherant",
+            "event": "UFC 271 - Adesanya vs. Whittaker 2",
+            "date": [
+                "Feb / 12 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Kennedy Nzechukwu",
+            "event": "UFC 259 - Blachowicz vs. Adesanya",
+            "date": [
+                "Mar / 06 / 2021"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "3:19"
+        },
+        {
+            "result": "win",
+            "opponent": "Bruno Oliveira",
+            "event": "Dana White's Contender Series - Contender Series 2020: Week 8",
+            "date": [
+                "Nov / 04 / 2020"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "2:02"
+        },
+        {
+            "result": "win",
+            "opponent": "John-Martin Fraser",
+            "event": "Eternal MMA 40 - Reurn of the King",
+            "date": [
+                "Dec / 08 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Umed Rakhmatulloyev",
+            "event": "WKG - International MMA Tournament 3",
+            "date": [
+                "Aug / 25 / 2016"
+            ],
+            "method": "TKO (Punches and Knee)",
+            "round": "1",
+            "time": "3:03"
+        },
+        {
+            "result": "win",
+            "opponent": "Kaota Puna",
+            "event": "King of the Door - Submission 2",
+            "date": [
+                "Aug / 26 / 2011"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "N/A"
+        }
+    ]
+}

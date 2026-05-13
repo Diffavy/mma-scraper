@@ -1,0 +1,350 @@
+{
+    "name": [
+        "Khalil",
+        "Rountree"
+    ],
+    "bioData": {
+        "age": 36,
+        "DOB": "6, Feb 1990",
+        "height": "6'1\" / 185.42cm",
+        "weightClass": "Heavyweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 14,
+        "losses": 7,
+        "noContests": 1
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Jiri Prochazka",
+            "event": "UFC 320 - Ankalaev vs. Pereira 2",
+            "date": [
+                "Oct / 04 / 2025"
+            ],
+            "method": "KO (Punches)",
+            "round": "3",
+            "time": "3:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Jamahal Hill",
+            "event": "UFC on ABC 8 - Hill vs. Rountree",
+            "date": [
+                "Jun / 21 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alex Pereira",
+            "event": "UFC 307 - Pereira vs. Rountree",
+            "date": [
+                "Oct / 05 / 2024"
+            ],
+            "method": "TKO (Punches)",
+            "round": "4",
+            "time": "4:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Anthony Smith",
+            "event": "UFC Fight Night 233 - Song vs. Gutierrez",
+            "date": [
+                "Dec / 09 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "0:56"
+        },
+        {
+            "result": "win",
+            "opponent": "Chris Daukaus",
+            "event": "UFC on ESPN 51 - Luque vs. dos Anjos",
+            "date": [
+                "Aug / 12 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Dustin Jacoby",
+            "event": "UFC Fight Night 213 - Kattar vs. Allen",
+            "date": [
+                "Oct / 29 / 2022"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Karl Roberson",
+            "event": "UFC Fight Night 203 - Santos vs. Ankalaev",
+            "date": [
+                "Mar / 12 / 2022"
+            ],
+            "method": "TKO (Body Kick and Punches)",
+            "round": "2",
+            "time": "0:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Modestas Bukauskas",
+            "event": "UFC Fight Night 191 - Brunson vs. Till",
+            "date": [
+                "Sep / 04 / 2021"
+            ],
+            "method": "TKO (Leg Kick)",
+            "round": "2",
+            "time": "2:30"
+        },
+        {
+            "result": "loss",
+            "opponent": "Marcin Prachnio",
+            "event": "UFC 257 - Poirier vs. McGregor 2",
+            "date": [
+                "Jan / 23 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ion Cutelaba",
+            "event": "UFC Fight Night 160 - Hermansson vs. Cannonier",
+            "date": [
+                "Sep / 28 / 2019"
+            ],
+            "method": "TKO (Elbows)",
+            "round": "1",
+            "time": "2:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Eryk Anders",
+            "event": "UFC 236 - Holloway vs. Poirier",
+            "date": [
+                "Apr / 13 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Johnny Walker",
+            "event": "UFC Fight Night 140 - Magny vs. Ponzinibbio",
+            "date": [
+                "Nov / 17 / 2018"
+            ],
+            "method": "KO (Elbow)",
+            "round": "1",
+            "time": "1:57"
+        },
+        {
+            "result": "win",
+            "opponent": "Gokhan Saki",
+            "event": "UFC 226 - Miocic vs. Cormier",
+            "date": [
+                "Jul / 07 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:36"
+        },
+        {
+            "result": "NC",
+            "opponent": "Michal Oleksiejczuk",
+            "event": "UFC 219 - Cyborg vs. Holm",
+            "date": [
+                "Dec / 30 / 2017"
+            ],
+            "method": "No Contest (Overturned by NSAC)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Paul Craig",
+            "event": "UFC Fight Night 113 - Nelson vs. Ponzinibbio",
+            "date": [
+                "Jul / 16 / 2017"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "4:56"
+        },
+        {
+            "result": "win",
+            "opponent": "Daniel Jolly",
+            "event": "UFC Fight Night 104 - Bermudez vs. Korean Zombie",
+            "date": [
+                "Feb / 04 / 2017"
+            ],
+            "method": "KO (Knee)",
+            "round": "1",
+            "time": "0:52"
+        },
+        {
+            "result": "loss",
+            "opponent": "Tyson Pedro",
+            "event": "UFC Fight Night 101 - Whittaker vs. Brunson",
+            "date": [
+                "Nov / 26 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:07"
+        },
+        {
+            "result": "loss",
+            "opponent": "Andrew Sanchez",
+            "event": "UFC - The Ultimate Fighter 23 Finale",
+            "date": [
+                "Jul / 08 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Justin Polendey",
+            "event": "RFA 33 - Townsend vs. Chavez",
+            "date": [
+                "Dec / 11 / 2015"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "1:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Cameron Olson",
+            "event": "RFA 25 - Lawrence vs. Toomer",
+            "date": [
+                "Apr / 10 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Blake Troop",
+            "event": "RFA 21 - Juusola vs. Baghdad",
+            "date": [
+                "Dec / 05 / 2014"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "0:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Livingston Lukow",
+            "event": "RFA 15 - Casey vs. Sanchez",
+            "date": [
+                "Jun / 06 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Josh Stansbury",
+            "event": "UFC - The Ultimate Fighter Season 23 Semifinals, Day 2",
+            "date": [
+                "Mar / 02 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:15"
+        },
+        {
+            "result": "loss",
+            "opponent": "Cory Hendricks",
+            "event": "UFC - The Ultimate Fighter Season 23 Quarterfinals, Day 1",
+            "date": [
+                "Feb / 02 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Dylan Jahrling",
+            "event": "Tuff-N-Uff - Future Stars of MMA",
+            "date": [
+                "Jul / 05 / 2013"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "1:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Lee Cordova",
+            "event": "Tuff-N-Uff - Festibrawl 6",
+            "date": [
+                "May / 26 / 2013"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "0:49"
+        },
+        {
+            "result": "win",
+            "opponent": "Prentice Williams",
+            "event": "Tuff-N-Uff - Round 3: Knockout Cancer For Candlelighters Kids",
+            "date": [
+                "Oct / 11 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Giovani Zavala",
+            "event": "Tuff-N-Uff - Beauties and Beasts",
+            "date": [
+                "Jan / 27 / 2012"
+            ],
+            "method": "TKO (Knee and Punches)",
+            "round": "1",
+            "time": "0:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Niels Berlemann",
+            "event": "KOTC - Future Legends 2",
+            "date": [
+                "Jun / 04 / 2011"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:16"
+        },
+        {
+            "result": "win",
+            "opponent": "Travis Jelmyer",
+            "event": "Tuff-N-Uff - Future Stars of MMA",
+            "date": [
+                "Mar / 12 / 2011"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:21"
+        }
+    ]
+}

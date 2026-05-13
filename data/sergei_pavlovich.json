@@ -1,0 +1,273 @@
+{
+    "name": [
+        "Sergei",
+        "Pavlovich"
+    ],
+    "bioData": {
+        "age": 34,
+        "DOB": "13, May 1992",
+        "height": "6'3\" / 190.5cm",
+        "weightClass": "Heavyweight",
+        "country": "Russia"
+    },
+    "record": {
+        "wins": 20,
+        "losses": 3,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Aug / 23 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sergei Pavlovich",
+            "event": "UFC Fight Night 257 - Walker vs. Zhang",
+            "date": [
+                "Feb / 01 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "",
+            "event": "UFC Fight Night 250 - Adesanya vs. Imavov",
+            "date": [
+                "Jun / 22 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Tallison Teixeira",
+            "event": "UFC on ABC 6 - Whittaker vs. Aliskerov",
+            "date": [
+                "Nov / 11 / 2023"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Waldo Cortes-Acosta",
+            "event": "UFC 295 - Prochazka vs. Pereira",
+            "date": [
+                "Apr / 22 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Jairzinho Rozenstruik",
+            "event": "UFC Fight Night 222 - Pavlovich vs. Blaydes",
+            "date": [
+                "Dec / 03 / 2022"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "0:54"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Volkov",
+            "event": "UFC on ESPN 42 - Thompson vs. Holland",
+            "date": [
+                "Jul / 30 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Tom Aspinall",
+            "event": "UFC 277 - Pena vs. Nunes 2",
+            "date": [
+                "Mar / 19 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:03"
+        },
+        {
+            "result": "win",
+            "opponent": "Curtis Blaydes",
+            "event": "UFC Fight Night 204 - Volkov vs. Aspinall",
+            "date": [
+                "Oct / 26 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:11"
+        },
+        {
+            "result": "win",
+            "opponent": "Tai Tuivasa",
+            "event": "UFC Fight Night 162 - Maia vs. Askren",
+            "date": [
+                "Apr / 20 / 2019"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "1:06"
+        },
+        {
+            "result": "loss",
+            "opponent": "Derrick Lewis",
+            "event": "UFC Fight Night 149 - Overeem vs. Oleynik",
+            "date": [
+                "Nov / 24 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Shamil Abdurakhimov",
+            "event": "UFC Fight Night 141 - Blaydes vs. Ngannou 2",
+            "date": [
+                "Nov / 19 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Maurice Greene",
+            "event": "FNG - Fight Nights Global 79",
+            "date": [
+                "Jun / 02 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marcelo Golm",
+            "event": "FNG - Fight Nights Global 68",
+            "date": [
+                "Nov / 16 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alistair Overeem",
+            "event": "EFN - Fight Nights Global 54",
+            "date": [
+                "Sep / 25 / 2016"
+            ],
+            "method": "TKO (Knee and Punches)",
+            "round": "1",
+            "time": "3:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Kirill Sidelnikov",
+            "event": "EFN - Fight Nights Global 51",
+            "date": [
+                "Jun / 17 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:54"
+        },
+        {
+            "result": "win",
+            "opponent": "Mikhail Mokhnatkin",
+            "event": "EFN 50 - Emelianenko vs. Maldonado",
+            "date": [
+                "Apr / 29 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexei Kudin",
+            "event": "Fight Nights Global 46 - Mokhnatkin vs. Kudin",
+            "date": [
+                "Dec / 11 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:02"
+        },
+        {
+            "result": "win",
+            "opponent": "Akhmedshaikh Gelegaev",
+            "event": "EFN - Fight Nights Moscow",
+            "date": [
+                "Sep / 25 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Chaban Ka",
+            "event": "EFN - Fight Nights Dagestan",
+            "date": [
+                "Jul / 31 / 2015"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:24"
+        },
+        {
+            "result": "win",
+            "opponent": "Magomedbag Agaev",
+            "event": "Fight Nights - Sochi",
+            "date": [
+                "May / 30 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Ruben Wolf",
+            "event": "Full Fight 1 - Slovakia and Czech vs. Russia",
+            "date": [
+                "Mar / 21 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Sultan Murtazaliev",
+            "event": "Fight Nights - Cup of Moscow",
+            "date": [
+                "Dec / 20 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:52"
+        }
+    ]
+}

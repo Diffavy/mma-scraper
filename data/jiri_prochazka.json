@@ -1,0 +1,449 @@
+{
+    "name": [
+        "Jiri",
+        "Prochazka"
+    ],
+    "bioData": {
+        "age": 33,
+        "DOB": "14, Oct 1992",
+        "height": "6'4\" / 193.04cm",
+        "weightClass": "Heavyweight",
+        "country": "Czech Republic"
+    },
+    "record": {
+        "wins": 32,
+        "losses": 6,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Carlos Ulberg",
+            "event": "UFC 327 - Prochazka vs. Ulberg",
+            "date": [
+                "Apr / 11 / 2026"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Khalil Rountree",
+            "event": "UFC 320 - Ankalaev vs. Pereira 2",
+            "date": [
+                "Oct / 04 / 2025"
+            ],
+            "method": "KO (Punches)",
+            "round": "3",
+            "time": "3:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Jamahal Hill",
+            "event": "UFC 311 - Makhachev vs. Moicano",
+            "date": [
+                "Jan / 18 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "3:01"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alex Pereira",
+            "event": "UFC 303 - Pereira vs. Prochazka 2",
+            "date": [
+                "Jun / 29 / 2024"
+            ],
+            "method": "TKO (Head Kick and Punches)",
+            "round": "2",
+            "time": "0:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Aleksandar Rakic",
+            "event": "UFC 300 - Pereira vs. Hill",
+            "date": [
+                "Apr / 13 / 2024"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:17"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alex Pereira",
+            "event": "UFC 295 - Prochazka vs. Pereira",
+            "date": [
+                "Nov / 11 / 2023"
+            ],
+            "method": "TKO (Elbows)",
+            "round": "2",
+            "time": "4:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Glover Teixeira",
+            "event": "UFC 275 - Teixeira vs. Prochazka",
+            "date": [
+                "Jun / 12 / 2022"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "5",
+            "time": "4:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Dominick Reyes",
+            "event": "UFC on ESPN 23 - Reyes vs. Prochazka",
+            "date": [
+                "May / 01 / 2021"
+            ],
+            "method": "KO (Spinning Back Elbow)",
+            "round": "2",
+            "time": "4:29"
+        },
+        {
+            "result": "win",
+            "opponent": "Volkan Oezdemir",
+            "event": "UFC 251 - Usman vs. Masvidal",
+            "date": [
+                "Jul / 11 / 2020"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "0:49"
+        },
+        {
+            "result": "win",
+            "opponent": "C.B. Dollaway",
+            "event": "Rizin FF - Rizin 20",
+            "date": [
+                "Dec / 31 / 2019"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Fabio Maldonado",
+            "event": "Rizin FF - Rizin 19: Lightweight Grand Prix 1st Round",
+            "date": [
+                "Oct / 12 / 2019"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:49"
+        },
+        {
+            "result": "win",
+            "opponent": "Muhammed Lawal",
+            "event": "Rizin FF - Rizin 15",
+            "date": [
+                "Apr / 21 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "3:02"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Halsey",
+            "event": "Rizin FF - Rizin 14",
+            "date": [
+                "Dec / 31 / 2018"
+            ],
+            "method": "TKO (Submission to Punches)",
+            "round": "1",
+            "time": "6:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Jake Heun",
+            "event": "Rizin FF - Rizin 13",
+            "date": [
+                "Sep / 30 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:29"
+        },
+        {
+            "result": "win",
+            "opponent": "Bruno Cappelozza",
+            "event": "Rizin FF - Rizin 11",
+            "date": [
+                "Jul / 29 / 2018"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Karl Albrektsson",
+            "event": "Rizin Fighting World Grand Prix 2017 - Bantamweight Tournament: 2nd Round",
+            "date": [
+                "Dec / 29 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "9:57"
+        },
+        {
+            "result": "win",
+            "opponent": "Wilian Roberto Alves",
+            "event": "Fusion Fight Night Series 16 - Cage Fight",
+            "date": [
+                "Sep / 29 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Mark Tanios",
+            "event": "Rizin 2 - Rizin Fighting World Grand Prix 2016: Opening Round",
+            "date": [
+                "Sep / 25 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kazuyuki Fujita",
+            "event": "Rizin 1 - Rizin Fighting Federation 1",
+            "date": [
+                "Apr / 17 / 2016"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "3:18"
+        },
+        {
+            "result": "loss",
+            "opponent": "Muhammed Lawal",
+            "event": "Rizin Fighting Federation - Iza no Mai",
+            "date": [
+                "Dec / 31 / 2015"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "5:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Vadim Nemkov",
+            "event": "Rizin Fighting Federation - Iza no Mai",
+            "date": [
+                "Dec / 31 / 2015"
+            ],
+            "method": "TKO (Retirement)",
+            "round": "1",
+            "time": "10:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Satoshi Ishii",
+            "event": "Rizin Fighting Federation - Saraba no Utake",
+            "date": [
+                "Dec / 29 / 2015"
+            ],
+            "method": "KO (Head Kick and Knees)",
+            "round": "1",
+            "time": "1:36"
+        },
+        {
+            "result": "win",
+            "opponent": "Evgeni Kondratov",
+            "event": "ProFC 59 - Battle of Kursk 3",
+            "date": [
+                "Nov / 21 / 2015"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "4:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Michal Fijalka",
+            "event": "GCF 31 - Cage Fight 6",
+            "date": [
+                "May / 22 / 2015"
+            ],
+            "method": "TKO (Corner Stoppage)",
+            "round": "1",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Rokas Stambrauskas",
+            "event": "GCF Challenge - Back in the Fight 4",
+            "date": [
+                "Mar / 27 / 2015"
+            ],
+            "method": "TKO (Corner Stoppage)",
+            "round": "1",
+            "time": "5:00"
+        },
+        {
+            "result": "draw",
+            "opponent": "Mikhail Mokhnatkin",
+            "event": "Fight Nights - Battle of Moscow 18",
+            "date": [
+                "Dec / 20 / 2014"
+            ],
+            "method": "Draw (Majority)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Darko Stosic",
+            "event": "GCF Challenge - Cage Fight 5",
+            "date": [
+                "Nov / 14 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Tomas Penz",
+            "event": "GCF 28 - Cage Fight 4",
+            "date": [
+                "Jun / 06 / 2014"
+            ],
+            "method": "TKO (Flying Knee and Punches)",
+            "round": "1",
+            "time": "0:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Viktor Bogutzki",
+            "event": "GCF 27 - Road to the Cage",
+            "date": [
+                "Mar / 21 / 2014"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Martin Solc",
+            "event": "GCF 26 - Fight Night",
+            "date": [
+                "Dec / 07 / 2013"
+            ],
+            "method": "KO (Flying Knee)",
+            "round": "3",
+            "time": "4:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Oliver Dohring",
+            "event": "RTC - Rock the Cage 4",
+            "date": [
+                "Oct / 12 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "N/A"
+        },
+        {
+            "result": "loss",
+            "opponent": "Abdul-Kerim Edilov",
+            "event": "Fight Nights - Battle of Moscow 12",
+            "date": [
+                "Jun / 20 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:56"
+        },
+        {
+            "result": "win",
+            "opponent": "Radovan Estocin",
+            "event": "GCF 23 - MMA Cage Fight 2",
+            "date": [
+                "May / 10 / 2013"
+            ],
+            "method": "KO (Flying Knee and Punches)",
+            "round": "1",
+            "time": "0:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Josef Zak",
+            "event": "GCF 19 - Back in the Fight 2",
+            "date": [
+                "Feb / 15 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "N/A"
+        },
+        {
+            "result": "loss",
+            "opponent": "Bojan Velickovic",
+            "event": "Supreme Fighting Championship 1 - Balkan Fighter Night",
+            "date": [
+                "Dec / 09 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "N/A"
+        },
+        {
+            "result": "win",
+            "opponent": "Denic Strahinja",
+            "event": "RFN - Ring Fight Brno",
+            "date": [
+                "Nov / 15 / 2012"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "2:10"
+        },
+        {
+            "result": "win",
+            "opponent": "Martin Vanis",
+            "event": "GCF 17 - Big Cage Ostrava 2",
+            "date": [
+                "Oct / 20 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Vladimir Eis",
+            "event": "GCF 15 - Justfight Challenger",
+            "date": [
+                "Aug / 24 / 2012"
+            ],
+            "method": "KO (Knee)",
+            "round": "1",
+            "time": "1:02"
+        },
+        {
+            "result": "win",
+            "opponent": "Stanislav Futera",
+            "event": "GCF 10 - Battle in the Cage",
+            "date": [
+                "Apr / 07 / 2012"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:53"
+        }
+    ]
+}

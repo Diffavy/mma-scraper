@@ -1,0 +1,317 @@
+{
+    "name": [
+        "Waldo",
+        "Cortes-Acosta"
+    ],
+    "bioData": {
+        "age": 34,
+        "DOB": "3, Oct 1991",
+        "height": "6'4\" / 193.04cm",
+        "weightClass": "Heavyweight",
+        "country": "Dominican Republic"
+    },
+    "record": {
+        "wins": 17,
+        "losses": 3,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Alexander Volkov",
+            "event": "UFC 328 - Chimaev vs. Strickland",
+            "date": [
+                "May / 09 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Derrick Lewis",
+            "event": "UFC 324 - Gaethje vs. Pimblett",
+            "date": [
+                "Jan / 24 / 2026"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Shamil Gaziev",
+            "event": "UFC Fight Night 265 - Tsarukyan vs. Hooker",
+            "date": [
+                "Nov / 22 / 2025"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "1:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Ante Delija",
+            "event": "UFC Fight Night 263 - Garcia vs. Onama",
+            "date": [
+                "Nov / 01 / 2025"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:59"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sergei Pavlovich",
+            "event": "UFC Fight Night 257 - Walker vs. Zhang",
+            "date": [
+                "Aug / 23 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Serghei Spivac",
+            "event": "UFC 316 - Dvalishvili vs. O'Malley 2",
+            "date": [
+                "Jun / 07 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ryan Spann",
+            "event": "UFC Fight Night 254 - Vettori vs. Dolidze 2",
+            "date": [
+                "Mar / 15 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Robelis Despaigne",
+            "event": "UFC on ESPN 56 - Lewis vs. Nascimento",
+            "date": [
+                "May / 11 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Andrei Arlovski",
+            "event": "UFC Fight Night 234 - Ankalaev vs. Walker 2",
+            "date": [
+                "Jan / 13 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Lukasz Brzeski",
+            "event": "UFC Fight Night 225 - Holloway vs. Korean Zombie",
+            "date": [
+                "Aug / 26 / 2023"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:01"
+        },
+        {
+            "result": "loss",
+            "opponent": "Marcos Rogerio de Lima",
+            "event": "UFC on ESPN 45 - Song vs. Simon",
+            "date": [
+                "Apr / 29 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Chase Sherman",
+            "event": "UFC Fight Night 215 - Nzechukwu vs. Cutelaba",
+            "date": [
+                "Nov / 19 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jared Vanderaa",
+            "event": "UFC Fight Night 213 - Kattar vs. Allen",
+            "date": [
+                "Oct / 29 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Danilo Suzart",
+            "event": "Dana White's Contender Series - Contender Series 2022: Week 2",
+            "date": [
+                "Aug / 02 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Thomas Petersen",
+            "event": "LFA 129 - Petersen vs. Cortes-Acosta",
+            "date": [
+                "Apr / 15 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "4:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Derrick Weaver",
+            "event": "LFA 124 - Formiga vs. Bunes",
+            "date": [
+                "Feb / 11 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Muhammed DeReese",
+            "event": "Bellator 271 - Cyborg vs. Kavanagh",
+            "date": [
+                "Nov / 12 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jordan Powell",
+            "event": "RUF MMA 43 - Road to One: The Quarterfinals",
+            "date": [
+                "Aug / 29 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Edison Lopes",
+            "event": "RUF MMA 42 - Road to One: Summer Showdown",
+            "date": [
+                "Jul / 31 / 2021"
+            ],
+            "method": "Submission (Kimura)",
+            "round": "1",
+            "time": "3:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Odell Pantin",
+            "event": "Iron Boy Promotions - Iron Boy MMA 11",
+            "date": [
+                "May / 19 / 2018"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "1:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Jonathan Robertson",
+            "event": "WFF - World Fighting Federation 28",
+            "date": [
+                "May / 14 / 2016"
+            ],
+            "method": "TKO (Retirement)",
+            "round": "1",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jonathan Bradberry",
+            "event": "UMMAF - National Championships: Finals",
+            "date": [
+                "Apr / 03 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:22"
+        },
+        {
+            "result": "loss",
+            "opponent": "Dustin Clements",
+            "event": "RITC - Rage in the Cage 180",
+            "date": [
+                "Oct / 24 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Robert Edmiston",
+            "event": "RITC - Rage in the Cage 179",
+            "date": [
+                "Aug / 15 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Jason Windham",
+            "event": "RUF MMA - Cage Rage on the River 9",
+            "date": [
+                "Jun / 20 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:56"
+        },
+        {
+            "result": "win",
+            "opponent": "James Mack",
+            "event": "WFF - World Fighting Federation 19",
+            "date": [
+                "Feb / 21 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Jeremy Cardinal",
+            "event": "WFF - World Fighting Federation 18",
+            "date": [
+                "Feb / 07 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:28"
+        }
+    ]
+}

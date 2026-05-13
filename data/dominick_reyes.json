@@ -1,0 +1,306 @@
+{
+    "name": [
+        "Dominick",
+        "Reyes"
+    ],
+    "bioData": {
+        "age": 36,
+        "DOB": "26, Dec 1989",
+        "height": "6'4\" / 193.04cm",
+        "weightClass": "Heavyweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 16,
+        "losses": 5,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Johnny Walker",
+            "event": "UFC 327 - Prochazka vs. Ulberg",
+            "date": [
+                "Apr / 11 / 2026"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Carlos Ulberg",
+            "event": "UFC Fight Night 260 - Ulberg vs. Reyes",
+            "date": [
+                "Sep / 27 / 2025"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "4:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Nikita Krylov",
+            "event": "UFC 314 - Volkanovski vs. Lopes",
+            "date": [
+                "Apr / 12 / 2025"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "2:24"
+        },
+        {
+            "result": "win",
+            "opponent": "Anthony Smith",
+            "event": "UFC 310 - Pantoja vs. Asakura",
+            "date": [
+                "Dec / 07 / 2024"
+            ],
+            "method": "TKO (Elbows and Punches)",
+            "round": "2",
+            "time": "4:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Dustin Jacoby",
+            "event": "UFC on ESPN 57 - Cannonier vs. Imavov",
+            "date": [
+                "Jun / 08 / 2024"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "2:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ryan Spann",
+            "event": "UFC 281 - Adesanya vs. Pereira",
+            "date": [
+                "Nov / 12 / 2022"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:20"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jiri Prochazka",
+            "event": "UFC on ESPN 23 - Reyes vs. Prochazka",
+            "date": [
+                "May / 01 / 2021"
+            ],
+            "method": "KO (Spinning Back Elbow)",
+            "round": "2",
+            "time": "4:29"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jan Blachowicz",
+            "event": "UFC 253 - Adesanya vs. Costa",
+            "date": [
+                "Sep / 26 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:36"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jon Jones",
+            "event": "UFC 247 - Jones vs. Reyes",
+            "date": [
+                "Feb / 08 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Chris Weidman",
+            "event": "UFC on ESPN 6 - Reyes vs. Weidman",
+            "date": [
+                "Oct / 18 / 2019"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:43"
+        },
+        {
+            "result": "win",
+            "opponent": "Volkan Oezdemir",
+            "event": "UFC Fight Night 147 - Till vs. Masvidal",
+            "date": [
+                "Mar / 16 / 2019"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ovince St. Preux",
+            "event": "UFC 229 - Nurmagomedov vs. McGregor",
+            "date": [
+                "Oct / 06 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jared Cannonier",
+            "event": "UFC Fight Night 129 - Maia vs. Usman",
+            "date": [
+                "May / 19 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Jeremy Kimball",
+            "event": "UFC 218 - Holloway vs. Aldo 2",
+            "date": [
+                "Dec / 02 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Joachim Christensen",
+            "event": "UFC Fight Night 112 - Chiesa vs. Lee",
+            "date": [
+                "Jun / 25 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:29"
+        },
+        {
+            "result": "win",
+            "opponent": "Jordan Powell",
+            "event": "LFA 13 - Millender vs. Holland",
+            "date": [
+                "Jun / 02 / 2017"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "1",
+            "time": "0:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Marcus Govan",
+            "event": "HFC 32 - Hoosier Fight Club 32",
+            "date": [
+                "Feb / 11 / 2017"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "1",
+            "time": "0:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Tyler Smith",
+            "event": "KOTC - Martial Law",
+            "date": [
+                "Sep / 18 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Kelly Gray",
+            "event": "KOTC - Sinister Intentions",
+            "date": [
+                "Oct / 17 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jessie Glass",
+            "event": "Gladiator Challenge - Carnage",
+            "date": [
+                "Apr / 03 / 2015"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "0:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Rivas Jr.",
+            "event": "KOTC - Fisticuffs",
+            "date": [
+                "Dec / 04 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Shane Merveau",
+            "event": "U of MMA - Fight Night 8",
+            "date": [
+                "Aug / 24 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Osman Diaz",
+            "event": "U of MMA - Fight Night 7",
+            "date": [
+                "Jun / 01 / 2014"
+            ],
+            "method": "Submission",
+            "round": "1",
+            "time": "0:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Bruno Casillas",
+            "event": "U of MMA - Fight Night 6",
+            "date": [
+                "Mar / 30 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "2:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Tywone Cotton",
+            "event": "Spar Star Promotions - Who's Next",
+            "date": [
+                "Jan / 25 / 2014"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "1:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Renato Gudino",
+            "event": "U of MMA - Fight Night 4",
+            "date": [
+                "Dec / 08 / 2013"
+            ],
+            "method": "Submission",
+            "round": "1",
+            "time": "1:22"
+        }
+    ]
+}

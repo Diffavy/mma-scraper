@@ -1,0 +1,284 @@
+{
+    "name": [
+        "Serghei",
+        "Spivac"
+    ],
+    "bioData": {
+        "age": 31,
+        "DOB": "24, Jan 1995",
+        "height": "6'3\" / 190.5cm",
+        "weightClass": "Heavyweight",
+        "country": "Moldova"
+    },
+    "record": {
+        "wins": 18,
+        "losses": 6,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Ante Delija",
+            "event": "UFC Fight Night 267 - Strickland vs. Hernandez",
+            "date": [
+                "Feb / 21 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Waldo Cortes-Acosta",
+            "event": "UFC 316 - Dvalishvili vs. O'Malley 2",
+            "date": [
+                "Jun / 07 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jailton Almeida",
+            "event": "UFC 311 - Makhachev vs. Moicano",
+            "date": [
+                "Jan / 18 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Marcin Tybura",
+            "event": "UFC on ESPN 61 - Tybura vs. Spivac 2",
+            "date": [
+                "Aug / 10 / 2024"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "1:44"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ciryl Gane",
+            "event": "UFC Fight Night 226 - Gane vs. Spivak",
+            "date": [
+                "Sep / 02 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:44"
+        },
+        {
+            "result": "win",
+            "opponent": "Derrick Lewis",
+            "event": "UFC Fight Night 218 - Lewis vs. Spivak",
+            "date": [
+                "Feb / 04 / 2023"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "1",
+            "time": "3:05"
+        },
+        {
+            "result": "win",
+            "opponent": "Augusto Sakai",
+            "event": "UFC on ESPN 40 - Santos vs. Hill",
+            "date": [
+                "Aug / 06 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Greg Hardy",
+            "event": "UFC 272 - Covington vs. Masvidal",
+            "date": [
+                "Mar / 05 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:16"
+        },
+        {
+            "result": "loss",
+            "opponent": "Tom Aspinall",
+            "event": "UFC Fight Night 191 - Brunson vs. Till",
+            "date": [
+                "Sep / 04 / 2021"
+            ],
+            "method": "TKO (Elbow and Punches)",
+            "round": "1",
+            "time": "2:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexey Oleynik",
+            "event": "UFC on ESPN 25 - Korean Zombie vs. Ige",
+            "date": [
+                "Jun / 19 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jared Vanderaa",
+            "event": "UFC Fight Night 185 - Blaydes vs. Lewis",
+            "date": [
+                "Feb / 20 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Carlos Felipe",
+            "event": "UFC Fight Night 172 - Figueiredo vs. Benavidez 2",
+            "date": [
+                "Jul / 18 / 2020"
+            ],
+            "method": "Decision (Majority)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Marcin Tybura",
+            "event": "UFC Fight Night 169 - Benavidez vs. Figueiredo",
+            "date": [
+                "Feb / 29 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Tai Tuivasa",
+            "event": "UFC 243 - Whittaker vs. Adesanya",
+            "date": [
+                "Oct / 05 / 2019"
+            ],
+            "method": "Technical Submission (Arm-Triangle Choke)",
+            "round": "2",
+            "time": "3:14"
+        },
+        {
+            "result": "loss",
+            "opponent": "Walt Harris",
+            "event": "UFC Fight Night 151 - Iaquinta vs. Cowboy",
+            "date": [
+                "May / 04 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Tony Lopez",
+            "event": "WWFC 12 - Kyiv",
+            "date": [
+                "Sep / 29 / 2018"
+            ],
+            "method": "Submission (Neck Crank)",
+            "round": "1",
+            "time": "4:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Ivo Cuk",
+            "event": "WWFC 10 - Kyiv",
+            "date": [
+                "Mar / 24 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Travis Fulton",
+            "event": "WWFC - Cage Encounter 7",
+            "date": [
+                "Jun / 14 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Luke Morton",
+            "event": "WWFC - Cage Encounter 6",
+            "date": [
+                "Mar / 29 / 2017"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "0:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Artem Cherkov",
+            "event": "Eagles FC - Eagles Fighting Championship",
+            "date": [
+                "Feb / 27 / 2016"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "1",
+            "time": "1:52"
+        },
+        {
+            "result": "win",
+            "opponent": "Dimitriy Mikutsa",
+            "event": "N1 Pro - MMA Nomad",
+            "date": [
+                "Oct / 04 / 2015"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "2",
+            "time": "4:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Yuri Gorbenko",
+            "event": "WWFC - Ukraine Selection 4",
+            "date": [
+                "Jan / 31 / 2015"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "3:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Evgeniy Bova",
+            "event": "WWFC - Ukraine Selection 1",
+            "date": [
+                "Nov / 19 / 2014"
+            ],
+            "method": "Submission (Kimura)",
+            "round": "1",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Andrey Serebrianikov",
+            "event": "RFP 17 - Galychyny Cup",
+            "date": [
+                "Sep / 28 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:31"
+        }
+    ]
+}

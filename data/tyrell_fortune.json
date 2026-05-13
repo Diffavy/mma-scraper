@@ -1,0 +1,273 @@
+{
+    "name": [
+        "Tyrell",
+        "Fortune"
+    ],
+    "bioData": {
+        "age": 35,
+        "DOB": "4, Jul 1990",
+        "height": "6'2\" / 187.96cm",
+        "weightClass": "Heavyweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 18,
+        "losses": 3,
+        "noContests": 2
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Marcin Tybura",
+            "event": "UFC Fight Night 271 - Adesanya vs. Pyfer",
+            "date": [
+                "Mar / 28 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Demoreo Dennis",
+            "event": "LXF 27 - Lights Out Xtreme Fighting 27",
+            "date": [
+                "Sep / 20 / 2025"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "3",
+            "time": "3:56"
+        },
+        {
+            "result": "win",
+            "opponent": "Tony Lopez",
+            "event": "RUF MMA 64 - Lopez vs. Fortune",
+            "date": [
+                "Aug / 16 / 2025"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Myron Dennis",
+            "event": "LXF 24 - Lights Out Xtreme Fighting 24",
+            "date": [
+                "May / 10 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:29"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sergey Bilostenniy",
+            "event": "Professional Fighters League - PFL 7: 2024 Playoffs",
+            "date": [
+                "Aug / 02 / 2024"
+            ],
+            "method": "Submission (Heel Hook)",
+            "round": "1",
+            "time": "2:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marcelo Golm",
+            "event": "Professional Fighters League - PFL 4: 2024 Regular Season",
+            "date": [
+                "Jun / 13 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sergey Bilostenniy",
+            "event": "Bellator 294 - Carmouche vs. Bennett 2",
+            "date": [
+                "Apr / 21 / 2023"
+            ],
+            "method": "Disqualification (Punches to Back of Head)",
+            "round": "1",
+            "time": "3:26"
+        },
+        {
+            "result": "NC",
+            "opponent": "Daniel James",
+            "event": "Bellator 288 - Nemkov vs. Anderson 2",
+            "date": [
+                "Nov / 18 / 2022"
+            ],
+            "method": "No Contest (Overturned)",
+            "round": "2",
+            "time": "0:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Rakim Cleveland",
+            "event": "Bellator 277 - McKee vs. Pitbull 2",
+            "date": [
+                "Apr / 15 / 2022"
+            ],
+            "method": "TKO (Punches and Knee)",
+            "round": "1",
+            "time": "1:38"
+        },
+        {
+            "result": "loss",
+            "opponent": "Linton Vassell",
+            "event": "Bellator 271 - Cyborg vs. Kavanagh",
+            "date": [
+                "Nov / 12 / 2021"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Matt Mitrione",
+            "event": "Bellator 262 - Velasquez vs. Kielholtz",
+            "date": [
+                "Jul / 16 / 2021"
+            ],
+            "method": "TKO (Submission to Punches)",
+            "round": "1",
+            "time": "1:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Jack May",
+            "event": "Bellator 255 - Pitbull vs. Sanchez 2",
+            "date": [
+                "Apr / 02 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:16"
+        },
+        {
+            "result": "win",
+            "opponent": "Said Sowma",
+            "event": "Bellator 251 - Manhoef vs. Anderson",
+            "date": [
+                "Nov / 05 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "NC",
+            "opponent": "Jack May",
+            "event": "Bellator 245 - Davis vs. Machida 2",
+            "date": [
+                "Sep / 11 / 2020"
+            ],
+            "method": "No Contest (Accidental Knee to Groin)",
+            "round": "1",
+            "time": "2:42"
+        },
+        {
+            "result": "loss",
+            "opponent": "Tim Johnson",
+            "event": "Bellator 239 - Ruth vs. Amosov",
+            "date": [
+                "Feb / 21 / 2020"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "2:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Azunna Anyanwu",
+            "event": "Bellator 233 - Salter vs. van Steenis",
+            "date": [
+                "Nov / 08 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:56"
+        },
+        {
+            "result": "win",
+            "opponent": "Rudy Schaffroth",
+            "event": "Bellator 225 - Mitrione vs. Kharitonov 2",
+            "date": [
+                "Aug / 24 / 2019"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Ryan Pokryfky",
+            "event": "Bellator 216 - MVP vs. Daley",
+            "date": [
+                "Feb / 16 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Giovanni Sarran",
+            "event": "Bellator 201 - Macfarlane vs. Lara",
+            "date": [
+                "Jun / 29 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Joe Hernandez",
+            "event": "Bellator 193 - Larkin vs. Gonzalez",
+            "date": [
+                "Jan / 26 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Branko Busick",
+            "event": "Bellator 178 - Straus vs. Pitbull 4",
+            "date": [
+                "Apr / 21 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Will Johnson",
+            "event": "Bellator 171 - Guillard vs. Njokuani",
+            "date": [
+                "Jan / 27 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Cody Miskell",
+            "event": "Bellator 163 - McGeary vs. Davis",
+            "date": [
+                "Nov / 04 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:22"
+        }
+    ]
+}

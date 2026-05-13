@@ -1,0 +1,307 @@
+{
+    "name": [
+        "Dricus",
+        "Du",
+        "Plessis"
+    ],
+    "bioData": {
+        "age": 32,
+        "DOB": "14, Jan 1994",
+        "height": "6'0\" / 182.88cm",
+        "weightClass": "Middleweight",
+        "country": "South Africa"
+    },
+    "record": {
+        "wins": 23,
+        "losses": 3,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Khamzat Chimaev",
+            "event": "UFC 319 - Du Plessis vs. Chimaev",
+            "date": [
+                "Aug / 16 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sean Strickland",
+            "event": "UFC 312 - Du Plessis vs. Strickland 2",
+            "date": [
+                "Feb / 08 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Israel Adesanya",
+            "event": "UFC 305 - Du Plessis vs. Adesanya",
+            "date": [
+                "Aug / 17 / 2024"
+            ],
+            "method": "Submission (Face Crank)",
+            "round": "4",
+            "time": "3:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Sean Strickland",
+            "event": "UFC 297 - Strickland vs. Du Plessis",
+            "date": [
+                "Jan / 20 / 2024"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Robert Whittaker",
+            "event": "UFC 290 - Volkanovski vs. Rodriguez",
+            "date": [
+                "Jul / 08 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Derek Brunson",
+            "event": "UFC 285 - Jones vs. Gane",
+            "date": [
+                "Mar / 04 / 2023"
+            ],
+            "method": "TKO (Corner Stoppage)",
+            "round": "2",
+            "time": "4:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Darren Till",
+            "event": "UFC 282 - Blachowicz vs. Ankalaev",
+            "date": [
+                "Dec / 10 / 2022"
+            ],
+            "method": "Submission (Face Crank)",
+            "round": "3",
+            "time": "2:43"
+        },
+        {
+            "result": "win",
+            "opponent": "Brad Tavares",
+            "event": "UFC 276 - Adesanya vs. Cannonier",
+            "date": [
+                "Jul / 02 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Trevin Giles",
+            "event": "UFC 264 - Poirier vs. McGregor 3",
+            "date": [
+                "Jul / 10 / 2021"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "1:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Markus Perez",
+            "event": "UFC Fight Night 179 - Moraes vs. Sandhagen",
+            "date": [
+                "Oct / 10 / 2020"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Brendan Lesar",
+            "event": "EFC 83 - EFC Worldwide 83",
+            "date": [
+                "Dec / 14 / 2019"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "4:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Joilton Lutterbach",
+            "event": "KSW 50 - London",
+            "date": [
+                "Sep / 14 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:04"
+        },
+        {
+            "result": "loss",
+            "opponent": "Roberto Soldic",
+            "event": "KSW 45 - The Return to Wembley",
+            "date": [
+                "Oct / 06 / 2018"
+            ],
+            "method": "KO (Punches)",
+            "round": "3",
+            "time": "2:33"
+        },
+        {
+            "result": "win",
+            "opponent": "Roberto Soldic",
+            "event": "KSW 43 - Soldic vs. Du Plessis",
+            "date": [
+                "Apr / 14 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Yannick Bahati",
+            "event": "EFC 62 - EFC Worldwide 62",
+            "date": [
+                "Aug / 19 / 2017"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "1:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Mauricio da Rocha Jr.",
+            "event": "EFC 59 - EFC Worldwide 59",
+            "date": [
+                "May / 13 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:58"
+        },
+        {
+            "result": "win",
+            "opponent": "Rafal Haratyk",
+            "event": "EFC 56 - EFC Worldwide 56",
+            "date": [
+                "Dec / 09 / 2016"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "2",
+            "time": "3:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Martin van Staden",
+            "event": "EFC - Extreme Fighting Championship 50",
+            "date": [
+                "Jun / 17 / 2016"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "3",
+            "time": "3:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Bruno Belabela Mukulu",
+            "event": "EFC - Extreme Fighting Championship 46",
+            "date": [
+                "Dec / 12 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Dino Bagattin",
+            "event": "EFC - Extreme Fighting Championship 40",
+            "date": [
+                "Jun / 06 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:33"
+        },
+        {
+            "result": "win",
+            "opponent": "Darren Daniel",
+            "event": "EFC - Extreme Fighting Championship 37",
+            "date": [
+                "Feb / 21 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:50"
+        },
+        {
+            "result": "loss",
+            "opponent": "Garreth McLellan",
+            "event": "EFC - Extreme Fighting Championship 33",
+            "date": [
+                "Aug / 30 / 2014"
+            ],
+            "method": "Technical Submission (Guillotine Choke)",
+            "round": "3",
+            "time": "2:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Donavin Hawkey",
+            "event": "EFC Africa - Extreme Fighting Championship Africa 27",
+            "date": [
+                "Feb / 27 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Johannes Coenraad Lamprecht",
+            "event": "EFC Africa - Extreme Fighting Championship Africa 24",
+            "date": [
+                "Oct / 10 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "1:54"
+        },
+        {
+            "result": "win",
+            "opponent": "Bruno Belabela Mukulu",
+            "event": "EFC Africa - Extreme Fighting Championship Africa 23",
+            "date": [
+                "Sep / 12 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Tshikangu Makuebo",
+            "event": "EFC Africa - Extreme Fighting Championship Africa 21",
+            "date": [
+                "Jul / 25 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:18"
+        }
+    ]
+}

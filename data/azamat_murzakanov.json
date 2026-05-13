@@ -1,0 +1,207 @@
+{
+    "name": [
+        "Azamat",
+        "Murzakanov"
+    ],
+    "bioData": {
+        "age": 37,
+        "DOB": "12, Apr 1989",
+        "height": "5'11\" / 180.34cm",
+        "weightClass": "Heavyweight",
+        "country": "Russia"
+    },
+    "record": {
+        "wins": 16,
+        "losses": 1,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Paulo Costa",
+            "event": "UFC 327 - Prochazka vs. Ulberg",
+            "date": [
+                "Apr / 11 / 2026"
+            ],
+            "method": "TKO (Head Kick)",
+            "round": "3",
+            "time": "1:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Aleksandar Rakic",
+            "event": "UFC 321 - Aspinall vs. Gane",
+            "date": [
+                "Oct / 25 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:11"
+        },
+        {
+            "result": "win",
+            "opponent": "Brendson Ribeiro",
+            "event": "UFC 316 - Dvalishvili vs. O'Malley 2",
+            "date": [
+                "Jun / 07 / 2025"
+            ],
+            "method": "TKO (Submission to Punches)",
+            "round": "1",
+            "time": "3:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Alonzo Menifield",
+            "event": "UFC on ABC 7 - Sandhagen vs. Nurmagomedov",
+            "date": [
+                "Aug / 03 / 2024"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "3:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Dustin Jacoby",
+            "event": "UFC on ESPN 44 - Holloway vs. Allen",
+            "date": [
+                "Apr / 15 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Devin Clark",
+            "event": "UFC on ESPN 41 - Vera vs. Cruz",
+            "date": [
+                "Aug / 13 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "1:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Tafon Nchukwi",
+            "event": "UFC Fight Night 203 - Santos vs. Ankalaev",
+            "date": [
+                "Mar / 12 / 2022"
+            ],
+            "method": "KO (Flying Knee)",
+            "round": "3",
+            "time": "0:44"
+        },
+        {
+            "result": "win",
+            "opponent": "Matheus Scheffel",
+            "event": "Dana White's Contender Series - Contender Series 2021: Week 1",
+            "date": [
+                "Aug / 31 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Mohammad Fakhreddine",
+            "event": "Brave CF 29 - Brave Combat Federation 29: Torres vs. Adur",
+            "date": [
+                "Nov / 15 / 2019"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Guto Inocente",
+            "event": "Brave CF 29 - Brave Combat Federation 29: Torres vs. Adur",
+            "date": [
+                "Nov / 15 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Georgy Sakaev",
+            "event": "ACB 57 - Yan vs. Magomedov",
+            "date": [
+                "Apr / 15 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Andre Muniz",
+            "event": "ICFC / Tech-Krep FC - International Caucasian Fight Championship",
+            "date": [
+                "Oct / 02 / 2016"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Bogdan Bulakh",
+            "event": "Gladiator MMA Nalchik / Edinstvo Sport Club - Battle of Champions",
+            "date": [
+                "Jul / 23 / 2016"
+            ],
+            "method": "Submission (Neck Crank)",
+            "round": "1",
+            "time": "0:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Eric Ellerbee",
+            "event": "GPG 24 - Fighting for Wounded Soldiers",
+            "date": [
+                "May / 14 / 2016"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "1",
+            "time": "1:52"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexey Sidorenko",
+            "event": "EFN - Fight Nights Petersburg",
+            "date": [
+                "Oct / 23 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alec Hooben",
+            "event": "ROC 51 - Ring of Combat 51",
+            "date": [
+                "Jun / 05 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Anzor Hakimov",
+            "event": "ProFC - Union Nation Cup 5",
+            "date": [
+                "Feb / 13 / 2010"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:10"
+        }
+    ]
+}

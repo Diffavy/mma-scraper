@@ -1,0 +1,229 @@
+{
+    "name": [
+        "Khamzat",
+        "Chimaev"
+    ],
+    "bioData": {
+        "age": 32,
+        "DOB": "1, May 1994",
+        "height": "6'2\" / 187.96cm",
+        "weightClass": "Middleweight",
+        "country": "United Arab Emirates"
+    },
+    "record": {
+        "wins": 15,
+        "losses": 1,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Sean Strickland",
+            "event": "UFC 328 - Chimaev vs. Strickland",
+            "date": [
+                "May / 09 / 2026"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dricus Du Plessis",
+            "event": "UFC 319 - Du Plessis vs. Chimaev",
+            "date": [
+                "Aug / 16 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Robert Whittaker",
+            "event": "UFC 308 - Topuria vs. Holloway",
+            "date": [
+                "Oct / 26 / 2024"
+            ],
+            "method": "Submission (Face Crank)",
+            "round": "1",
+            "time": "3:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Kamaru Usman",
+            "event": "UFC 294 - Makhachev vs. Volkanovski 2",
+            "date": [
+                "Oct / 21 / 2023"
+            ],
+            "method": "Decision (Majority)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kevin Holland",
+            "event": "UFC 279 - Diaz vs. Ferguson",
+            "date": [
+                "Sep / 10 / 2022"
+            ],
+            "method": "Submission (Brabo Choke)",
+            "round": "1",
+            "time": "2:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Gilbert Burns",
+            "event": "UFC 273 - Volkanovski vs. Korean Zombie",
+            "date": [
+                "Apr / 09 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jingliang Li",
+            "event": "UFC 267 - Blachowicz vs. Teixeira",
+            "date": [
+                "Oct / 30 / 2021"
+            ],
+            "method": "Technical Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:16"
+        },
+        {
+            "result": "win",
+            "opponent": "Gerald Meerschaert",
+            "event": "UFC Fight Night 178 - Covington vs. Woodley",
+            "date": [
+                "Sep / 19 / 2020"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Rhys McKee",
+            "event": "UFC on ESPN 14 - Whittaker vs. Till",
+            "date": [
+                "Jul / 25 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:09"
+        },
+        {
+            "result": "win",
+            "opponent": "John Phillips",
+            "event": "UFC on ESPN 13 - Kattar vs. Ige",
+            "date": [
+                "Jul / 15 / 2020"
+            ],
+            "method": "Submission (Brabo Choke)",
+            "round": "2",
+            "time": "1:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Mzwandile Hlongwa",
+            "event": "Brave CF 27 - Abdouraguimov vs. Al-Silawi",
+            "date": [
+                "Oct / 04 / 2019"
+            ],
+            "method": "Technical Submission (Brabo Choke)",
+            "round": "2",
+            "time": "1:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Ikram Aliskerov",
+            "event": "Brave CF 23 - Pride & Honor",
+            "date": [
+                "Apr / 19 / 2019"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "2:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Sidney Wheeler",
+            "event": "Brave CF 20 - Chimaev vs. Sidney",
+            "date": [
+                "Dec / 22 / 2018"
+            ],
+            "method": "TKO (Submission to Punches)",
+            "round": "1",
+            "time": "0:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Marko Kisic",
+            "event": "Brave CF 18 - Mineiro vs. Selwady",
+            "date": [
+                "Nov / 16 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Ole Magnor",
+            "event": "FCR 3 - Fight Club Rush 3",
+            "date": [
+                "Aug / 18 / 2018"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Gard Olve Sagen",
+            "event": "IRFA - International Ring Fight Arena 14",
+            "date": [
+                "May / 26 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Adnan Music",
+            "event": "Nordic Warrior - Nordic Warrior 3",
+            "date": [
+                "Apr / 14 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:57"
+        },
+        {
+            "result": "win",
+            "opponent": "Danijel Grbic",
+            "event": "Kaisho Battle - Kaisho Battle 14",
+            "date": [
+                "Nov / 18 / 2017"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "2",
+            "time": "2:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Khaled Laallam",
+            "event": "FCR 1 - Fight Club Rush 1",
+            "date": [
+                "Sep / 10 / 2017"
+            ],
+            "method": "Submission (Brabo Choke)",
+            "round": "2",
+            "time": "2:06"
+        }
+    ]
+}

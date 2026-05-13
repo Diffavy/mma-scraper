@@ -128,7 +128,11 @@ def getFightersData(url):
 def saveFighter(url):
     fighterData = getFightersData(url)
 
-    fileName = fighterData["name"][0].lower() + "_" + fighterData["name"][1].lower()
+    if len(fighterData["name"]) == 3:  # For middle names
+        fileName = fighterData["name"][0].lower() + "_" + fighterData["name"][1].lower() + "_" + fighterData["name"][2].lower()
+    else:
+        fileName = fighterData["name"][0].lower() + "_" + fighterData["name"][1].lower()
+
     fighterName = " ".join(fighterData["name"])
 
     os.makedirs("data", exist_ok=True) # Create data directory if it doesn't exist
@@ -151,4 +155,4 @@ def saveFighter(url):
     
     print(f"Saved {fileName}.json")
 
-saveFighter("https://www.sherdog.com/fighter/Alexander-Volkov-40951")
+saveFighter("https://www.sherdog.com/fighter/Dricus-Du-Plessis-146193")

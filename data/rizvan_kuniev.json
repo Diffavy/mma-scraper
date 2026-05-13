@@ -1,0 +1,405 @@
+{
+    "name": [
+        "Rizvan",
+        "Kuniev"
+    ],
+    "bioData": {
+        "age": 34,
+        "DOB": "10, Mar 1992",
+        "height": "6'4\" / 193.04cm",
+        "weightClass": "Heavyweight",
+        "country": "Russia"
+    },
+    "record": {
+        "wins": 13,
+        "losses": 3,
+        "noContests": 1
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Jailton Almeida",
+            "event": "UFC Fight Night 266 - Bautista vs. Oliveira",
+            "date": [
+                "Feb / 07 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Curtis Blaydes",
+            "event": "UFC on ABC 8 - Hill vs. Rountree",
+            "date": [
+                "Jun / 21 / 2025"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Hugo Cunha",
+            "event": "Dana White's Contender Series - Contender Series 2024: Week 2",
+            "date": [
+                "Aug / 20 / 2024"
+            ],
+            "method": "TKO (Knee to the Body and Punches)",
+            "round": "1",
+            "time": "4:59"
+        },
+        {
+            "result": "NC",
+            "opponent": "Renan Ferreira",
+            "event": "Professional Fighters League - PFL 2: 2023 Regular Season",
+            "date": [
+                "Apr / 07 / 2023"
+            ],
+            "method": "No Contest (Overturned)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Anthony Hamilton",
+            "event": "EFC 46 - Eagle FC 46: Lee vs. Sanchez",
+            "date": [
+                "Mar / 11 / 2022"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "1:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Edivan Mineiro Santos",
+            "event": "Dana White's Contender Series - Contender Series 2021: Week 5",
+            "date": [
+                "Sep / 28 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "1:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Vladimir Daineko",
+            "event": "EFC 31 - Eagle Fighting Championship 31",
+            "date": [
+                "Dec / 19 / 2020"
+            ],
+            "method": "TKO (Corner Stoppage)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ruud Vernooij",
+            "event": "Eagles FC - Next Level",
+            "date": [
+                "Feb / 15 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Shamil Abasov",
+            "event": "GFC 16 - Gorilla Fighting 16",
+            "date": [
+                "Aug / 30 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "4:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Navid Yadegari",
+            "event": "Gorets FC - For The Prizes Of V. Zolotov",
+            "date": [
+                "Jul / 06 / 2019"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Jimenez",
+            "event": "UMC 1 - Ciumac vs. Ngeleka",
+            "date": [
+                "Jun / 02 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Konstantin Andreitsev",
+            "event": "ProFC 64 - Tibilov vs. Shvets",
+            "date": [
+                "Dec / 24 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Charles Andrade",
+            "event": "ProFC 63 - Gluhov vs. Wallace",
+            "date": [
+                "Sep / 10 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Justin Willis",
+            "event": "IGF - Inoki Genome Fight 4",
+            "date": [
+                "Aug / 29 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Darko Stosic",
+            "event": "TFC - Tesla Fighting Championship 4",
+            "date": [
+                "Jun / 14 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Mikhail Istomin",
+            "event": "VMC - Voronezh Mixfight Cup",
+            "date": [
+                "Jan / 20 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:00"
+        },
+        {
+            "result": "draw",
+            "opponent": "Ivan Gayvanovich",
+            "event": "WMMAF - WMAC 2011 Finals",
+            "date": [
+                "Oct / 09 / 2011"
+            ],
+            "method": "Draw",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Anatoli Ciumac",
+            "event": "WMMAF - WMAC 2011 Semifinals",
+            "date": [
+                "Oct / 08 / 2011"
+            ],
+            "method": "N/A",
+            "round": "0",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dmitriy Sekira",
+            "event": "WMMAA - 2018 European MMA Championships",
+            "date": [
+                "Oct / 13 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:29"
+        },
+        {
+            "result": "win",
+            "opponent": "Elgun Yusifov",
+            "event": "WMMAA - 2018 European MMA Championships",
+            "date": [
+                "Oct / 13 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Grigoriy Ponomarev",
+            "event": "Russian MMA Union - 2018 Russian Amateur MMA Championships, Finals",
+            "date": [
+                "May / 13 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Khuseyn Adamov",
+            "event": "Russian MMA Union - 2018 Russian Amateur MMA Championships, Day 1",
+            "date": [
+                "May / 12 / 2018"
+            ],
+            "method": "",
+            "round": "0",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Muhammad Said",
+            "event": "Russian MMA Union - 2018 Russian Amateur MMA Championships, Day 1",
+            "date": [
+                "May / 12 / 2018"
+            ],
+            "method": "",
+            "round": "0",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Bagrat Adamiya",
+            "event": "WMMAA - European MMA Championships - Finals",
+            "date": [
+                "Dec / 08 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Artem Budkevich",
+            "event": "WMMAA - European MMA Championships - Selection",
+            "date": [
+                "Dec / 07 / 2017"
+            ],
+            "method": "",
+            "round": "0",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Athanasios Barkas",
+            "event": "WMMAA - European MMA Championships - Selection",
+            "date": [
+                "Dec / 07 / 2017"
+            ],
+            "method": "",
+            "round": "0",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Evgeni Boldyrev",
+            "event": "M-1 Challenge 71 - Nemkov vs. Vegh",
+            "date": [
+                "Oct / 21 / 2016"
+            ],
+            "method": "TKO (Submission to Knees)",
+            "round": "1",
+            "time": "3:13"
+        },
+        {
+            "result": "loss",
+            "opponent": "Zaur Gadzhibabayev",
+            "event": "WMMAA - 2015 World MMA Championships - Selection",
+            "date": [
+                "Nov / 27 / 2015"
+            ],
+            "method": "",
+            "round": "0",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Andrey Kovalev",
+            "event": "WMMAA - 2015 World MMA Championships - Selection",
+            "date": [
+                "Nov / 27 / 2015"
+            ],
+            "method": "",
+            "round": "0",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sergey Saviankov",
+            "event": "WMMAA - 2015 World MMA Championships - Selection",
+            "date": [
+                "Nov / 27 / 2015"
+            ],
+            "method": "",
+            "round": "0",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Amirkhan Isagadzhiev",
+            "event": "Russian MMA Union - Omsk Cup",
+            "date": [
+                "May / 30 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Vladimir Daineko",
+            "event": "FEFoMP and Russian MMA Union - Russia's MMA Amateur Supercup",
+            "date": [
+                "Dec / 20 / 2014"
+            ],
+            "method": "Submission (Kimura)",
+            "round": "2",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sergey Dyakonov",
+            "event": "Russian MMA Union - Moscow Open Cup 2014, Day 1",
+            "date": [
+                "Nov / 28 / 2014"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "1:56"
+        },
+        {
+            "result": "loss",
+            "opponent": "Zaur Gadzhibabayev",
+            "event": "WMMAA - 2014 European Championships - Finals",
+            "date": [
+                "Nov / 16 / 2014"
+            ],
+            "method": "",
+            "round": "0",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Faraj Osloub",
+            "event": "WMMAA - 2014 European Championships - Selection",
+            "date": [
+                "Nov / 15 / 2014"
+            ],
+            "method": "",
+            "round": "0",
+            "time": "0:00"
+        }
+    ]
+}

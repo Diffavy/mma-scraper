@@ -1,0 +1,218 @@
+{
+    "name": [
+        "Jamahal",
+        "Hill"
+    ],
+    "bioData": {
+        "age": 34,
+        "DOB": "19, May 1991",
+        "height": "6'4\" / 193.04cm",
+        "weightClass": "Heavyweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 12,
+        "losses": 4,
+        "noContests": 1
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Khalil Rountree",
+            "event": "UFC on ABC 8 - Hill vs. Rountree",
+            "date": [
+                "Jun / 21 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jiri Prochazka",
+            "event": "UFC 311 - Makhachev vs. Moicano",
+            "date": [
+                "Jan / 18 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "3:01"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alex Pereira",
+            "event": "UFC 300 - Pereira vs. Hill",
+            "date": [
+                "Apr / 13 / 2024"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Glover Teixeira",
+            "event": "UFC 283 - Teixeira vs. Hill",
+            "date": [
+                "Jan / 21 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Thiago Santos",
+            "event": "UFC on ESPN 40 - Santos vs. Hill",
+            "date": [
+                "Aug / 06 / 2022"
+            ],
+            "method": "TKO (Punches and Elbows)",
+            "round": "4",
+            "time": "2:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Johnny Walker",
+            "event": "UFC Fight Night 201 - Walker vs. Hill",
+            "date": [
+                "Feb / 19 / 2022"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "2:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Jimmy Crute",
+            "event": "UFC on ESPN 31 - Font vs. Aldo",
+            "date": [
+                "Dec / 04 / 2021"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "0:48"
+        },
+        {
+            "result": "loss",
+            "opponent": "Paul Craig",
+            "event": "UFC 263 - Adesanya vs. Vettori 2",
+            "date": [
+                "Jun / 12 / 2021"
+            ],
+            "method": "TKO (Elbows and Punches)",
+            "round": "1",
+            "time": "1:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Ovince St. Preux",
+            "event": "UFC on ESPN 19 - Hermansson vs. Vettori",
+            "date": [
+                "Dec / 05 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:37"
+        },
+        {
+            "result": "NC",
+            "opponent": "Klidson Abreu",
+            "event": "UFC on ESPN 9 - Woodley vs. Burns",
+            "date": [
+                "May / 30 / 2020"
+            ],
+            "method": "No Contest (Overturned)",
+            "round": "1",
+            "time": "1:51"
+        },
+        {
+            "result": "win",
+            "opponent": "Darko Stosic",
+            "event": "UFC Fight Night 166 - Blaydes vs. dos Santos",
+            "date": [
+                "Jan / 25 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Poppeck",
+            "event": "Dana White's Contender Series - Season 3, Episode 5",
+            "date": [
+                "Jul / 23 / 2019"
+            ],
+            "method": "TKO (Punches and Elbows)",
+            "round": "2",
+            "time": "4:29"
+        },
+        {
+            "result": "win",
+            "opponent": "William Vincent",
+            "event": "Lights Out Championship 2 - Cross vs. Kuppe",
+            "date": [
+                "Feb / 16 / 2019"
+            ],
+            "method": "TKO (Retirement)",
+            "round": "1",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dequan Townsend",
+            "event": "KOP 62 - KnockOut Promotions 62",
+            "date": [
+                "Jun / 30 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "William Vincent",
+            "event": "KOP 61 - KnockOut Promotions 61",
+            "date": [
+                "Apr / 21 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Mike Johnson",
+            "event": "KOP 59 - KnockOut Promotions 59",
+            "date": [
+                "Dec / 16 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Alex Davidson",
+            "event": "KOP 58 - KnockOut Promotions 58",
+            "date": [
+                "Sep / 30 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dillion Ankney",
+            "event": "KOP 46 - Knockout Promotions",
+            "date": [
+                "Jan / 02 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:59"
+        }
+    ]
+}

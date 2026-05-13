@@ -1,0 +1,119 @@
+{
+    "name": [
+        "Josh",
+        "Hokit"
+    ],
+    "bioData": {
+        "age": 28,
+        "DOB": "12, Nov 1997",
+        "height": "6'1\" / 185.42cm",
+        "weightClass": "Heavyweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 9,
+        "losses": 0,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Apr / 11 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Josh Hokit",
+            "event": "UFC 327 - Prochazka vs. Ulberg",
+            "date": [
+                "Jan / 24 / 2026"
+            ],
+            "method": "TKO (Retirement)",
+            "round": "1",
+            "time": "4:59"
+        },
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "UFC 324 - Gaethje vs. Pimblett",
+            "date": [
+                "Nov / 08 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:56"
+        },
+        {
+            "result": "win",
+            "opponent": "Derrick Lewis",
+            "event": "UFC Fight Night 264 - Bonfim vs. Brown",
+            "date": [
+                "Aug / 19 / 2025"
+            ],
+            "method": "TKO (Elbows)",
+            "round": "2",
+            "time": "1:06"
+        },
+        {
+            "result": "win",
+            "opponent": "Curtis Blaydes",
+            "event": "Dana White's Contender Series - Contender Series 2025: Week 2",
+            "date": [
+                "May / 09 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Denzel Freeman",
+            "event": "LFA 208 - Mecate vs. Reyes",
+            "date": [
+                "Mar / 06 / 2025"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "0:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Max Gimenis",
+            "event": "LFA 203 - Satybaldiev vs. Soares",
+            "date": [
+                "Jan / 10 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Guilherme Uriel",
+            "event": "LFA 199 - Farias vs. Visconde",
+            "date": [
+                "Sep / 07 / 2024"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "4:58"
+        },
+        {
+            "result": "win",
+            "opponent": "Eric Lunsford",
+            "event": "Bellator Champions Series San Diego - Nurmagomedov vs. Shabliy",
+            "date": [
+                "Oct / 07 / 2023"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "3",
+            "time": "3:48"
+        }
+    ]
+}

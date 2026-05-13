@@ -1,0 +1,196 @@
+{
+    "name": [
+        "Alex",
+        "Pereira"
+    ],
+    "bioData": {
+        "age": 38,
+        "DOB": "7, Jul 1987",
+        "height": "6'4\" / 193.04cm",
+        "weightClass": "Heavyweight",
+        "country": "Brazil"
+    },
+    "record": {
+        "wins": 13,
+        "losses": 3,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Oct / 04 / 2025"
+            ],
+            "method": "TKO (Punches and Elbows)",
+            "round": "1",
+            "time": "1:20"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alex Pereira",
+            "event": "UFC 320 - Ankalaev vs. Pereira 2",
+            "date": [
+                "Mar / 08 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "UFC 313 - Pereira vs. Ankalaev",
+            "date": [
+                "Oct / 05 / 2024"
+            ],
+            "method": "TKO (Punches)",
+            "round": "4",
+            "time": "4:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Ciryl Gane",
+            "event": "UFC 307 - Pereira vs. Rountree",
+            "date": [
+                "Jun / 29 / 2024"
+            ],
+            "method": "TKO (Head Kick and Punches)",
+            "round": "2",
+            "time": "0:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Magomed Ankalaev",
+            "event": "UFC 303 - Pereira vs. Prochazka 2",
+            "date": [
+                "Apr / 13 / 2024"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Magomed Ankalaev",
+            "event": "UFC 300 - Pereira vs. Hill",
+            "date": [
+                "Nov / 11 / 2023"
+            ],
+            "method": "TKO (Elbows)",
+            "round": "2",
+            "time": "4:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Khalil Rountree",
+            "event": "UFC 295 - Prochazka vs. Pereira",
+            "date": [
+                "Jul / 29 / 2023"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jiri Prochazka",
+            "event": "UFC 291 - Poirier vs. Gaethje 2",
+            "date": [
+                "Apr / 08 / 2023"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "4:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Jamahal Hill",
+            "event": "UFC 287 - Pereira vs. Adesanya 2",
+            "date": [
+                "Nov / 12 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "5",
+            "time": "2:01"
+        },
+        {
+            "result": "win",
+            "opponent": "Jiri Prochazka",
+            "event": "UFC 281 - Adesanya vs. Pereira",
+            "date": [
+                "Jul / 02 / 2022"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "2:36"
+        },
+        {
+            "result": "win",
+            "opponent": "Jan Blachowicz",
+            "event": "UFC 276 - Adesanya vs. Cannonier",
+            "date": [
+                "Mar / 12 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Israel Adesanya",
+            "event": "UFC Fight Night 203 - Santos vs. Ankalaev",
+            "date": [
+                "Nov / 06 / 2021"
+            ],
+            "method": "TKO (Flying Knee and Punches)",
+            "round": "2",
+            "time": "0:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Israel Adesanya",
+            "event": "UFC 268 - Usman vs. Covington 2",
+            "date": [
+                "Nov / 20 / 2020"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "4:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Sean Strickland",
+            "event": "LFA 95 - Pereira vs. Powell",
+            "date": [
+                "May / 21 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Bruno Silva",
+            "event": "Jungle Fight 87 - Sao Paulo",
+            "date": [
+                "Jan / 23 / 2016"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "4:07"
+        },
+        {
+            "result": "loss",
+            "opponent": "Andreas Michailidis",
+            "event": "Jungle Fight 85 - Sao Paulo",
+            "date": [
+                "Oct / 24 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "2:52"
+        }
+    ]
+}
