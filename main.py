@@ -1,4 +1,4 @@
-import requests, re, cloudscraper, json
+import requests, re, cloudscraper, json, os
 from bs4 import BeautifulSoup
 
 
@@ -111,16 +111,30 @@ def getFightersData(url):
     return fighterData
 
 
-tomAspinallData = getFightersData("https://www.sherdog.com/fighter/Tom-Aspinall-65231")
-jonJonesData = getFightersData("https://www.sherdog.com/fighter/Jon-Jones-27944")
-
-def saveFighter(url, filename):
+def saveFighter(url):
     fighterData = getFightersData(url)
 
-    with open(f"{filename}.json", "w") as f:
+    fileName = fighterData["name"][0].lower() + "_" + fighterData["name"][1].lower()
+    fighterName = " ".join(fighterData["name"])
+
+    os.makedirs("data", exist_ok=True) # Create data directory if it doesn't exist
+    filepath = os.path.join("data", f"{fileName}.json") #Builds file path for fighter data independent of OS
+
+    data = {"name": fighterName, "filepath": filepath}
+    currFighters = []
+
+    if os.path.exists("fighters.json"): # Update fighters.json with new fighter entry
+        with open("fighters.json", "r") as f:
+            currFighters = json.load(f)
+    
+    currFighters.append(data)
+
+    with open("fighters.json", "w") as f:
+        json.dump(currFighters, f, indent= 4)
+    
+    with open(filepath, "w") as f:
         json.dump(fighterData, f, indent=4)
     
-    print(f"Saved {filename}.json")
+    print(f"Saved {fileName}.json")
 
-saveFighter("https://www.sherdog.com/fighter/Tom-Aspinall-65231", "tom_aspinall")
-saveFighter("https://www.sherdog.com/fighter/Jon-Jones-27944", "jon_jones")
+saveFighter("https://www.sherdog.com/fighter/Ciryl-Gane-293973")
