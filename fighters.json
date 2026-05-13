@@ -2,5 +2,13 @@
     {
         "name": "Tom Aspinall",
         "filepath": "data\\tom_aspinall.json"
+    },
+    {
+        "name": "Ciryl Gane",
+        "filepath": "data\\ciryl_gane.json"
+    },
+    {
+        "name": "Alexander Volkov",
+        "filepath": "data\\alexander_volkov.json"
     }
 ]

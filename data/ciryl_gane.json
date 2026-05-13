@@ -1,0 +1,196 @@
+{
+    "name": [
+        "Ciryl",
+        "Gane"
+    ],
+    "bioData": {
+        "age": 36,
+        "DOB": "6, May 1990",
+        "height": "6'5\" / 195.58cm",
+        "weightClass": "Heavyweight",
+        "country": "France"
+    },
+    "record": {
+        "wins": 13,
+        "losses": 2,
+        "noContests": 1
+    },
+    "fights": [
+        {
+            "result": "NC",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Oct / 25 / 2025"
+            ],
+            "method": "No Contest (Accidental Eye Poke)",
+            "round": "1",
+            "time": "4:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Ciryl Gane",
+            "event": "UFC 321 - Aspinall vs. Gane",
+            "date": [
+                "Dec / 07 / 2024"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "UFC 310 - Pantoja vs. Asakura",
+            "date": [
+                "Sep / 02 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:44"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alex Pereira",
+            "event": "UFC Fight Night 226 - Gane vs. Spivak",
+            "date": [
+                "Mar / 04 / 2023"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "2:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Tom Aspinall",
+            "event": "UFC 285 - Jones vs. Gane",
+            "date": [
+                "Sep / 03 / 2022"
+            ],
+            "method": "KO (Punches)",
+            "round": "3",
+            "time": "4:23"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alexander Volkov",
+            "event": "UFC Fight Night 209 - Gane vs. Tuivasa",
+            "date": [
+                "Jan / 22 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Serghei Spivac",
+            "event": "UFC 270 - Ngannou vs. Gane",
+            "date": [
+                "Aug / 07 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "4:11"
+        },
+        {
+            "result": "win",
+            "opponent": "Jon Jones",
+            "event": "UFC 265 - Lewis vs. Gane",
+            "date": [
+                "Jun / 26 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Tai Tuivasa",
+            "event": "UFC Fight Night 190 - Gane vs. Volkov",
+            "date": [
+                "Feb / 27 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Francis Ngannou",
+            "event": "UFC Fight Night 186 - Rozenstruik vs. Gane",
+            "date": [
+                "Dec / 12 / 2020"
+            ],
+            "method": "TKO (Elbow)",
+            "round": "2",
+            "time": "2:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Derrick Lewis",
+            "event": "UFC 256 - Figueiredo vs. Moreno",
+            "date": [
+                "Dec / 21 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Volkov",
+            "event": "UFC Fight Night 165 - Edgar vs. Korean Zombie",
+            "date": [
+                "Oct / 26 / 2019"
+            ],
+            "method": "Submission (Heel Hook)",
+            "round": "3",
+            "time": "4:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Jairzinho Rozenstruik",
+            "event": "UFC Fight Night 162 - Maia vs. Askren",
+            "date": [
+                "Aug / 10 / 2019"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "1",
+            "time": "4:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Junior dos Santos",
+            "event": "UFC Fight Night 156 - Shevchenko vs. Carmouche 2",
+            "date": [
+                "May / 24 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Tanner Boser",
+            "event": "TKO 48 - Sousa vs. Gane",
+            "date": [
+                "Sep / 21 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:57"
+        },
+        {
+            "result": "win",
+            "opponent": "Don'Tale Mayes",
+            "event": "TKO 44 - Hunter vs. Barriault",
+            "date": [
+                "Aug / 02 / 2018"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "1:42"
+        }
+    ]
+}

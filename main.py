@@ -39,19 +39,33 @@ def getBioData(soup):
 
 
 def getRecord(soup):
-    win = soup.find("div", class_="winloses win").text
-    lose = soup.find("div", class_="winloses lose").text
-    noContest = soup.find("div", class_="winloses nc").text
-    
-    winRec = win.replace("Wins", "").strip()
-    loseRec = lose.replace("Losses", "").strip()
-    noContestRec = noContest.replace("N/C", "").strip()
+    try: 
+        win = soup.find("div", class_="winloses win").text
+        lose = soup.find("div", class_="winloses lose").text
+        noContest = soup.find("div", class_="winloses nc").text
+        
+        winRec = win.replace("Wins", "").strip()
+        loseRec = lose.replace("Losses", "").strip()
+        noContestRec = noContest.replace("N/C", "").strip()
 
-    return {
-        "wins": int(winRec),
-        "losses": int(loseRec),
-        "noContests": int(noContestRec)
-    }
+        return {
+            "wins": int(winRec),
+            "losses": int(loseRec),
+            "noContests": int(noContestRec)
+        }
+    except:
+        win = soup.find("div", class_="winloses win").text
+        lose = soup.find("div", class_="winloses lose").text
+        
+        winRec = win.replace("Wins", "").strip()
+        loseRec = lose.replace("Losses", "").strip()
+        noContestRec = "0"
+        return {
+            "wins": int(winRec),
+            "losses": int(loseRec),
+            "noContests": int(noContestRec)
+        }
+        
 
 def getFights(soup):
     results = soup.find_all("span", class_="final_result")
@@ -137,4 +151,4 @@ def saveFighter(url):
     
     print(f"Saved {fileName}.json")
 
-saveFighter("https://www.sherdog.com/fighter/Ciryl-Gane-293973")
+saveFighter("https://www.sherdog.com/fighter/Alexander-Volkov-40951")

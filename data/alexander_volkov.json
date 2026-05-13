@@ -1,0 +1,581 @@
+{
+    "name": [
+        "Alexander",
+        "Volkov"
+    ],
+    "bioData": {
+        "age": 37,
+        "DOB": "24, Oct 1988",
+        "height": "6'7\" / 200.66cm",
+        "weightClass": "Heavyweight",
+        "country": "Russia"
+    },
+    "record": {
+        "wins": 40,
+        "losses": 11,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Waldo Cortes-Acosta",
+            "event": "UFC 328 - Chimaev vs. Strickland",
+            "date": [
+                "May / 09 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jailton Almeida",
+            "event": "UFC 321 - Aspinall vs. Gane",
+            "date": [
+                "Oct / 25 / 2025"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ciryl Gane",
+            "event": "UFC 310 - Pantoja vs. Asakura",
+            "date": [
+                "Dec / 07 / 2024"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sergei Pavlovich",
+            "event": "UFC on ABC 6 - Whittaker vs. Aliskerov",
+            "date": [
+                "Jun / 22 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Tai Tuivasa",
+            "event": "UFC 293 - Adesanya vs. Strickland",
+            "date": [
+                "Sep / 09 / 2023"
+            ],
+            "method": "Submission (Ezekiel Choke)",
+            "round": "2",
+            "time": "4:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Romanov",
+            "event": "UFC Fight Night 221 - Yan vs. Dvalishvili",
+            "date": [
+                "Mar / 11 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:16"
+        },
+        {
+            "result": "win",
+            "opponent": "Jairzinho Rozenstruik",
+            "event": "UFC Fight Night 207 - Volkov vs. Rozenstruik",
+            "date": [
+                "Jun / 04 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:12"
+        },
+        {
+            "result": "loss",
+            "opponent": "Tom Aspinall",
+            "event": "UFC Fight Night 204 - Volkov vs. Aspinall",
+            "date": [
+                "Mar / 19 / 2022"
+            ],
+            "method": "Submission (Straight Armbar)",
+            "round": "1",
+            "time": "3:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Marcin Tybura",
+            "event": "UFC 267 - Blachowicz vs. Teixeira",
+            "date": [
+                "Oct / 30 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ciryl Gane",
+            "event": "UFC Fight Night 190 - Gane vs. Volkov",
+            "date": [
+                "Jun / 26 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alistair Overeem",
+            "event": "UFC Fight Night 184 - Overeem vs. Volkov",
+            "date": [
+                "Feb / 06 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:06"
+        },
+        {
+            "result": "win",
+            "opponent": "Walt Harris",
+            "event": "UFC 254 - Nurmagomedov vs. Gaethje",
+            "date": [
+                "Oct / 24 / 2020"
+            ],
+            "method": "TKO (Front Kick to the Body and Punches)",
+            "round": "2",
+            "time": "1:15"
+        },
+        {
+            "result": "loss",
+            "opponent": "Curtis Blaydes",
+            "event": "UFC on ESPN 11 - Blaydes vs. Volkov",
+            "date": [
+                "Jun / 20 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Greg Hardy",
+            "event": "UFC Fight Night 163 - Magomedsharipov vs. Kattar",
+            "date": [
+                "Nov / 09 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Derrick Lewis",
+            "event": "UFC 229 - Nurmagomedov vs. McGregor",
+            "date": [
+                "Oct / 06 / 2018"
+            ],
+            "method": "KO (Punches)",
+            "round": "3",
+            "time": "4:49"
+        },
+        {
+            "result": "win",
+            "opponent": "Fabricio Werdum",
+            "event": "UFC Fight Night 127 - Werdum vs. Volkov",
+            "date": [
+                "Mar / 17 / 2018"
+            ],
+            "method": "KO (Punches)",
+            "round": "4",
+            "time": "1:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Stefan Struve",
+            "event": "UFC Fight Night 115 - Volkov vs. Struve",
+            "date": [
+                "Sep / 02 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "3:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Roy Nelson",
+            "event": "UFC on Fox 24 - Johnson vs. Reis",
+            "date": [
+                "Apr / 15 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Tim Johnson",
+            "event": "UFC Fight Night 99 - Mousasi vs. Hall 2",
+            "date": [
+                "Nov / 19 / 2016"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Attila Vegh",
+            "event": "M-1 Challenge 68 - Shlemenko vs. Vasilevsky 2",
+            "date": [
+                "Jun / 16 / 2016"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "2:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Denis Smoldarev",
+            "event": "M-1 Challenge 64 - Shlemenko vs. Vasilevsky",
+            "date": [
+                "Feb / 19 / 2016"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "3",
+            "time": "0:41"
+        },
+        {
+            "result": "loss",
+            "opponent": "Cheick Kongo",
+            "event": "Bellator 139 - Kongo vs. Volkov",
+            "date": [
+                "Jun / 26 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Tony Johnson",
+            "event": "Bellator 136 - Brooks vs. Jansen",
+            "date": [
+                "Apr / 10 / 2015"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexei Kudin",
+            "event": "UMMAP - Union MMA Pro",
+            "date": [
+                "Feb / 21 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Roy Boughton",
+            "event": "Tech-Krep FC - Battle of Heroes",
+            "date": [
+                "Dec / 12 / 2014"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "1",
+            "time": "0:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Blagoy Ivanov",
+            "event": "Bellator MMA - Bellator 120",
+            "date": [
+                "May / 17 / 2014"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Siala-Mou Siliga",
+            "event": "Bellator MMA - Bellator 116",
+            "date": [
+                "Apr / 11 / 2014"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "1",
+            "time": "2:44"
+        },
+        {
+            "result": "win",
+            "opponent": "Mark Holata",
+            "event": "Bellator MMA - Bellator 111",
+            "date": [
+                "Mar / 07 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:21"
+        },
+        {
+            "result": "loss",
+            "opponent": "Vitaly Minakov",
+            "event": "Bellator MMA - Bellator 108",
+            "date": [
+                "Nov / 15 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:57"
+        },
+        {
+            "result": "win",
+            "opponent": "Rich Hale",
+            "event": "BFC - Bellator Fighting Championships 84",
+            "date": [
+                "Dec / 14 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Vinicius Kappke de Queiroz",
+            "event": "BFC - Bellator Fighting Championships 80",
+            "date": [
+                "Nov / 09 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Brett Rogers",
+            "event": "BFC - Bellator Fighting Championships 75",
+            "date": [
+                "Oct / 05 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Stefan Stankovic",
+            "event": "FEFoMP - Mayor Cup 2012",
+            "date": [
+                "May / 26 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Ricco Rodriguez",
+            "event": "BF - Baltic Challenge 3",
+            "date": [
+                "Feb / 23 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Arsen Abdulkerimov",
+            "event": "M-1 Global - Fedor vs. Monson",
+            "date": [
+                "Nov / 20 / 2011"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Bakhodir Ibragimov",
+            "event": "MMACC - MMA Corona Cup 1",
+            "date": [
+                "Oct / 07 / 2011"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Nedyalko Karadjov",
+            "event": "League S-70 - Russia vs. Brazil",
+            "date": [
+                "Aug / 05 / 2011"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Denis Goltsov",
+            "event": "M-1 Challenge 25 - Zavurov vs. Enomoto",
+            "date": [
+                "Apr / 28 / 2011"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:05"
+        },
+        {
+            "result": "win",
+            "opponent": "Ruslan Chapko",
+            "event": "VHTHFF - Interregional MMA Cup 2011",
+            "date": [
+                "Jan / 14 / 2011"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:47"
+        },
+        {
+            "result": "loss",
+            "opponent": "Pat Bennett",
+            "event": "M-1 Challenge 22 - Narkun vs. Vasilevsky",
+            "date": [
+                "Dec / 10 / 2010"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "4",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Evgeni Babich",
+            "event": "LM - Tournament 3",
+            "date": [
+                "Sep / 18 / 2010"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:10"
+        },
+        {
+            "result": "win",
+            "opponent": "Eldar Yagudin",
+            "event": "Ratnoe Pole - The First Battlefield",
+            "date": [
+                "Aug / 07 / 2010"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:34"
+        },
+        {
+            "result": "loss",
+            "opponent": "Maxim Grishin",
+            "event": "M-1 Selection 2010 - Eastern Europe Finals",
+            "date": [
+                "Jul / 22 / 2010"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Romaschenko",
+            "event": "M-1 Selection 2010 - Eastern Europe Round 3",
+            "date": [
+                "May / 28 / 2010"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Vitalii Yalovenko",
+            "event": "M-1 Selection 2010 - Eastern Europe Round 2",
+            "date": [
+                "Apr / 10 / 2010"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "2",
+            "time": "1:05"
+        },
+        {
+            "result": "win",
+            "opponent": "Ibragim Magomedov",
+            "event": "M-1 Challenge 20 - 2009 Finals",
+            "date": [
+                "Dec / 03 / 2009"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Smbat Zakaryan",
+            "event": "ProFC - Union Nation Cup 3",
+            "date": [
+                "Oct / 30 / 2009"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Abdulkhalik Magomedov",
+            "event": "M-1 Challenge - 2009 Selections 8",
+            "date": [
+                "Oct / 04 / 2009"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:43"
+        },
+        {
+            "result": "loss",
+            "opponent": "Akhmed Sultanov",
+            "event": "M-1 Challenge - 2009 Selections 4",
+            "date": [
+                "Jun / 24 / 2009"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "2:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Adam Alikhanov",
+            "event": "M-1 Challenge - 2009 Selections 3",
+            "date": [
+                "May / 28 / 2009"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Nikolay Pleshakov",
+            "event": "M-1 Challenge - 2009 Selections 2",
+            "date": [
+                "Apr / 19 / 2009"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:20"
+        }
+    ]
+}
