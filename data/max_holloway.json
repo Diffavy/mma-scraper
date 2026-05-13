@@ -1,0 +1,427 @@
+{
+    "name": [
+        "Max",
+        "Holloway"
+    ],
+    "bioData": {
+        "age": 34,
+        "DOB": "4, Dec 1991",
+        "height": "5'11\" / 180.34cm",
+        "weightClass": "Lightweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 27,
+        "losses": 9,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Charles Oliveira",
+            "event": "UFC 326 - Holloway vs. Oliveira 2",
+            "date": [
+                "Mar / 07 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dustin Poirier",
+            "event": "UFC 318 - Holloway vs. Poirier 3",
+            "date": [
+                "Jul / 19 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ilia Topuria",
+            "event": "UFC 308 - Topuria vs. Holloway",
+            "date": [
+                "Oct / 26 / 2024"
+            ],
+            "method": "KO (Punches)",
+            "round": "3",
+            "time": "1:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Justin Gaethje",
+            "event": "UFC 300 - Pereira vs. Hill",
+            "date": [
+                "Apr / 13 / 2024"
+            ],
+            "method": "KO (Punch)",
+            "round": "5",
+            "time": "4:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Chan Sung Jung",
+            "event": "UFC Fight Night 225 - Holloway vs. Korean Zombie",
+            "date": [
+                "Aug / 26 / 2023"
+            ],
+            "method": "KO (Punch)",
+            "round": "3",
+            "time": "0:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Arnold Allen",
+            "event": "UFC on ESPN 44 - Holloway vs. Allen",
+            "date": [
+                "Apr / 15 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alexander Volkanovski",
+            "event": "UFC 276 - Adesanya vs. Cannonier",
+            "date": [
+                "Jul / 02 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Yair Rodriguez",
+            "event": "UFC Fight Night 197 - Holloway vs. Rodriguez",
+            "date": [
+                "Nov / 13 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Calvin Kattar",
+            "event": "UFC on ABC 1 - Holloway vs. Kattar",
+            "date": [
+                "Jan / 16 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alexander Volkanovski",
+            "event": "UFC 251 - Usman vs. Masvidal",
+            "date": [
+                "Jul / 11 / 2020"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alexander Volkanovski",
+            "event": "UFC 245 - Usman vs. Covington",
+            "date": [
+                "Dec / 14 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Frankie Edgar",
+            "event": "UFC 240 - Holloway vs. Edgar",
+            "date": [
+                "Jul / 27 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Dustin Poirier",
+            "event": "UFC 236 - Holloway vs. Poirier",
+            "date": [
+                "Apr / 13 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brian Ortega",
+            "event": "UFC 231 - Holloway vs. Ortega",
+            "date": [
+                "Dec / 08 / 2018"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "4",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Aldo",
+            "event": "UFC 218 - Holloway vs. Aldo 2",
+            "date": [
+                "Dec / 02 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "4:51"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Aldo",
+            "event": "UFC 212 - Aldo vs. Holloway",
+            "date": [
+                "Jun / 03 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "4:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Anthony Pettis",
+            "event": "UFC 206 - Holloway vs. Pettis",
+            "date": [
+                "Dec / 10 / 2016"
+            ],
+            "method": "TKO (Body Kick and Punches)",
+            "round": "3",
+            "time": "4:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Ricardo Lamas",
+            "event": "UFC 199 - Rockhold vs. Bisping 2",
+            "date": [
+                "Jun / 04 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jeremy Stephens",
+            "event": "UFC 194 - Aldo vs. McGregor",
+            "date": [
+                "Dec / 12 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Charles Oliveira",
+            "event": "UFC Fight Night 74 - Holloway vs. Oliveira",
+            "date": [
+                "Aug / 23 / 2015"
+            ],
+            "method": "TKO (Esophagus Injury)",
+            "round": "1",
+            "time": "1:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Cub Swanson",
+            "event": "UFC on Fox 15 - Machida vs. Rockhold",
+            "date": [
+                "Apr / 18 / 2015"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "3",
+            "time": "3:58"
+        },
+        {
+            "result": "win",
+            "opponent": "Cole  Miller",
+            "event": "UFC Fight Night 60 - Henderson vs. Thatch",
+            "date": [
+                "Feb / 14 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Akira Corassani",
+            "event": "UFC Fight Night 53 - Nelson vs. Story",
+            "date": [
+                "Oct / 04 / 2014"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:11"
+        },
+        {
+            "result": "win",
+            "opponent": "Clay Collard",
+            "event": "UFC Fight Night 49 - Henderson vs. dos Anjos",
+            "date": [
+                "Aug / 23 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "3:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Andre Fili",
+            "event": "UFC 172 - Jones vs. Teixeira",
+            "date": [
+                "Apr / 26 / 2014"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "3",
+            "time": "3:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Will Chope",
+            "event": "UFC Fight Night 34 - Saffiedine vs. Lim",
+            "date": [
+                "Jan / 04 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:27"
+        },
+        {
+            "result": "loss",
+            "opponent": "Conor McGregor",
+            "event": "UFC Fight Night 26 - Shogun vs. Sonnen",
+            "date": [
+                "Aug / 17 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Dennis Bermudez",
+            "event": "UFC 160 - Velasquez vs. Bigfoot 2",
+            "date": [
+                "May / 25 / 2013"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Leonard Garcia",
+            "event": "UFC 155 - Dos Santos vs. Velasquez 2",
+            "date": [
+                "Dec / 29 / 2012"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Justin Lawrence",
+            "event": "UFC 150 - Henderson vs. Edgar 2",
+            "date": [
+                "Aug / 11 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:49"
+        },
+        {
+            "result": "win",
+            "opponent": "Pat Schilling",
+            "event": "UFC - The Ultimate Fighter 15 Finale",
+            "date": [
+                "Jun / 01 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Dustin Poirier",
+            "event": "UFC 143 - Diaz vs. Condit",
+            "date": [
+                "Feb / 04 / 2012"
+            ],
+            "method": "Submission (Triangle Armbar)",
+            "round": "1",
+            "time": "3:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Eddie Rincon",
+            "event": "UIC 4 - War on the Valley Isle",
+            "date": [
+                "Jul / 01 / 2011"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Harris Sarmiento",
+            "event": "X-1 - Champions 3",
+            "date": [
+                "Mar / 12 / 2011"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Bryson Kamaka",
+            "event": "X-1 - Island Pride",
+            "date": [
+                "Nov / 06 / 2010"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Duke Saragosa",
+            "event": "X-1 - Heroes",
+            "date": [
+                "Sep / 11 / 2010"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Cory Rosa",
+            "event": "Destiny MMA - Maui No Ka'oi 2",
+            "date": [
+                "Mar / 27 / 2010"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "1:11"
+        }
+    ]
+}

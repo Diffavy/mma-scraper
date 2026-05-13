@@ -1,0 +1,449 @@
+{
+    "name": [
+        "Brendan",
+        "Allen"
+    ],
+    "bioData": {
+        "age": 30,
+        "DOB": "28, Dec 1995",
+        "height": "6'2\" / 187.96cm",
+        "weightClass": "Middleweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 26,
+        "losses": 7,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Oct / 18 / 2025"
+            ],
+            "method": "TKO (Corner Stoppage)",
+            "round": "4",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brendan Allen",
+            "event": "UFC Fight Night 262 - De Ridder vs. Allen",
+            "date": [
+                "Jul / 19 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "",
+            "event": "UFC 318 - Holloway vs. Poirier 3",
+            "date": [
+                "Feb / 22 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Edmen Shahbazyan",
+            "event": "UFC Fight Night 252 - Cejudo vs. Song",
+            "date": [
+                "Sep / 28 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Reinier de Ridder",
+            "event": "UFC Fight Night 243 - Moicano vs. St. Denis",
+            "date": [
+                "Apr / 06 / 2024"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marvin Vettori",
+            "event": "UFC Fight Night 240 - Allen vs. Curtis 2",
+            "date": [
+                "Nov / 18 / 2023"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "0:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Anthony Hernandez",
+            "event": "UFC Fight Night 232 - Allen vs. Craig",
+            "date": [
+                "Jun / 24 / 2023"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Nassourdine Imavov",
+            "event": "UFC on ABC 5 - Emmett vs. Topuria",
+            "date": [
+                "Feb / 25 / 2023"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "4:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Chris Curtis",
+            "event": "UFC Fight Night 220 - Muniz vs. Allen",
+            "date": [
+                "Oct / 01 / 2022"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Paul Craig",
+            "event": "UFC Fight Night 211 - Dern vs. Yan",
+            "date": [
+                "Jun / 12 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Bruno Silva",
+            "event": "UFC 275 - Teixeira vs. Prochazka",
+            "date": [
+                "Feb / 05 / 2022"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:10"
+        },
+        {
+            "result": "loss",
+            "opponent": "Andre Muniz",
+            "event": "UFC Fight Night 200 - Hermansson vs. Strickland",
+            "date": [
+                "Dec / 04 / 2021"
+            ],
+            "method": "TKO (Punches and Knees)",
+            "round": "2",
+            "time": "1:58"
+        },
+        {
+            "result": "win",
+            "opponent": "Krzysztof Jotko",
+            "event": "UFC on ESPN 31 - Font vs. Aldo",
+            "date": [
+                "Jul / 24 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jacob Malkoun",
+            "event": "UFC on ESPN 27 - Sandhagen vs. Dillashaw",
+            "date": [
+                "Apr / 24 / 2021"
+            ],
+            "method": "Submission (Ankle Lock)",
+            "round": "1",
+            "time": "4:55"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sam Alvey",
+            "event": "UFC 261 - Usman vs. Masvidal 2",
+            "date": [
+                "Nov / 14 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Chris Curtis",
+            "event": "UFC Fight Night 182 - Felder vs. dos Anjos",
+            "date": [
+                "Jun / 27 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Punahele Soriano",
+            "event": "UFC on ESPN 12 - Poirier vs. Hooker",
+            "date": [
+                "Feb / 29 / 2020"
+            ],
+            "method": "TKO (Elbows and Punches)",
+            "round": "1",
+            "time": "4:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Karl Roberson",
+            "event": "UFC Fight Night 169 - Benavidez vs. Figueiredo",
+            "date": [
+                "Oct / 18 / 2019"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Sean Strickland",
+            "event": "UFC on ESPN 6 - Reyes vs. Weidman",
+            "date": [
+                "Jul / 16 / 2019"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Kyle Daukaus",
+            "event": "Dana White's Contender Series - Season 3, Episode 4",
+            "date": [
+                "Feb / 22 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Tom Breese",
+            "event": "LFA 61 - Allen vs. Murrietta",
+            "date": [
+                "Sep / 21 / 2018"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "3:16"
+        },
+        {
+            "result": "win",
+            "opponent": "Kevin Holland",
+            "event": "LFA 50 - Allen vs. Hiley",
+            "date": [
+                "Jun / 22 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:06"
+        },
+        {
+            "result": "loss",
+            "opponent": "Aaron Jeffery",
+            "event": "LFA 43 - Allen vs. Crowe",
+            "date": [
+                "Jan / 26 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Moses Murrietta",
+            "event": "LFA 32 - Allen vs. Hernandez",
+            "date": [
+                "Aug / 04 / 2017"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "2",
+            "time": "1:22"
+        },
+        {
+            "result": "loss",
+            "opponent": "Tim Hiley",
+            "event": "LFA 18 - Aguilar vs. Rader",
+            "date": [
+                "Jun / 23 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Larry Crowe",
+            "event": "LFA 14 - Rivera vs. Sanchez",
+            "date": [
+                "Feb / 10 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Anthony Hernandez",
+            "event": "LFA 3 - Spann vs. Giles",
+            "date": [
+                "Dec / 02 / 2016"
+            ],
+            "method": "Submission (Keylock)",
+            "round": "2",
+            "time": "0:29"
+        },
+        {
+            "result": "win",
+            "opponent": "Chris Harris",
+            "event": "Valor Fights 39 - Wheeler vs. Allen",
+            "date": [
+                "Sep / 23 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Eryk Anders",
+            "event": "MCF Productions - MCFP 2",
+            "date": [
+                "Jul / 22 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:54"
+        },
+        {
+            "result": "win",
+            "opponent": "Jon Kirk",
+            "event": "LFC 58 - Legacy Fighting Championship 58",
+            "date": [
+                "May / 14 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:26"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sidney Wheeler",
+            "event": "WFC - World Fighting Championships 52",
+            "date": [
+                "Mar / 25 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Matt Jones",
+            "event": "LFC 52 - Legacy Fighting Championship 52",
+            "date": [
+                "Jan / 09 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:03"
+        },
+        {
+            "result": "win",
+            "opponent": "Clovis Hancock",
+            "event": "WFC - World Fighting Championships 46",
+            "date": [
+                "Aug / 22 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Charlie Rader",
+            "event": "WFC - World Fighting Championships 42",
+            "date": [
+                "Jul / 11 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:02"
+        },
+        {
+            "result": "win",
+            "opponent": "Trevin Giles",
+            "event": "Tuff-N-Uff - 2015 IMMAF World Championships: Day 5, Cage B",
+            "date": [
+                "Jul / 09 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:03"
+        },
+        {
+            "result": "win",
+            "opponent": "Kory Moegenburg",
+            "event": "Tuff-N-Uff - 2015 IMMAF World Championships: Day 4, Cage A",
+            "date": [
+                "Jul / 06 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Zebulon Stroud",
+            "event": "Tuff-N-Uff - 2015 IMMAF World Championships: Day 1, Cage A",
+            "date": [
+                "May / 09 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "James Duckett",
+            "event": "Midwest Fight League - 2015 US Nationals Day 3",
+            "date": [
+                "May / 07 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:16"
+        },
+        {
+            "result": "win",
+            "opponent": "Imad Alhowayeck",
+            "event": "Midwest Fight League - 2015 US Nationals Day 1",
+            "date": [
+                "Nov / 01 / 2014"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "2:57"
+        }
+    ]
+}

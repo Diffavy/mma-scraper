@@ -1,0 +1,350 @@
+{
+    "name": [
+        "Belal",
+        "Muhammad"
+    ],
+    "bioData": {
+        "age": 37,
+        "DOB": "9, Jul 1988",
+        "height": "5'10\" / 177.8cm",
+        "weightClass": "Welterweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 24,
+        "losses": 5,
+        "noContests": 1
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Nov / 22 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Belal Muhammad",
+            "event": "UFC Fight Night 265 - Tsarukyan vs. Hooker",
+            "date": [
+                "May / 10 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "UFC 315 - Muhammad vs. Della Maddalena",
+            "date": [
+                "Jul / 27 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Gabriel Bonfim",
+            "event": "UFC 304 - Edwards vs. Muhammad 2",
+            "date": [
+                "May / 06 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ian Garry",
+            "event": "UFC 288 - Sterling vs. Cejudo",
+            "date": [
+                "Oct / 22 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Jack Della Maddalena",
+            "event": "UFC 280 - Oliveira vs. Makhachev",
+            "date": [
+                "Apr / 16 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Leon Edwards",
+            "event": "UFC on ESPN 34 - Luque vs. Muhammad 2",
+            "date": [
+                "Dec / 18 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Gilbert Burns",
+            "event": "UFC Fight Night 199 - Lewis vs. Daukaus",
+            "date": [
+                "Jun / 12 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "NC",
+            "opponent": "Sean Brady",
+            "event": "UFC 263 - Adesanya vs. Vettori 2",
+            "date": [
+                "Mar / 13 / 2021"
+            ],
+            "method": "No Contest (Accidental Eye Poke)",
+            "round": "2",
+            "time": "0:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Vicente Luque",
+            "event": "UFC Fight Night 187 - Edwards vs. Muhammad",
+            "date": [
+                "Feb / 13 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Stephen Thompson",
+            "event": "UFC 258 - Usman vs. Burns",
+            "date": [
+                "Jun / 20 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Demian Maia",
+            "event": "UFC on ESPN 11 - Blaydes vs. Volkov",
+            "date": [
+                "Sep / 07 / 2019"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "1:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Leon Edwards",
+            "event": "UFC 242 - Khabib vs. Poirier",
+            "date": [
+                "Apr / 13 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Dhiego Lima",
+            "event": "UFC 236 - Holloway vs. Poirier",
+            "date": [
+                "Jan / 19 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Lyman Good",
+            "event": "UFC Fight Night 143 - Cejudo vs. Dillashaw",
+            "date": [
+                "Jun / 01 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Takashi Sato",
+            "event": "UFC Fight Night 131 - Rivera vs. Moraes",
+            "date": [
+                "Nov / 18 / 2017"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Curtis Millender",
+            "event": "UFC Fight Night 121 - Werdum vs. Tybura",
+            "date": [
+                "Jul / 08 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Geoff Neal",
+            "event": "UFC 213 - Romero vs. Whittaker",
+            "date": [
+                "Feb / 11 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Chance Rencountre",
+            "event": "UFC 208 - Holm vs. De Randamie",
+            "date": [
+                "Nov / 12 / 2016"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:19"
+        },
+        {
+            "result": "win",
+            "opponent": "Tim Means",
+            "event": "UFC 205 - Alvarez vs. McGregor",
+            "date": [
+                "Sep / 17 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "4:19"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jordan Mein",
+            "event": "UFC Fight Night 94 - Poirier vs. Johnson",
+            "date": [
+                "Jul / 07 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Randy Brown",
+            "event": "UFC Fight Night 90 - Dos Anjos vs. Alvarez",
+            "date": [
+                "Apr / 30 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "4",
+            "time": "4:07"
+        },
+        {
+            "result": "win",
+            "opponent": "Vicente Luque",
+            "event": "Titan FC 38 - Carl vs. Muhammad",
+            "date": [
+                "Sep / 19 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Augusto Montano",
+            "event": "Titan FC 35 - Healy vs. Hawn",
+            "date": [
+                "Mar / 20 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alan Jouban",
+            "event": "Titan FC 33 - Titan Fighting Championship 33",
+            "date": [
+                "Sep / 13 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Steve Carl",
+            "event": "HFC 21 - Hoosier Fight Club 21",
+            "date": [
+                "Mar / 14 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Zane Kamaka",
+            "event": "Bellator MMA - Bellator 112",
+            "date": [
+                "Nov / 09 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Keith Johnson",
+            "event": "HFC 18 - Hoosier Fight Club 18",
+            "date": [
+                "Apr / 06 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:19"
+        },
+        {
+            "result": "win",
+            "opponent": "Chris Curtis",
+            "event": "HFC 15 - Hoosier Fight Club 15",
+            "date": [
+                "Dec / 14 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "A.J. Matthews",
+            "event": "BFC - Bellator Fighting Championships 84",
+            "date": [
+                "Aug / 18 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:17"
+        }
+    ]
+}

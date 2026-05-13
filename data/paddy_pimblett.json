@@ -1,0 +1,339 @@
+{
+    "name": [
+        "Paddy",
+        "Pimblett"
+    ],
+    "bioData": {
+        "age": 31,
+        "DOB": "3, Jan 1995",
+        "height": "5'10\" / 177.8cm",
+        "weightClass": "Lightweight",
+        "country": "England"
+    },
+    "record": {
+        "wins": 23,
+        "losses": 4,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Jan / 24 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Paddy Pimblett",
+            "event": "UFC 324 - Gaethje vs. Pimblett",
+            "date": [
+                "Apr / 12 / 2025"
+            ],
+            "method": "TKO (Elbows and Punches)",
+            "round": "3",
+            "time": "3:07"
+        },
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "UFC 314 - Volkanovski vs. Lopes",
+            "date": [
+                "Jul / 27 / 2024"
+            ],
+            "method": "Technical Submission (Triangle Choke)",
+            "round": "1",
+            "time": "3:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Benoit St. Denis",
+            "event": "UFC 304 - Edwards vs. Muhammad 2",
+            "date": [
+                "Dec / 16 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Justin Gaethje",
+            "event": "UFC 296 - Edwards vs. Covington",
+            "date": [
+                "Dec / 10 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Michael Chandler",
+            "event": "UFC 282 - Blachowicz vs. Ankalaev",
+            "date": [
+                "Jul / 23 / 2022"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:46"
+        },
+        {
+            "result": "win",
+            "opponent": "King Green",
+            "event": "UFC Fight Night 208 - Blaydes vs. Aspinall",
+            "date": [
+                "Mar / 19 / 2022"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:49"
+        },
+        {
+            "result": "win",
+            "opponent": "Tony Ferguson",
+            "event": "UFC Fight Night 204 - Volkov vs. Aspinall",
+            "date": [
+                "Sep / 04 / 2021"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "4:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Jared Gordon",
+            "event": "UFC Fight Night 191 - Brunson vs. Till",
+            "date": [
+                "Mar / 20 / 2021"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Jordan Leavitt",
+            "event": "CW 122 - Cage Warriors 122: Charriere vs. Vucenic",
+            "date": [
+                "Mar / 20 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:51"
+        },
+        {
+            "result": "loss",
+            "opponent": "Rodrigo Vargas",
+            "event": "CW 113 - Cage Warriors 113",
+            "date": [
+                "Sep / 01 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Luigi Vendramini",
+            "event": "CW 96 - Cage Warriors 96",
+            "date": [
+                "Feb / 24 / 2018"
+            ],
+            "method": "Submission (Flying Triangle Choke)",
+            "round": "2",
+            "time": "0:35"
+        },
+        {
+            "result": "loss",
+            "opponent": "Davide Martinez",
+            "event": "CW 90 - Cage Warriors 90",
+            "date": [
+                "Apr / 01 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Decky Dalton",
+            "event": "CWFC 82 - Cage Warriors Fighting Championship 82",
+            "date": [
+                "Nov / 12 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Soren Bak",
+            "event": "CWFC - Cage Warriors Unplugged",
+            "date": [
+                "Sep / 10 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexis Savvidis",
+            "event": "CWFC 78 - Cage Warriors Fighting Championship 78",
+            "date": [
+                "Jul / 08 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Nad Narimani",
+            "event": "CWFC 77 - Cage Warriors Fighting Championship 77",
+            "date": [
+                "Apr / 15 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Julian Erosa",
+            "event": "CWFC 75 - Cage Warriors Fighting Championship 75",
+            "date": [
+                "Jun / 20 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Johnny Frachey",
+            "event": "FCC 13 - Full Contact Contender 13",
+            "date": [
+                "Mar / 28 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:56"
+        },
+        {
+            "result": "win",
+            "opponent": "Teddy Violet",
+            "event": "FCC 12 - Full Contact Contender 12",
+            "date": [
+                "Nov / 01 / 2014"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "1",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ashleigh Grimshaw",
+            "event": "CWFC 73 - Cage Warriors Fighting Championship 73",
+            "date": [
+                "May / 03 / 2014"
+            ],
+            "method": "Submission (Triangle Armbar)",
+            "round": "1",
+            "time": "3:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Miguel Haro",
+            "event": "CWFC 68 - Cage Warriors Fighting Championship 68",
+            "date": [
+                "Mar / 01 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Kevin Petshi",
+            "event": "CWFC 65 - Cage Warriors Fighting Championship 65",
+            "date": [
+                "Oct / 05 / 2013"
+            ],
+            "method": "Technical Submission (Anaconda Choke)",
+            "round": "1",
+            "time": "0:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Stephen Martin",
+            "event": "CWFC 60 - Cage Warriors Fighting Championship 60",
+            "date": [
+                "Jul / 06 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Conrad Hayes",
+            "event": "CWFC 56 - Cage Warriors Fighting Championship 56",
+            "date": [
+                "Jun / 01 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Martin Sheridan",
+            "event": "OMMAC 17 - High Octane",
+            "date": [
+                "Dec / 01 / 2012"
+            ],
+            "method": "Submission (Flying Triangle Choke)",
+            "round": "1",
+            "time": "2:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Cameron Else",
+            "event": "CC - Cage Contender Fight Stars",
+            "date": [
+                "Oct / 16 / 2012"
+            ],
+            "method": "TKO (Submission to Strikes)",
+            "round": "1",
+            "time": "1:51"
+        },
+        {
+            "result": "win",
+            "opponent": "Florian Calin",
+            "event": "OMMAC 15 - Legacy",
+            "date": [
+                "Oct / 29 / 2011"
+            ],
+            "method": "Technical Submission (Armbar)",
+            "round": "1",
+            "time": "2:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Jack Drabble",
+            "event": "CC - Cage Conflict 11",
+            "date": [
+                "Sep / 11 / 2011"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:28"
+        }
+    ]
+}

@@ -1,0 +1,416 @@
+{
+    "name": [
+        "Brandon",
+        "Moreno"
+    ],
+    "bioData": {
+        "age": 32,
+        "DOB": "7, Dec 1993",
+        "height": "5'7\" / 170.18cm",
+        "weightClass": "Flyweight",
+        "country": "Mexico"
+    },
+    "record": {
+        "wins": 23,
+        "losses": 10,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Lone'er Kavanagh",
+            "event": "UFC Fight Night 268 - Moreno vs. Kavanagh",
+            "date": [
+                "Feb / 28 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Tatsuro Taira",
+            "event": "UFC 323 - Dvalishvili vs. Yan 2",
+            "date": [
+                "Dec / 06 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:24"
+        },
+        {
+            "result": "win",
+            "opponent": "Steve Erceg",
+            "event": "UFC on ESPN 64 - Moreno vs. Erceg",
+            "date": [
+                "Mar / 29 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Amir Albazi",
+            "event": "UFC Fight Night 246 - Moreno vs. Albazi",
+            "date": [
+                "Nov / 02 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Brandon Royval",
+            "event": "UFC Fight Night 237 - Moreno vs. Royval 2",
+            "date": [
+                "Feb / 24 / 2024"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alexandre Pantoja",
+            "event": "UFC 290 - Volkanovski vs. Rodriguez",
+            "date": [
+                "Jul / 08 / 2023"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Deiveson Figueiredo",
+            "event": "UFC 283 - Teixeira vs. Hill",
+            "date": [
+                "Jan / 21 / 2023"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kai Kara-France",
+            "event": "UFC 277 - Pena vs. Nunes 2",
+            "date": [
+                "Jul / 30 / 2022"
+            ],
+            "method": "TKO (Body Kick and Punches)",
+            "round": "3",
+            "time": "4:34"
+        },
+        {
+            "result": "loss",
+            "opponent": "Deiveson Figueiredo",
+            "event": "UFC 270 - Ngannou vs. Gane",
+            "date": [
+                "Jan / 22 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Deiveson Figueiredo",
+            "event": "UFC 263 - Adesanya vs. Vettori 2",
+            "date": [
+                "Jun / 12 / 2021"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "2:26"
+        },
+        {
+            "result": "draw",
+            "opponent": "Deiveson Figueiredo",
+            "event": "UFC 256 - Figueiredo vs. Moreno",
+            "date": [
+                "Dec / 12 / 2020"
+            ],
+            "method": "Draw (Majority)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Royval",
+            "event": "UFC 255 - Figueiredo vs. Perez",
+            "date": [
+                "Nov / 21 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Jussier Formiga",
+            "event": "UFC Fight Night 170 - Lee vs. Oliveira",
+            "date": [
+                "Mar / 14 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kai Kara-France",
+            "event": "UFC 245 - Usman vs. Covington",
+            "date": [
+                "Dec / 14 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "draw",
+            "opponent": "Askar Askarov",
+            "event": "UFC Fight Night 159 - Rodriguez vs. Stephens",
+            "date": [
+                "Sep / 21 / 2019"
+            ],
+            "method": "Draw (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Maikel Perez",
+            "event": "LFA 69 - Perez vs. Moreno",
+            "date": [
+                "Jun / 07 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "4",
+            "time": "1:54"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alexandre Pantoja",
+            "event": "UFC Fight Night 129 - Maia vs. Usman",
+            "date": [
+                "May / 19 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sergio Pettis",
+            "event": "UFC Fight Night 114 - Pettis vs. Moreno",
+            "date": [
+                "Aug / 05 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dustin Ortiz",
+            "event": "UFC Fight Night 108 - Swanson vs. Lobov",
+            "date": [
+                "Apr / 22 / 2017"
+            ],
+            "method": "Technical Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "4:06"
+        },
+        {
+            "result": "win",
+            "opponent": "Ryan Benoit",
+            "event": "UFC - The Ultimate Fighter 24 Finale",
+            "date": [
+                "Dec / 03 / 2016"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Louis Smolka",
+            "event": "UFC Fight Night 96 - Lineker vs. Dodson",
+            "date": [
+                "Oct / 01 / 2016"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "2:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Isaac Camarillo",
+            "event": "WFF - World Fighting Federation 27",
+            "date": [
+                "Apr / 16 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Tyler Bialecki",
+            "event": "WFF - World Fighting Federation 22",
+            "date": [
+                "Jul / 25 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Matt Betzold",
+            "event": "WFF - World Fighting Federation 18",
+            "date": [
+                "Feb / 07 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "C.J. Soliven",
+            "event": "WFF - World Fighting Federation 16",
+            "date": [
+                "Sep / 20 / 2014"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "0:58"
+        },
+        {
+            "result": "win",
+            "opponent": "Alex Contreras",
+            "event": "WFF - World Fighting Federation 14",
+            "date": [
+                "Jun / 28 / 2014"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "3",
+            "time": "1:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Paul Amaro",
+            "event": "MEZ Sports - Pandemonium 9",
+            "date": [
+                "Jul / 26 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:01"
+        },
+        {
+            "result": "win",
+            "opponent": "Jason Carbajal",
+            "event": "MEZ Sports - Pandemonium 8",
+            "date": [
+                "Mar / 23 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "1:52"
+        },
+        {
+            "result": "win",
+            "opponent": "Jesse Cruz",
+            "event": "Xplode Fight Series - Anarchy",
+            "date": [
+                "Sep / 22 / 2012"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Brenson Hansen",
+            "event": "CITC 11 - Xtreme Couture vs. Southern California",
+            "date": [
+                "Jul / 28 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jonathan Carter",
+            "event": "Xplode Fight Series - Hunted",
+            "date": [
+                "May / 19 / 2012"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "1:15"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ron Scolesdang",
+            "event": "MEZ Sports - Pandemonium 6",
+            "date": [
+                "Mar / 03 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Luis Garcia",
+            "event": "UWC Mexico - New Blood 1",
+            "date": [
+                "Jan / 29 / 2012"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "2:21"
+        },
+        {
+            "result": "loss",
+            "opponent": "Marco Beristain",
+            "event": "UWC Mexico 10 - To the Edge",
+            "date": [
+                "Jun / 25 / 2011"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Atiq Jihad",
+            "event": "UWC Mexico 9.5 - Iguana",
+            "date": [
+                "Apr / 30 / 2011"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "2:30"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alexandre Pantoja",
+            "event": "UFC - The Ultimate Fighter Season 24 Opening Round, Day 1",
+            "date": [
+                "Jul / 13 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:44"
+        }
+    ]
+}

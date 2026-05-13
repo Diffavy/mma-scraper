@@ -1,0 +1,361 @@
+{
+    "name": [
+        "Yaroslav",
+        "Amosov"
+    ],
+    "bioData": {
+        "age": 32,
+        "DOB": "9, Sep 1993",
+        "height": "5'11\" / 180.34cm",
+        "weightClass": "Welterweight",
+        "country": "Ukraine"
+    },
+    "record": {
+        "wins": 30,
+        "losses": 1,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Joel Alvarez",
+            "event": "UFC 328 - Chimaev vs. Strickland",
+            "date": [
+                "May / 09 / 2026"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "2",
+            "time": "1:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Neil Magny",
+            "event": "UFC on ESPN 73 - Royval vs. Kape",
+            "date": [
+                "Dec / 13 / 2025"
+            ],
+            "method": "Submission (Anaconda Choke)",
+            "round": "1",
+            "time": "3:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Curtis Millender",
+            "event": "CFFC 140 - Cage Fury Fighting Championships 140: Amosov vs. Millender",
+            "date": [
+                "Mar / 14 / 2025"
+            ],
+            "method": "Submission (Anaconda Choke)",
+            "round": "1",
+            "time": "4:17"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jason Jackson",
+            "event": "Bellator 301 - Amosov vs. Jackson",
+            "date": [
+                "Nov / 17 / 2023"
+            ],
+            "method": "KO (Punches)",
+            "round": "3",
+            "time": "2:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Logan Storley",
+            "event": "Bellator 291 - Amosov vs. Storley 2",
+            "date": [
+                "Feb / 25 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Douglas Lima",
+            "event": "Bellator 260 - Lima vs. Amosov",
+            "date": [
+                "Jun / 11 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Logan Storley",
+            "event": "Bellator 252 - Pitbull vs. Carvalho",
+            "date": [
+                "Nov / 12 / 2020"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Mark Lemminger",
+            "event": "Bellator 244 - Bader vs. Nemkov",
+            "date": [
+                "Aug / 21 / 2020"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "1",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ed Ruth",
+            "event": "Bellator 239 - Ruth vs. Amosov",
+            "date": [
+                "Feb / 21 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "David Rickels",
+            "event": "Bellator 225 - Mitrione vs. Kharitonov 2",
+            "date": [
+                "Aug / 24 / 2019"
+            ],
+            "method": "Submission (Brabo Choke)",
+            "round": "2",
+            "time": "4:05"
+        },
+        {
+            "result": "win",
+            "opponent": "Erick Silva",
+            "event": "Bellator 216 - MVP vs. Daley",
+            "date": [
+                "Feb / 16 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Gerald Harris",
+            "event": "Bellator 202 - Budd vs. Nogueira",
+            "date": [
+                "Jul / 13 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Nathan Oliveira",
+            "event": "Tech-Krep FC - Prime Selection 17",
+            "date": [
+                "Aug / 18 / 2017"
+            ],
+            "method": "Submission (Anaconda Choke)",
+            "round": "1",
+            "time": "3:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Diogo Cavalcanti",
+            "event": "Tech-Krep FC - Prime Selection 12",
+            "date": [
+                "Mar / 18 / 2017"
+            ],
+            "method": "Submission (North-South Choke)",
+            "round": "1",
+            "time": "4:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Roberto Soldic",
+            "event": "Tech-Krep FC - Prime Selection 8",
+            "date": [
+                "Jun / 18 / 2016"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Khasanbek Abdulaev",
+            "event": "Tech-Krep FC - Southern Front 3",
+            "date": [
+                "Mar / 03 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Maxim Konovalov",
+            "event": "Tech-Krep FC - Battle in Siberia",
+            "date": [
+                "Feb / 12 / 2016"
+            ],
+            "method": "Submission (Anaconda Choke)",
+            "round": "1",
+            "time": "2:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Islam Berzegov",
+            "event": "Tech-Krep FC - Prime Selection 7",
+            "date": [
+                "Oct / 09 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Diego Gonzalez",
+            "event": "Tech-Krep FC - Prime Selection 4: Grandmasters",
+            "date": [
+                "Jul / 24 / 2015"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "2:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Ravil Risaev",
+            "event": "Tech-Krep FC - Ermak Prime Challenge",
+            "date": [
+                "Apr / 03 / 2015"
+            ],
+            "method": "Submission (North-South Choke)",
+            "round": "1",
+            "time": "1:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Avtandil Gachechiladze",
+            "event": "ECSF - Steel Warriors",
+            "date": [
+                "Mar / 05 / 2015"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "2",
+            "time": "1:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Oleg Olenichev",
+            "event": "Tech-Krep FC - Battle of Heroes",
+            "date": [
+                "Dec / 12 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Boris Selanov",
+            "event": "GEFC - Mega Fight",
+            "date": [
+                "Nov / 22 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Aydin Aikhan",
+            "event": "ECSF - Ukraine vs. Turkey",
+            "date": [
+                "Sep / 18 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Aleksey Nimirovich",
+            "event": "CSFU - Voshod Open Cup",
+            "date": [
+                "Jul / 26 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Andrei Shalavai",
+            "event": "CSFU - Voshod Open Cup",
+            "date": [
+                "Jul / 26 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:10"
+        },
+        {
+            "result": "win",
+            "opponent": "Valeri Shpak",
+            "event": "GEFC - Warriors Empire",
+            "date": [
+                "Dec / 08 / 2013"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "2:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Vadim Sandulskiy",
+            "event": "League S-70 - Plotforma 4th",
+            "date": [
+                "Aug / 17 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "3:03"
+        },
+        {
+            "result": "win",
+            "opponent": "Vitaliy Matornika",
+            "event": "CSFU - MMA Kiev Cup 2",
+            "date": [
+                "Apr / 02 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Artiom Cula",
+            "event": "ECSF - Battle of Bessarabia",
+            "date": [
+                "Mar / 24 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:36"
+        },
+        {
+            "result": "win",
+            "opponent": "Vitaliy Maystrenko",
+            "event": "CSFU - MMA Kiev Cup",
+            "date": [
+                "Jun / 14 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:49"
+        }
+    ]
+}

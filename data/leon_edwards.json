@@ -1,0 +1,372 @@
+{
+    "name": [
+        "Leon",
+        "Edwards"
+    ],
+    "bioData": {
+        "age": 34,
+        "DOB": "25, Aug 1991",
+        "height": "6'0\" / 182.88cm",
+        "weightClass": "Welterweight",
+        "country": "England"
+    },
+    "record": {
+        "wins": 22,
+        "losses": 6,
+        "noContests": 1
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Carlos Prates",
+            "event": "UFC 322 - Della Maddalena vs. Makhachev",
+            "date": [
+                "Nov / 15 / 2025"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "1:28"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sean Brady",
+            "event": "UFC Fight Night 255 - Edwards vs. Brady",
+            "date": [
+                "Mar / 22 / 2025"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "4",
+            "time": "1:39"
+        },
+        {
+            "result": "loss",
+            "opponent": "Belal Muhammad",
+            "event": "UFC 304 - Edwards vs. Muhammad 2",
+            "date": [
+                "Jul / 27 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Colby Covington",
+            "event": "UFC 296 - Edwards vs. Covington",
+            "date": [
+                "Dec / 16 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kamaru Usman",
+            "event": "UFC 286 - Edwards vs. Usman 3",
+            "date": [
+                "Mar / 18 / 2023"
+            ],
+            "method": "Decision (Majority)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kamaru Usman",
+            "event": "UFC 278 - Usman vs. Edwards 2",
+            "date": [
+                "Aug / 20 / 2022"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "5",
+            "time": "4:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Nate Diaz",
+            "event": "UFC 263 - Adesanya vs. Vettori 2",
+            "date": [
+                "Jun / 12 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "NC",
+            "opponent": "Belal Muhammad",
+            "event": "UFC Fight Night 187 - Edwards vs. Muhammad",
+            "date": [
+                "Mar / 13 / 2021"
+            ],
+            "method": "No Contest (Accidental Eye Poke)",
+            "round": "2",
+            "time": "0:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Rafael dos Anjos",
+            "event": "UFC on ESPN 4 - Dos Anjos vs. Edwards",
+            "date": [
+                "Jul / 20 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Gunnar Nelson",
+            "event": "UFC Fight Night 147 - Till vs. Masvidal",
+            "date": [
+                "Mar / 16 / 2019"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Donald Cerrone",
+            "event": "UFC Fight Night 132 - Cerrone vs. Edwards",
+            "date": [
+                "Jun / 23 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Peter Sobotta",
+            "event": "UFC Fight Night 127 - Werdum vs. Volkov",
+            "date": [
+                "Mar / 17 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "4:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Bryan Barberena",
+            "event": "UFC Fight Night 115 - Volkov vs. Struve",
+            "date": [
+                "Sep / 02 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Vicente Luque",
+            "event": "UFC Fight Night 107 - Manuwa vs. Anderson",
+            "date": [
+                "Mar / 18 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Albert Tumenov",
+            "event": "UFC 204 - Bisping vs. Henderson 2",
+            "date": [
+                "Oct / 08 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "3:01"
+        },
+        {
+            "result": "win",
+            "opponent": "Dominic Waters",
+            "event": "UFC Fight Night 87 - Overeem vs. Arlovski",
+            "date": [
+                "May / 08 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Kamaru Usman",
+            "event": "UFC on Fox 17 - Dos Anjos vs. Cerrone 2",
+            "date": [
+                "Dec / 19 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Pawel Pawlak",
+            "event": "UFC Fight Night 72 - Bisping vs. Leites",
+            "date": [
+                "Jul / 18 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Seth Baczynski",
+            "event": "UFC Fight Night 64 - Gonzaga vs. Cro Cop 2",
+            "date": [
+                "Apr / 11 / 2015"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "0:08"
+        },
+        {
+            "result": "loss",
+            "opponent": "Claudio Silva",
+            "event": "UFC Fight Night 56 - Shogun vs. St. Preux",
+            "date": [
+                "Nov / 08 / 2014"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Shaun Taylor",
+            "event": "BAMMA 16 - Daley vs. da Rocha",
+            "date": [
+                "Sep / 13 / 2014"
+            ],
+            "method": "KO (Punch)",
+            "round": "3",
+            "time": "3:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Wayne Murrie",
+            "event": "BAMMA 15 - Thompson vs. Selmani",
+            "date": [
+                "Apr / 05 / 2014"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Wendle Lewis",
+            "event": "BAMMA 14 - Daley vs. da Silva",
+            "date": [
+                "Dec / 14 / 2013"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Adam Boussif",
+            "event": "BAMMA 13 - Nunes vs. Jones",
+            "date": [
+                "Sep / 14 / 2013"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "1",
+            "time": "2:10"
+        },
+        {
+            "result": "win",
+            "opponent": "Jonathan Bilton",
+            "event": "BAMMA 11 - Marshman vs. Foupa-Pokam",
+            "date": [
+                "Dec / 01 / 2012"
+            ],
+            "method": "TKO (Knees)",
+            "round": "2",
+            "time": "1:11"
+        },
+        {
+            "result": "win",
+            "opponent": "Craig White",
+            "event": "SAH 14 - Strength And Honour 14",
+            "date": [
+                "Nov / 03 / 2012"
+            ],
+            "method": "Technical Decision",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Delroy McDowell",
+            "event": "Fight UK MMA - Fight UK 6",
+            "date": [
+                "Feb / 25 / 2012"
+            ],
+            "method": "Disqualification (Illegal Knee)",
+            "round": "3",
+            "time": "2:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Pawel Zwiefka",
+            "event": "Fight UK MMA - Fight UK 5",
+            "date": [
+                "Nov / 19 / 2011"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Damian Zlotnicki",
+            "event": "Fight UK MMA - Fight UK 4",
+            "date": [
+                "Jun / 05 / 2011"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:15"
+        },
+        {
+            "result": "NC",
+            "opponent": "Scott Kimblin",
+            "event": "Budo 1 - Night of Champions",
+            "date": [
+                "Mar / 19 / 2011"
+            ],
+            "method": "No Contest (Accidental Injury)",
+            "round": "1",
+            "time": "2:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jamie Hughes",
+            "event": "Budo 1 - Night of Champions",
+            "date": [
+                "Mar / 19 / 2011"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Carl Booth",
+            "event": "Bushido Challenge 2 - A New Dawn",
+            "date": [
+                "Apr / 03 / 2010"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "2",
+            "time": "1:30"
+        }
+    ]
+}

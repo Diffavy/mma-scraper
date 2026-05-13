@@ -1,0 +1,339 @@
+{
+    "name": [
+        "Manel",
+        "Kape"
+    ],
+    "bioData": {
+        "age": 32,
+        "DOB": "14, Nov 1993",
+        "height": "5'6\" / 167.64cm",
+        "weightClass": "Flyweight",
+        "country": "Angola"
+    },
+    "record": {
+        "wins": 22,
+        "losses": 7,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Dec / 13 / 2025"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Manel Kape",
+            "event": "UFC on ESPN 73 - Royval vs. Kape",
+            "date": [
+                "Mar / 01 / 2025"
+            ],
+            "method": "TKO (Retirement)",
+            "round": "3",
+            "time": "2:16"
+        },
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "UFC Fight Night 253 - Kape vs. Almabayev",
+            "date": [
+                "Dec / 14 / 2024"
+            ],
+            "method": "TKO (Body Kick and Punches)",
+            "round": "3",
+            "time": "1:57"
+        },
+        {
+            "result": "loss",
+            "opponent": "Kyoji Horiguchi",
+            "event": "UFC on ESPN 63 - Covington vs. Buckley",
+            "date": [
+                "Jul / 27 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Royval",
+            "event": "UFC 304 - Edwards vs. Muhammad 2",
+            "date": [
+                "Sep / 09 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Asu Almabayev",
+            "event": "UFC 293 - Adesanya vs. Strickland",
+            "date": [
+                "Dec / 17 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Bruno Silva",
+            "event": "UFC Fight Night 216 - Cannonier vs. Strickland",
+            "date": [
+                "Dec / 04 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:02"
+        },
+        {
+            "result": "win",
+            "opponent": "Muhammad Mokaev",
+            "event": "UFC on ESPN 31 - Font vs. Aldo",
+            "date": [
+                "Aug / 07 / 2021"
+            ],
+            "method": "KO (Flying Knee and Punches)",
+            "round": "1",
+            "time": "4:44"
+        },
+        {
+            "result": "loss",
+            "opponent": "Felipe dos Santos",
+            "event": "UFC 265 - Lewis vs. Gane",
+            "date": [
+                "Mar / 13 / 2021"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "David Dvorak",
+            "event": "UFC Fight Night 187 - Edwards vs. Muhammad",
+            "date": [
+                "Feb / 06 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Zhalgas Zhumagulov",
+            "event": "UFC Fight Night 184 - Overeem vs. Volkov",
+            "date": [
+                "Dec / 31 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Ode Osbourne",
+            "event": "Rizin FF - Rizin 20",
+            "date": [
+                "Aug / 18 / 2019"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "1:36"
+        },
+        {
+            "result": "win",
+            "opponent": "Matheus Nicolau",
+            "event": "Rizin FF - Rizin 18",
+            "date": [
+                "Apr / 21 / 2019"
+            ],
+            "method": "TKO (Punch to the Body)",
+            "round": "2",
+            "time": "3:59"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alexandre Pantoja",
+            "event": "Rizin FF - Rizin 15",
+            "date": [
+                "Dec / 31 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kai Asakura",
+            "event": "Rizin FF - Rizin 14",
+            "date": [
+                "Sep / 30 / 2018"
+            ],
+            "method": "Technical Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "4:27"
+        },
+        {
+            "result": "loss",
+            "opponent": "Takeya Mizugaki",
+            "event": "Rizin FF - Rizin 13",
+            "date": [
+                "May / 06 / 2018"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Seiichiro Ito",
+            "event": "Rizin FF - Rizin 10",
+            "date": [
+                "Dec / 31 / 2017"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "3",
+            "time": "4:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Yuta Sasaki",
+            "event": "Rizin Fighting World Grand Prix 2017 - Bantamweight Tournament: Final Round",
+            "date": [
+                "Dec / 29 / 2017"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "1",
+            "time": "1:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Yusaku Nakamura",
+            "event": "Rizin Fighting World Grand Prix 2017 - Bantamweight Tournament: 2nd Round",
+            "date": [
+                "Oct / 15 / 2017"
+            ],
+            "method": "TKO (Head Kick and Punch)",
+            "round": "1",
+            "time": "1:11"
+        },
+        {
+            "result": "win",
+            "opponent": "Kai Asakura",
+            "event": "Rizin Fighting World Grand Prix 2017 - Men's Bantamweight & Women's Tournament: Aki No Jin",
+            "date": [
+                "Apr / 27 / 2015"
+            ],
+            "method": "TKO (Submission to Punches)",
+            "round": "3",
+            "time": "4:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Kyoji Horiguchi",
+            "event": "IPC 7 - International Pro Combat 7",
+            "date": [
+                "Apr / 18 / 2015"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "4",
+            "time": "2:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Ian McCall",
+            "event": "KOC - Knock Out Championship 8",
+            "date": [
+                "Dec / 19 / 2014"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "N/A"
+        },
+        {
+            "result": "win",
+            "opponent": "Erson Yamamoto",
+            "event": "Invictus - Pro MMA League 2",
+            "date": [
+                "Nov / 29 / 2014"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "3:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Francisco Aspirilla",
+            "event": "AFL 2 - Madrid",
+            "date": [
+                "Jul / 27 / 2014"
+            ],
+            "method": "KO (Flying Knee to the Body)",
+            "round": "1",
+            "time": "2:42"
+        },
+        {
+            "result": "loss",
+            "opponent": "Antoine Gallinaro",
+            "event": "Invictus - Pro MMA League 1",
+            "date": [
+                "Apr / 05 / 2014"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "3:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Miguel Valverde Pascual",
+            "event": "KOC - Knock Out Championship 7",
+            "date": [
+                "Jul / 28 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Daniel Barez",
+            "event": "CF - Cage Fighters 3",
+            "date": [
+                "Feb / 03 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Hicham Rachid",
+            "event": "Cage Fighters - Challengers Norte 2",
+            "date": [
+                "Nov / 04 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Souksavanh Khampasath",
+            "event": "Cage Fighters - Challengers Norte 1",
+            "date": [
+                "May / 13 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:27"
+        }
+    ]
+}

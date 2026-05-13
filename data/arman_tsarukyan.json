@@ -1,0 +1,306 @@
+{
+    "name": [
+        "Arman",
+        "Tsarukyan"
+    ],
+    "bioData": {
+        "age": 29,
+        "DOB": "11, Oct 1996",
+        "height": "5'7\" / 170.18cm",
+        "weightClass": "Lightweight",
+        "country": "Russia"
+    },
+    "record": {
+        "wins": 23,
+        "losses": 3,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Dan Hooker",
+            "event": "UFC Fight Night 265 - Tsarukyan vs. Hooker",
+            "date": [
+                "Nov / 22 / 2025"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "2",
+            "time": "3:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Charles Oliveira",
+            "event": "UFC 300 - Pereira vs. Hill",
+            "date": [
+                "Apr / 13 / 2024"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Beneil Dariush",
+            "event": "UFC on ESPN 52 - Dariush vs. Tsarukyan",
+            "date": [
+                "Dec / 02 / 2023"
+            ],
+            "method": "KO (Knee and Punches)",
+            "round": "1",
+            "time": "1:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Joaquim Silva",
+            "event": "UFC on ESPN 47 - Vettori vs. Cannonier",
+            "date": [
+                "Jun / 17 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "3:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Damir Ismagulov",
+            "event": "UFC Fight Night 216 - Cannonier vs. Strickland",
+            "date": [
+                "Dec / 17 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Mateusz Gamrot",
+            "event": "UFC on ESPN 38 - Tsarukyan vs. Gamrot",
+            "date": [
+                "Jun / 25 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Joel Alvarez",
+            "event": "UFC Fight Night 202 - Makhachev vs. Green",
+            "date": [
+                "Feb / 26 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:57"
+        },
+        {
+            "result": "win",
+            "opponent": "Christos Giagos",
+            "event": "UFC Fight Night 192 - Smith vs. Spann",
+            "date": [
+                "Sep / 18 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Matt Frevola",
+            "event": "UFC 257 - Poirier vs. McGregor 2",
+            "date": [
+                "Jan / 23 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Davi Ramos",
+            "event": "UFC Fight Night 172 - Figueiredo vs. Benavidez 2",
+            "date": [
+                "Jul / 18 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Olivier Aubin-Mercier",
+            "event": "UFC 240 - Holloway vs. Edgar",
+            "date": [
+                "Jul / 27 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Islam Makhachev",
+            "event": "UFC Fight Night 149 - Overeem vs. Oleynik",
+            "date": [
+                "Apr / 20 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Felipe Olivieri",
+            "event": "League S-70 - Plotforma S-70: 2018",
+            "date": [
+                "Aug / 22 / 2018"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "3",
+            "time": "1:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Junior Assuncao",
+            "event": "MFP 220 / KLF - Kunlun Fight vs. Modern Fighting Pankration",
+            "date": [
+                "May / 26 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Haotian Wu",
+            "event": "GMMA - Gods of War World MMA Championship",
+            "date": [
+                "Mar / 24 / 2018"
+            ],
+            "method": "TKO (Spinning Back Kick to the Body and Punches)",
+            "round": "3",
+            "time": "0:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Takenori Sato",
+            "event": "MFP 214 - Governor's Cup 2017",
+            "date": [
+                "Dec / 02 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kyung Pyo Kim",
+            "event": "Road FC 43 - Road Fighting Championship 43",
+            "date": [
+                "Oct / 28 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marcio Breno Rodrigues Braga",
+            "event": "League S-70 - Plotforma S-70 2017",
+            "date": [
+                "Aug / 08 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:54"
+        },
+        {
+            "result": "win",
+            "opponent": "Nizamuddin Ramazanov",
+            "event": "MFP 209 - Mayor's Cup 2017",
+            "date": [
+                "May / 13 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Gustavo Wurlitzer",
+            "event": "OFS 11 - Octagon Fighting Sensation 11",
+            "date": [
+                "Mar / 04 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Belikh",
+            "event": "MFP - Eastern Rubicon 2",
+            "date": [
+                "Dec / 10 / 2016"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "2:51"
+        },
+        {
+            "result": "win",
+            "opponent": "Dmitriy Shkrabiy",
+            "event": "MFP 204 - International Pankration Tournament",
+            "date": [
+                "Nov / 05 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Merezhko",
+            "event": "MFP - Governor's Pankration Cup 2016",
+            "date": [
+                "Oct / 21 / 2016"
+            ],
+            "method": "Submission (Anaconda Choke)",
+            "round": "2",
+            "time": "1:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Ali Khaibulaev",
+            "event": "MFP - Cup of Administration in Modern Pankration",
+            "date": [
+                "May / 06 / 2016"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:33"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alexander Belikh",
+            "event": "MFP - Eastern Rubicon",
+            "date": [
+                "Dec / 12 / 2015"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Shamil Olokhanov",
+            "event": "MFP - Assault Nights of Spassk 2015",
+            "date": [
+                "Sep / 25 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:47"
+        }
+    ]
+}

@@ -1,0 +1,328 @@
+{
+    "name": [
+        "Yair",
+        "Rodriguez"
+    ],
+    "bioData": {
+        "age": 33,
+        "DOB": "6, Oct 1992",
+        "height": "5'11\" / 180.34cm",
+        "weightClass": "Featherweight",
+        "country": "Mexico"
+    },
+    "record": {
+        "wins": 20,
+        "losses": 5,
+        "noContests": 1
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Patricio Freire",
+            "event": "UFC 314 - Volkanovski vs. Lopes",
+            "date": [
+                "Apr / 12 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Brian Ortega",
+            "event": "UFC Fight Night 237 - Moreno vs. Royval 2",
+            "date": [
+                "Feb / 24 / 2024"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "3",
+            "time": "0:58"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alexander Volkanovski",
+            "event": "UFC 290 - Volkanovski vs. Rodriguez",
+            "date": [
+                "Jul / 08 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "4:19"
+        },
+        {
+            "result": "win",
+            "opponent": "Josh Emmett",
+            "event": "UFC 284 - Makhachev vs. Volkanovski",
+            "date": [
+                "Feb / 11 / 2023"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "2",
+            "time": "4:19"
+        },
+        {
+            "result": "win",
+            "opponent": "Brian Ortega",
+            "event": "UFC on ABC 3 - Ortega vs. Rodriguez",
+            "date": [
+                "Jul / 16 / 2022"
+            ],
+            "method": "TKO (Shoulder Injury)",
+            "round": "1",
+            "time": "4:11"
+        },
+        {
+            "result": "loss",
+            "opponent": "Max Holloway",
+            "event": "UFC Fight Night 197 - Holloway vs. Rodriguez",
+            "date": [
+                "Nov / 13 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jeremy Stephens",
+            "event": "UFC on ESPN 6 - Reyes vs. Weidman",
+            "date": [
+                "Oct / 18 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "NC",
+            "opponent": "Jeremy Stephens",
+            "event": "UFC Fight Night 159 - Rodriguez vs. Stephens",
+            "date": [
+                "Sep / 21 / 2019"
+            ],
+            "method": "No Contest (Accidental Eye Poke)",
+            "round": "1",
+            "time": "0:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Chan Sung Jung",
+            "event": "UFC Fight Night 139 - Korean Zombie vs. Rodriguez",
+            "date": [
+                "Nov / 10 / 2018"
+            ],
+            "method": "KO (Elbow)",
+            "round": "5",
+            "time": "4:59"
+        },
+        {
+            "result": "loss",
+            "opponent": "Frankie Edgar",
+            "event": "UFC 211 - Miocic vs. Dos Santos 2",
+            "date": [
+                "May / 13 / 2017"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "B.J. Penn",
+            "event": "UFC Fight Night 103 - Rodriguez vs. Penn",
+            "date": [
+                "Jan / 15 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:24"
+        },
+        {
+            "result": "win",
+            "opponent": "Alex Caceres",
+            "event": "UFC Fight Night 92 - Rodriguez vs. Caceres",
+            "date": [
+                "Aug / 06 / 2016"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Andre Fili",
+            "event": "UFC 197 - Jones vs. St. Preux",
+            "date": [
+                "Apr / 23 / 2016"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "2",
+            "time": "2:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Dan Hooker",
+            "event": "UFC 192 - Cormier vs. Gustafsson",
+            "date": [
+                "Oct / 03 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Charles Rosa",
+            "event": "UFC 188 - Velasquez vs. Werdum",
+            "date": [
+                "Jun / 13 / 2015"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Leonardo Morales",
+            "event": "UFC 180 - Werdum vs. Hunt",
+            "date": [
+                "Nov / 15 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Angelo Duarte",
+            "event": "NP - High Altitude Face Off 6",
+            "date": [
+                "Apr / 04 / 2014"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "2:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Edgar Juarez",
+            "event": "FMP 14 - El Pantera vs. El Leon",
+            "date": [
+                "Feb / 16 / 2013"
+            ],
+            "method": "KO (Flying Knee)",
+            "round": "1",
+            "time": "0:13"
+        },
+        {
+            "result": "loss",
+            "opponent": "Luis Roberto Herrera",
+            "event": "FMP 13 - We Don't Stop",
+            "date": [
+                "Dec / 20 / 2012"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Ricardo Alcala",
+            "event": "FMP 11 - Ahora en el Palenque",
+            "date": [
+                "May / 25 / 2012"
+            ],
+            "method": "KO (Knee)",
+            "round": "1",
+            "time": "0:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Carlos Ricardo",
+            "event": "TSC 1 - The Supreme Cage 1",
+            "date": [
+                "Mar / 10 / 2012"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "3",
+            "time": "0:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Luis Roberto Herrera",
+            "event": "FMP 10 - Parral vs. El Resto del Mundo",
+            "date": [
+                "Mar / 03 / 2012"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Edgar Balderrama",
+            "event": "FMP 9 - Never Back Down",
+            "date": [
+                "Dec / 22 / 2011"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Jonatan Guzman",
+            "event": "FMP 8 - Mexico vs. USA",
+            "date": [
+                "Sep / 17 / 2011"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Willy Martinez",
+            "event": "FMP 7 - Grand Prix 2011",
+            "date": [
+                "Jul / 30 / 2011"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "2:33"
+        },
+        {
+            "result": "win",
+            "opponent": "Luis Daniel Gonzalez",
+            "event": "FMP 5 - Vale Todo",
+            "date": [
+                "Jan / 29 / 2011"
+            ],
+            "method": "KO (Flying Switch Kick and Punches)",
+            "round": "1",
+            "time": "1:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Rodolfo Rubio",
+            "event": "UFC - The Ultimate Fighter: Latin America Season 1 Semifinals, Day 1",
+            "date": [
+                "Jun / 18 / 2014"
+            ],
+            "method": "TKO (Head Kick and Punches)",
+            "round": "1",
+            "time": "3:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Humberto Brown",
+            "event": "UFC - The Ultimate Fighter: Latin America Season 1 Quarterfinals, Day 4",
+            "date": [
+                "May / 30 / 2014"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "2",
+            "time": "2:18"
+        }
+    ]
+}

@@ -1,0 +1,405 @@
+{
+    "name": [
+        "Robert",
+        "Whittaker"
+    ],
+    "bioData": {
+        "age": 35,
+        "DOB": "20, Dec 1990",
+        "height": "6'0\" / 182.88cm",
+        "weightClass": "Middleweight",
+        "country": "Australia"
+    },
+    "record": {
+        "wins": 26,
+        "losses": 9,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Reinier de Ridder",
+            "event": "UFC on ABC 9 - Whittaker vs. de Ridder",
+            "date": [
+                "Jul / 26 / 2025"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Khamzat Chimaev",
+            "event": "UFC 308 - Topuria vs. Holloway",
+            "date": [
+                "Oct / 26 / 2024"
+            ],
+            "method": "Submission (Face Crank)",
+            "round": "1",
+            "time": "3:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Ikram Aliskerov",
+            "event": "UFC on ABC 6 - Whittaker vs. Aliskerov",
+            "date": [
+                "Jun / 22 / 2024"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:49"
+        },
+        {
+            "result": "win",
+            "opponent": "Paulo Costa",
+            "event": "UFC 298 - Volkanovski vs. Topuria",
+            "date": [
+                "Feb / 17 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Dricus Du Plessis",
+            "event": "UFC 290 - Volkanovski vs. Rodriguez",
+            "date": [
+                "Jul / 08 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Marvin Vettori",
+            "event": "UFC Fight Night 209 - Gane vs. Tuivasa",
+            "date": [
+                "Sep / 03 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Israel Adesanya",
+            "event": "UFC 271 - Adesanya vs. Whittaker 2",
+            "date": [
+                "Feb / 12 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kelvin Gastelum",
+            "event": "UFC on ESPN 22 - Whittaker vs. Gastelum",
+            "date": [
+                "Apr / 17 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jared Cannonier",
+            "event": "UFC 254 - Nurmagomedov vs. Gaethje",
+            "date": [
+                "Oct / 24 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Darren Till",
+            "event": "UFC on ESPN 14 - Whittaker vs. Till",
+            "date": [
+                "Jul / 25 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Israel Adesanya",
+            "event": "UFC 243 - Whittaker vs. Adesanya",
+            "date": [
+                "Oct / 05 / 2019"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "3:33"
+        },
+        {
+            "result": "win",
+            "opponent": "Yoel Romero",
+            "event": "UFC 225 - Whittaker vs. Romero 2",
+            "date": [
+                "Jun / 09 / 2018"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Yoel Romero",
+            "event": "UFC 213 - Romero vs. Whittaker",
+            "date": [
+                "Jul / 08 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ronaldo Souza",
+            "event": "UFC on Fox 24 - Johnson vs. Reis",
+            "date": [
+                "Apr / 15 / 2017"
+            ],
+            "method": "TKO (Head Kick and Punches)",
+            "round": "2",
+            "time": "3:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Derek Brunson",
+            "event": "UFC Fight Night 101 - Whittaker vs. Brunson",
+            "date": [
+                "Nov / 26 / 2016"
+            ],
+            "method": "TKO (Head Kick and Punches)",
+            "round": "1",
+            "time": "4:07"
+        },
+        {
+            "result": "win",
+            "opponent": "Rafael Natal",
+            "event": "UFC 197 - Jones vs. St. Preux",
+            "date": [
+                "Apr / 23 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Uriah Hall",
+            "event": "UFC 193 - Rousey vs. Holm",
+            "date": [
+                "Nov / 14 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brad Tavares",
+            "event": "UFC Fight Night 65 - Miocic vs. Hunt",
+            "date": [
+                "May / 10 / 2015"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "0:44"
+        },
+        {
+            "result": "win",
+            "opponent": "Clint Hester",
+            "event": "UFC Fight Night 55 - Rockhold vs. Bisping",
+            "date": [
+                "Nov / 07 / 2014"
+            ],
+            "method": "TKO (Knee and Punches)",
+            "round": "2",
+            "time": "2:43"
+        },
+        {
+            "result": "win",
+            "opponent": "Mike Rhodes",
+            "event": "UFC Fight Night 43 - Te Huna vs. Marquardt",
+            "date": [
+                "Jun / 28 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Stephen Thompson",
+            "event": "UFC 170 - Rousey vs. McMann",
+            "date": [
+                "Feb / 22 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:43"
+        },
+        {
+            "result": "loss",
+            "opponent": "Court McGee",
+            "event": "UFC Fight Night 27 - Condit vs. Kampmann 2",
+            "date": [
+                "Aug / 28 / 2013"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Colton Smith",
+            "event": "UFC 160 - Velasquez vs. Bigfoot 2",
+            "date": [
+                "May / 25 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "0:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Bradley Scott",
+            "event": "UFC on FX 6 - Sotiropoulos vs. Pearson",
+            "date": [
+                "Dec / 15 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jesse Juarez",
+            "event": "CFC 21 - Cage Fighting Championship 21",
+            "date": [
+                "May / 18 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Shaun Spooner",
+            "event": "SA - Superfight Australia 13",
+            "date": [
+                "Mar / 23 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:01"
+        },
+        {
+            "result": "win",
+            "opponent": "Ian Bone",
+            "event": "CFC 19 - Falciroli vs. Honstein",
+            "date": [
+                "Dec / 09 / 2011"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:15"
+        },
+        {
+            "result": "loss",
+            "opponent": "Hoon Kim",
+            "event": "Legend FC - Legend Fighting Championship 6",
+            "date": [
+                "Oct / 30 / 2011"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "3:01"
+        },
+        {
+            "result": "win",
+            "opponent": "Corey Nelson",
+            "event": "CFC 18 - Juarez vs. Rodriguez",
+            "date": [
+                "Aug / 26 / 2011"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "2",
+            "time": "4:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Ben Alloway",
+            "event": "CFC - Cage Fighting Championship 17",
+            "date": [
+                "Jun / 03 / 2011"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "4:07"
+        },
+        {
+            "result": "win",
+            "opponent": "Nate Thomson",
+            "event": "CFC - Cage Fighting Championships 15",
+            "date": [
+                "Oct / 08 / 2010"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Jay Cobain",
+            "event": "CFC - Cage Fighting Championships 14",
+            "date": [
+                "Jun / 05 / 2010"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "2",
+            "time": "0:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Nick Ariel",
+            "event": "CFC 12 - Lombard vs. Santore",
+            "date": [
+                "Mar / 12 / 2010"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "2:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Richard Walsh",
+            "event": "CFC - Cage Fighting Championships 11",
+            "date": [
+                "Nov / 20 / 2009"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Chris Tallowin",
+            "event": "XFC - Return of the Hulk",
+            "date": [
+                "Mar / 14 / 2009"
+            ],
+            "method": "TKO (Punches) ",
+            "round": "1",
+            "time": "N/A"
+        }
+    ]
+}

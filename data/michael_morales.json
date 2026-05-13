@@ -1,0 +1,229 @@
+{
+    "name": [
+        "Michael",
+        "Morales"
+    ],
+    "bioData": {
+        "age": 26,
+        "DOB": "24, Jun 1999",
+        "height": "6'0\" / 182.88cm",
+        "weightClass": "STYLEStriker",
+        "country": "Ecuador"
+    },
+    "record": {
+        "wins": 19,
+        "losses": 0,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Sean Brady",
+            "event": "UFC 322 - Della Maddalena vs. Makhachev",
+            "date": [
+                "Nov / 15 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Gilbert Burns",
+            "event": "UFC Fight Night 256 - Burns vs. Morales",
+            "date": [
+                "May / 17 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Neil Magny",
+            "event": "UFC on ESPN 62 - Cannonier vs. Borralho",
+            "date": [
+                "Aug / 24 / 2024"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Jake Matthews",
+            "event": "UFC Fight Night 232 - Allen vs. Craig",
+            "date": [
+                "Nov / 18 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Max Griffin",
+            "event": "UFC on ESPN 48 - Strickland vs. Magomedov",
+            "date": [
+                "Jul / 01 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Adam Fugitt",
+            "event": "UFC 277 - Pena vs. Nunes 2",
+            "date": [
+                "Jul / 30 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "1:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Trevin Giles",
+            "event": "UFC 270 - Ngannou vs. Gane",
+            "date": [
+                "Jan / 22 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:06"
+        },
+        {
+            "result": "win",
+            "opponent": "Nikolay Veretennikov",
+            "event": "Dana White's Contender Series - Contender Series 2021: Week 4",
+            "date": [
+                "Sep / 21 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Miguel Arizmendi",
+            "event": "UWC Mexico 26 - There Can Be Only One",
+            "date": [
+                "Apr / 30 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:02"
+        },
+        {
+            "result": "win",
+            "opponent": "Ricardo Centeno",
+            "event": "EMMA 17 - Centeno vs Morales",
+            "date": [
+                "Oct / 03 / 2020"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "4:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Daniel Luigy Bastidas",
+            "event": "EMMA 16 - Extreme MMA",
+            "date": [
+                "Aug / 01 / 2020"
+            ],
+            "method": "TKO (Doctor's Stoppage)",
+            "round": "1",
+            "time": "2:01"
+        },
+        {
+            "result": "win",
+            "opponent": "Mario Navarrete",
+            "event": "Barbarians 5 - BFL 5: Machala",
+            "date": [
+                "Feb / 12 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Gregoris Cisneros",
+            "event": "Barbarians 4 - BFL 4",
+            "date": [
+                "Dec / 14 / 2019"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "1:58"
+        },
+        {
+            "result": "win",
+            "opponent": "Erick Zambrano",
+            "event": "Pasaje Underground Combat 1 - Morales vs. Zambrano",
+            "date": [
+                "Nov / 08 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Mathias Salazar",
+            "event": "MTT 2 - Salazar vs. Morales",
+            "date": [
+                "Sep / 06 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Oscar Ravello",
+            "event": "FFC 39 - Bananada vs. Zarauz 2",
+            "date": [
+                "Jul / 17 / 2019"
+            ],
+            "method": "TKO (Corner Stoppage)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Leonardo Blasco",
+            "event": "TFC 2 - Troncal Fighting Championship 2",
+            "date": [
+                "Dec / 08 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alvaro Vacacela",
+            "event": "OFC 5 - Oro Fighting Championship 5",
+            "date": [
+                "Mar / 24 / 2018"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "1",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alvaro Vacacela",
+            "event": "OFC 4 - Oro Fighting Championship 4",
+            "date": [
+                "Aug / 19 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:15"
+        }
+    ]
+}

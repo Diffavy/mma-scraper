@@ -1,0 +1,185 @@
+{
+    "name": [
+        "David",
+        "Martinez"
+    ],
+    "bioData": {
+        "age": 27,
+        "DOB": "3, Aug 1998",
+        "height": "5'6\" / 167.64cm",
+        "weightClass": "Bantamweight",
+        "country": "Mexico"
+    },
+    "record": {
+        "wins": 14,
+        "losses": 1,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Marlon Vera",
+            "event": "UFC Fight Night 268 - Moreno vs. Kavanagh",
+            "date": [
+                "Feb / 28 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Rob Font",
+            "event": "UFC Fight Night 259 - Noche UFC: Lopes vs. Silva",
+            "date": [
+                "Sep / 13 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Saimon Oliveira",
+            "event": "UFC on ESPN 64 - Moreno vs. Erceg",
+            "date": [
+                "Mar / 29 / 2025"
+            ],
+            "method": "KO (Knee and Punches)",
+            "round": "1",
+            "time": "4:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Xavier Franklin",
+            "event": "Dana White's Contender Series - Contender Series 2024: Week 8",
+            "date": [
+                "Oct / 01 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Zarauz",
+            "event": "Combate Global - Martinez vs. Zarauz",
+            "date": [
+                "May / 28 / 2023"
+            ],
+            "method": "KO (Spinning Wheel Kick)",
+            "round": "4",
+            "time": "4:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Axel Osuna",
+            "event": "Combate Global - Martinez vs. Osuna",
+            "date": [
+                "Oct / 07 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "4",
+            "time": "4:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Arturo Vergara",
+            "event": "Combate Global - Martinez vs. Vergara",
+            "date": [
+                "May / 27 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Francisco Rivera",
+            "event": "Combate Global - 2021 Bantamweight Tournament",
+            "date": [
+                "May / 29 / 2021"
+            ],
+            "method": "KO (Head Kick and Punches)",
+            "round": "2",
+            "time": "0:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Alan Cantu",
+            "event": "Combate Global - 2021 Bantamweight Tournament",
+            "date": [
+                "May / 29 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alejandro Gonzalez",
+            "event": "Combate Global - 2021 Bantamweight Tournament",
+            "date": [
+                "May / 29 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:50"
+        },
+        {
+            "result": "loss",
+            "opponent": "Gianni Vazquez",
+            "event": "Combate Global - Chairez vs. Monterroso",
+            "date": [
+                "Apr / 09 / 2021"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "William Sanchez",
+            "event": "Combate Americas 38 - Peru",
+            "date": [
+                "May / 31 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:56"
+        },
+        {
+            "result": "win",
+            "opponent": "Enrique Barragan",
+            "event": "Combate Americas - Combate Estrellas 2",
+            "date": [
+                "Apr / 20 / 2018"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "1:10"
+        },
+        {
+            "result": "win",
+            "opponent": "Josue Lopez",
+            "event": "Panama Fight League - Ultimate Combat Challenge 30: Guatemala",
+            "date": [
+                "Jul / 23 / 2016"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "2:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Erick Espitia",
+            "event": "XK 31 - Bonebreakers vs. A.D.A.M.",
+            "date": [
+                "Feb / 20 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:11"
+        }
+    ]
+}

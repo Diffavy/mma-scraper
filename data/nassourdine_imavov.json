@@ -1,0 +1,262 @@
+{
+    "name": [
+        "Nassourdine",
+        "Imavov"
+    ],
+    "bioData": {
+        "age": 31,
+        "DOB": "1, Mar 1995",
+        "height": "6'3\" / 190.5cm",
+        "weightClass": "Middleweight",
+        "country": "France"
+    },
+    "record": {
+        "wins": 17,
+        "losses": 4,
+        "noContests": 1
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Caio Borralho",
+            "event": "UFC Fight Night 258 - Imavov vs. Borralho",
+            "date": [
+                "Sep / 06 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Israel Adesanya",
+            "event": "UFC Fight Night 250 - Adesanya vs. Imavov",
+            "date": [
+                "Feb / 01 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Brendan Allen",
+            "event": "UFC Fight Night 243 - Moicano vs. St. Denis",
+            "date": [
+                "Sep / 28 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jared Cannonier",
+            "event": "UFC on ESPN 57 - Cannonier vs. Imavov",
+            "date": [
+                "Jun / 08 / 2024"
+            ],
+            "method": "TKO (Punches)",
+            "round": "4",
+            "time": "1:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Roman Dolidze",
+            "event": "UFC Fight Night 235 - Dolidze vs. Imavov",
+            "date": [
+                "Feb / 03 / 2024"
+            ],
+            "method": "Decision (Majority)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "NC",
+            "opponent": "Chris Curtis",
+            "event": "UFC 289 - Nunes vs. Aldana",
+            "date": [
+                "Jun / 10 / 2023"
+            ],
+            "method": "No Contest (Accidental Clash of Heads)",
+            "round": "2",
+            "time": "3:04"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sean Strickland",
+            "event": "UFC Fight Night 217 - Strickland vs. Imavov",
+            "date": [
+                "Jan / 14 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Joaquin Buckley",
+            "event": "UFC Fight Night 209 - Gane vs. Tuivasa",
+            "date": [
+                "Sep / 03 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Edmen Shahbazyan",
+            "event": "UFC 268 - Usman vs. Covington 2",
+            "date": [
+                "Nov / 06 / 2021"
+            ],
+            "method": "TKO (Elbows)",
+            "round": "2",
+            "time": "4:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Ian Heinisch",
+            "event": "UFC on ESPN 27 - Sandhagen vs. Dillashaw",
+            "date": [
+                "Jul / 24 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:09"
+        },
+        {
+            "result": "loss",
+            "opponent": "Phil Hawes",
+            "event": "UFC Fight Night 185 - Blaydes vs. Lewis",
+            "date": [
+                "Feb / 20 / 2021"
+            ],
+            "method": "Decision (Majority)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jordan Williams",
+            "event": "UFC on ESPN 16 - Holm vs. Aldana",
+            "date": [
+                "Oct / 03 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jonathan Meunier",
+            "event": "Ares 1 - Urbonavicius vs. Marajo",
+            "date": [
+                "Dec / 14 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Mateusz Gluch",
+            "event": "TFL 18 - Road to Championship",
+            "date": [
+                "Sep / 28 / 2019"
+            ],
+            "method": "Submission (Kimura)",
+            "round": "1",
+            "time": "N/A"
+        },
+        {
+            "result": "win",
+            "opponent": "Francesco Demontis",
+            "event": "Devil's Cage - La Gabbia del Diavolo",
+            "date": [
+                "Jul / 26 / 2019"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Gregor Weibel",
+            "event": "CCMMA 1 - City Cage MMA 1",
+            "date": [
+                "May / 17 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Gary Formosa",
+            "event": "CFC Malta 2 - Centurion Fight Championship 2",
+            "date": [
+                "Nov / 04 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:02"
+        },
+        {
+            "result": "loss",
+            "opponent": "Michal Michalski",
+            "event": "FEN 19 - Battle for Wroclaw",
+            "date": [
+                "Oct / 14 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Paul Lawrence",
+            "event": "CFC Malta 1 - Centurion Fight Championship 1: The Time Has Come",
+            "date": [
+                "May / 13 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:43"
+        },
+        {
+            "result": "win",
+            "opponent": "Yanis Cheurfa",
+            "event": "FN1 - Fight Night One 4",
+            "date": [
+                "Apr / 08 / 2016"
+            ],
+            "method": "Submission (Brabo Choke)",
+            "round": "1",
+            "time": "2:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Said Magomed Tachaev",
+            "event": "GFA - Gladiator Fighting Arena 3",
+            "date": [
+                "Mar / 05 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:20"
+        },
+        {
+            "result": "loss",
+            "opponent": "Majdeddine Ayadi",
+            "event": "100% Fight 27 - Last Man Standing",
+            "date": [
+                "Feb / 04 / 2016"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "4:49"
+        }
+    ]
+}

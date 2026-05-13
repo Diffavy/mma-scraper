@@ -1,0 +1,339 @@
+{
+    "name": [
+        "Sean",
+        "O'Malley"
+    ],
+    "bioData": {
+        "age": 31,
+        "DOB": "24, Oct 1994",
+        "height": "5'11\" / 180.34cm",
+        "weightClass": "Bantamweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 19,
+        "losses": 3,
+        "noContests": 1
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Jan / 24 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sean O'Malley",
+            "event": "UFC 324 - Gaethje vs. Pimblett",
+            "date": [
+                "Jun / 07 / 2025"
+            ],
+            "method": "Submission (North-South Choke)",
+            "round": "3",
+            "time": "4:42"
+        },
+        {
+            "result": "loss",
+            "opponent": "",
+            "event": "UFC 316 - Dvalishvili vs. O'Malley 2",
+            "date": [
+                "Sep / 14 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Aiemann Zahabi",
+            "event": "UFC 306 - Noche UFC: O'Malley vs. Dvalishvili",
+            "date": [
+                "Mar / 09 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Yadong Song",
+            "event": "UFC 299 - O'Malley vs. Vera 2",
+            "date": [
+                "Aug / 19 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:51"
+        },
+        {
+            "result": "win",
+            "opponent": "Merab Dvalishvili",
+            "event": "UFC 292 - Sterling vs. O'Malley",
+            "date": [
+                "Oct / 22 / 2022"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "NC",
+            "opponent": "Merab Dvalishvili",
+            "event": "UFC 280 - Oliveira vs. Makhachev",
+            "date": [
+                "Jul / 02 / 2022"
+            ],
+            "method": "No Contest (Accidental Eye Poke)",
+            "round": "2",
+            "time": "3:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Marlon Vera",
+            "event": "UFC 276 - Adesanya vs. Cannonier",
+            "date": [
+                "Dec / 11 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Aljamain Sterling",
+            "event": "UFC 269 - Oliveira vs. Poirier",
+            "date": [
+                "Jul / 10 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "4:33"
+        },
+        {
+            "result": "win",
+            "opponent": "Petr Yan",
+            "event": "UFC 264 - Poirier vs. McGregor 3",
+            "date": [
+                "Mar / 27 / 2021"
+            ],
+            "method": "KO (Punch)",
+            "round": "3",
+            "time": "3:52"
+        },
+        {
+            "result": "loss",
+            "opponent": "Pedro Munhoz",
+            "event": "UFC 260 - Miocic vs. Ngannou 2",
+            "date": [
+                "Aug / 15 / 2020"
+            ],
+            "method": "TKO (Elbows and Punches)",
+            "round": "1",
+            "time": "4:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Raulian Paiva",
+            "event": "UFC 252 - Miocic vs. Cormier 3",
+            "date": [
+                "Jun / 06 / 2020"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "1:54"
+        },
+        {
+            "result": "win",
+            "opponent": "Kris Moutinho",
+            "event": "UFC 250 - Nunes vs. Spencer",
+            "date": [
+                "Mar / 07 / 2020"
+            ],
+            "method": "TKO (Head Kick and Punches)",
+            "round": "1",
+            "time": "2:02"
+        },
+        {
+            "result": "win",
+            "opponent": "Thomas Almeida",
+            "event": "UFC 248 - Adesanya vs. Romero",
+            "date": [
+                "Mar / 03 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marlon Vera",
+            "event": "UFC 222 - Cyborg vs. Kunitskaya",
+            "date": [
+                "Dec / 01 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Eddie Wineland",
+            "event": "UFC - The Ultimate Fighter 26 Finale",
+            "date": [
+                "Jul / 18 / 2017"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "4:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Quinonez",
+            "event": "Dana White's Tuesday Night Contender Series - Season 1, Episode 2",
+            "date": [
+                "May / 05 / 2017"
+            ],
+            "method": "KO (Spinning Wheel Kick)",
+            "round": "1",
+            "time": "2:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Andre Soukhamthath",
+            "event": "LFA 11 - Frincu vs. Mendonca",
+            "date": [
+                "Mar / 18 / 2017"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "2:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Terrion Ware",
+            "event": "Extreme Beatdown - Beatdown 20",
+            "date": [
+                "Oct / 21 / 2016"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "2",
+            "time": "2:57"
+        },
+        {
+            "result": "win",
+            "opponent": "Alfred Khashakyan",
+            "event": "ICF 26 - The Perfect Storm",
+            "date": [
+                "Nov / 07 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "David Nuzzo",
+            "event": "Intense Championship Fighting - Fight Night",
+            "date": [
+                "Aug / 21 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Irvin Veloz",
+            "event": "ICF - Intense Championship Fighting 20",
+            "date": [
+                "Jul / 03 / 2015"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "2:03"
+        },
+        {
+            "result": "win",
+            "opponent": "Tycen Lynn",
+            "event": "ICF - Small Town Throwdown",
+            "date": [
+                "Mar / 06 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:33"
+        },
+        {
+            "result": "win",
+            "opponent": "Mark Coates",
+            "event": "ICF - Intense Championship Fighting 17",
+            "date": [
+                "Nov / 14 / 2014"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "2",
+            "time": "2:58"
+        },
+        {
+            "result": "win",
+            "opponent": "Omar Avelar",
+            "event": "ICF - Intense Championship Fighting 16",
+            "date": [
+                "Aug / 02 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Shane Sargent",
+            "event": "DFD - Duel for Domination 9",
+            "date": [
+                "Nov / 30 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Josh Reyes",
+            "event": "Fusion Fight League - Sidney Insanity 3",
+            "date": [
+                "Nov / 15 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Caldwell",
+            "event": "ICF - Fight Night 1",
+            "date": [
+                "Aug / 09 / 2013"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "2:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Gregory Foster",
+            "event": "ICF - Intense Cage Fighting 10",
+            "date": [
+                "Mar / 30 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:09"
+        }
+    ]
+}

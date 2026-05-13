@@ -1,0 +1,273 @@
+{
+    "name": [
+        "Mario",
+        "Bautista"
+    ],
+    "bioData": {
+        "age": 32,
+        "DOB": "1, Jul 1993",
+        "height": "5'9\" / 175.26cm",
+        "weightClass": "Bantamweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 17,
+        "losses": 3,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Feb / 07 / 2026"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "4:46"
+        },
+        {
+            "result": "loss",
+            "opponent": "Mario Bautista",
+            "event": "UFC Fight Night 266 - Bautista vs. Oliveira",
+            "date": [
+                "Oct / 25 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "UFC 321 - Aspinall vs. Gane",
+            "date": [
+                "Jun / 07 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Cory Sandhagen",
+            "event": "UFC 316 - Dvalishvili vs. O'Malley 2",
+            "date": [
+                "Oct / 05 / 2024"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Vinicius Oliveira",
+            "event": "UFC 307 - Pereira vs. Rountree",
+            "date": [
+                "Jan / 13 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Umar Nurmagomedov",
+            "event": "UFC Fight Night 234 - Ankalaev vs. Walker 2",
+            "date": [
+                "Aug / 19 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Patrick Mix",
+            "event": "UFC 292 - Sterling vs. O'Malley",
+            "date": [
+                "Mar / 11 / 2023"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Aldo",
+            "event": "UFC Fight Night 221 - Yan vs. Dvalishvili",
+            "date": [
+                "Nov / 05 / 2022"
+            ],
+            "method": "Submission (Reverse Triangle Armbar)",
+            "round": "1",
+            "time": "4:54"
+        },
+        {
+            "result": "win",
+            "opponent": "Ricky Simon",
+            "event": "UFC Fight Night 214 - Rodriguez vs. Lemos",
+            "date": [
+                "Jun / 25 / 2022"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Da'Mon Blackshear",
+            "event": "UFC on ESPN 38 - Tsarukyan vs. Gamrot",
+            "date": [
+                "Feb / 19 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Guido Cannetti",
+            "event": "UFC Fight Night 201 - Walker vs. Hill",
+            "date": [
+                "Mar / 06 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Benito Lopez",
+            "event": "UFC 259 - Blachowicz vs. Adesanya",
+            "date": [
+                "Feb / 08 / 2020"
+            ],
+            "method": "TKO (Flying Knee and Punches)",
+            "round": "2",
+            "time": "1:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Brian Kelleher",
+            "event": "UFC 247 - Jones vs. Reyes",
+            "date": [
+                "Jul / 20 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jay Perrin",
+            "event": "UFC on ESPN 4 - Dos Anjos vs. Edwards",
+            "date": [
+                "Jan / 19 / 2019"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "3:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Trevin Jones",
+            "event": "UFC Fight Night 143 - Cejudo vs. Dillashaw",
+            "date": [
+                "Oct / 13 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Miles Johns",
+            "event": "Combate Americas - Mexico vs. USA",
+            "date": [
+                "Jun / 29 / 2018"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "2",
+            "time": "3:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Jin Soo Son",
+            "event": "LFA 44 - Frincu vs. Aguilera",
+            "date": [
+                "Jan / 19 / 2018"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Cory Sandhagen",
+            "event": "LFA 31 - Moffett vs. Le",
+            "date": [
+                "Sep / 28 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Juan Pablo Gonzalez",
+            "event": "Smash Global 6 - MMA Black Tie Fight Gala",
+            "date": [
+                "Aug / 03 / 2017"
+            ],
+            "method": "Submission (Brabo Choke)",
+            "round": "2",
+            "time": "0:59"
+        },
+        {
+            "result": "win",
+            "opponent": "A.J. Robb",
+            "event": "TPF 32 - Tachi Palace Fights 32",
+            "date": [
+                "May / 20 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Raphael Montini de Lima",
+            "event": "Iron Boy Promotions - Iron Boy MMA 6",
+            "date": [
+                "Aug / 02 / 2014"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:13"
+        },
+        {
+            "result": "win",
+            "opponent": "DeMarcus Brown",
+            "event": "DFD - Duel for Domination 9",
+            "date": [
+                "Dec / 07 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "0:52"
+        },
+        {
+            "result": "win",
+            "opponent": "Devon Chavez",
+            "event": "Gladiator Challenge - Holiday Beatings",
+            "date": [
+                "Mar / 09 / 2013"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "1:00"
+        }
+    ]
+}

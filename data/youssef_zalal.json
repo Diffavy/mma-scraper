@@ -1,0 +1,350 @@
+{
+    "name": [
+        "Youssef",
+        "Zalal"
+    ],
+    "bioData": {
+        "age": 29,
+        "DOB": "4, Sep 1996",
+        "height": "5'10\" / 177.8cm",
+        "weightClass": "Featherweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 18,
+        "losses": 6,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Aljamain Sterling",
+            "event": "UFC Fight Night 274 - Sterling vs. Zalal",
+            "date": [
+                "Apr / 25 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Josh Emmett",
+            "event": "UFC 320 - Ankalaev vs. Pereira 2",
+            "date": [
+                "Oct / 04 / 2025"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "1:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Calvin Kattar",
+            "event": "UFC Fight Night 251 - Cannonier vs. Rodrigues",
+            "date": [
+                "Feb / 15 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jack Shore",
+            "event": "UFC Fight Night 246 - Moreno vs. Albazi",
+            "date": [
+                "Nov / 02 / 2024"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "2",
+            "time": "0:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Jarno Errens",
+            "event": "UFC on ESPN 61 - Tybura vs. Spivac 2",
+            "date": [
+                "Aug / 10 / 2024"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:52"
+        },
+        {
+            "result": "win",
+            "opponent": "Billy Quarantillo",
+            "event": "UFC on ESPN 53 - Ribas vs. Namajunas",
+            "date": [
+                "Mar / 23 / 2024"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Vadim Zadnipryanyi",
+            "event": "Sparta Sports and Entertainment - Sparta 98",
+            "date": [
+                "Aug / 19 / 2023"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "1",
+            "time": "3:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Jake Childers",
+            "event": "Sparta Combat League - SCL: Fight Night 14",
+            "date": [
+                "Jan / 20 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Edwin Chavez",
+            "event": "Sparta Combat League - SCL: Sparta 93",
+            "date": [
+                "Nov / 18 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:44"
+        },
+        {
+            "result": "draw",
+            "opponent": "Da'Mon Blackshear",
+            "event": "UFC on ESPN 41 - Vera vs. Cruz",
+            "date": [
+                "Aug / 13 / 2022"
+            ],
+            "method": "Draw (Majority)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sean Woodson",
+            "event": "UFC Fight Night 189 - Rozenstruik vs. Sakai",
+            "date": [
+                "Jun / 05 / 2021"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Seung Woo Choi",
+            "event": "UFC Fight Night 184 - Overeem vs. Volkov",
+            "date": [
+                "Feb / 06 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ilia Topuria",
+            "event": "UFC Fight Night 179 - Moraes vs. Sandhagen",
+            "date": [
+                "Oct / 10 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Peter Barrett",
+            "event": "UFC Fight Night 174 - Lewis vs. Oleynik",
+            "date": [
+                "Aug / 08 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jordan Griffin",
+            "event": "UFC on ESPN 12 - Poirier vs. Hooker",
+            "date": [
+                "Jun / 27 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Austin Lingo",
+            "event": "UFC 247 - Jones vs. Reyes",
+            "date": [
+                "Feb / 08 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jaime Hernandez",
+            "event": "LFA 79 - Royval vs. Williams",
+            "date": [
+                "Nov / 22 / 2019"
+            ],
+            "method": "KO (Flying Knee)",
+            "round": "1",
+            "time": "2:15"
+        },
+        {
+            "result": "loss",
+            "opponent": "Matt Jones",
+            "event": "LFA 65 - Royval vs. Sanchez",
+            "date": [
+                "May / 03 / 2019"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jose Mariscal",
+            "event": "LFA 57 - Zalal vs. Mariscal",
+            "date": [
+                "Jan / 18 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Steven Merrill",
+            "event": "LFA 56 - Hubbard vs. Mota",
+            "date": [
+                "Dec / 07 / 2018"
+            ],
+            "method": "Submission (Brabo Choke)",
+            "round": "1",
+            "time": "3:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Daniel Soto",
+            "event": "LFA 39 - Heinisch vs. Checco",
+            "date": [
+                "May / 04 / 2018"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Joey Banks",
+            "event": "Paramount MMA - Contenders",
+            "date": [
+                "Mar / 16 / 2018"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "3",
+            "time": "1:58"
+        },
+        {
+            "result": "win",
+            "opponent": "Clay Wimer",
+            "event": "Mile High MMAyhem - MHM",
+            "date": [
+                "Oct / 27 / 2017"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "2",
+            "time": "2:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Maurice Salazar",
+            "event": "LFA 22 - Heinisch vs. Perez",
+            "date": [
+                "Sep / 08 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Michael Santos",
+            "event": "SCL 61 - Bad Blood",
+            "date": [
+                "Aug / 19 / 2017"
+            ],
+            "method": "Submission (Brabo Choke)",
+            "round": "3",
+            "time": "1:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Slade Ring",
+            "event": "SCL 56 - Rise",
+            "date": [
+                "Jan / 07 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "David O'Brien",
+            "event": "SCL 50 - Sparta 50",
+            "date": [
+                "Jul / 16 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Bobby Molinar",
+            "event": "SCL 47 - Rumble at the Rose",
+            "date": [
+                "Jan / 23 / 2016"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "2",
+            "time": "1:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Robinson",
+            "event": "SCL 45 - Turn on the Lights",
+            "date": [
+                "Oct / 24 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Steve Peters",
+            "event": "SCL 43 - Rumble on the Mountain",
+            "date": [
+                "Aug / 22 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:20"
+        }
+    ]
+}

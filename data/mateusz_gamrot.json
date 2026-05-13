@@ -1,0 +1,361 @@
+{
+    "name": [
+        "Mateusz",
+        "Gamrot"
+    ],
+    "bioData": {
+        "age": 35,
+        "DOB": "11, Dec 1990",
+        "height": "5'10\" / 177.8cm",
+        "weightClass": "Lightweight",
+        "country": "Poland"
+    },
+    "record": {
+        "wins": 26,
+        "losses": 4,
+        "noContests": 1
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Esteban Ribovics",
+            "event": "UFC 327 - Prochazka vs. Ulberg",
+            "date": [
+                "Apr / 11 / 2026"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "2",
+            "time": "4:19"
+        },
+        {
+            "result": "loss",
+            "opponent": "Charles Oliveira",
+            "event": "UFC Fight Night 261 - Oliveira vs. Gamrot",
+            "date": [
+                "Oct / 11 / 2025"
+            ],
+            "method": "Submission (Face Crank)",
+            "round": "2",
+            "time": "2:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Ludovit Klein",
+            "event": "UFC on ESPN 68 - Blanchfield vs. Barber",
+            "date": [
+                "May / 31 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Dan Hooker",
+            "event": "UFC 305 - Du Plessis vs. Adesanya",
+            "date": [
+                "Aug / 17 / 2024"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Rafael dos Anjos",
+            "event": "UFC 299 - O'Malley vs. Vera 2",
+            "date": [
+                "Mar / 09 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Rafael Fiziev",
+            "event": "UFC Fight Night 228 - Fiziev vs. Gamrot",
+            "date": [
+                "Sep / 23 / 2023"
+            ],
+            "method": "TKO (Knee Injury)",
+            "round": "2",
+            "time": "2:03"
+        },
+        {
+            "result": "win",
+            "opponent": "Jalin Turner",
+            "event": "UFC 285 - Jones vs. Gane",
+            "date": [
+                "Mar / 04 / 2023"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Beneil Dariush",
+            "event": "UFC 280 - Oliveira vs. Makhachev",
+            "date": [
+                "Oct / 22 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Arman Tsarukyan",
+            "event": "UFC on ESPN 38 - Tsarukyan vs. Gamrot",
+            "date": [
+                "Jun / 25 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Diego Ferreira",
+            "event": "UFC Fight Night 199 - Lewis vs. Daukaus",
+            "date": [
+                "Dec / 18 / 2021"
+            ],
+            "method": "TKO (Submission to Knee to the Body)",
+            "round": "2",
+            "time": "3:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Jeremy Stephens",
+            "event": "UFC on ESPN 26 - Makhachev vs. Moises",
+            "date": [
+                "Jul / 17 / 2021"
+            ],
+            "method": "Submission (Kimura)",
+            "round": "1",
+            "time": "1:05"
+        },
+        {
+            "result": "win",
+            "opponent": "Scott Holtzman",
+            "event": "UFC on ABC 2 - Vettori vs. Holland",
+            "date": [
+                "Apr / 10 / 2021"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "1:22"
+        },
+        {
+            "result": "loss",
+            "opponent": "Guram Kutateladze",
+            "event": "UFC Fight Night 180 - Ortega vs. Korean Zombie",
+            "date": [
+                "Oct / 17 / 2020"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marian Ziolkowski",
+            "event": "KSW 54 - Gamrot vs. Ziolkowski",
+            "date": [
+                "Aug / 29 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Norman Parke",
+            "event": "KSW 53 - Reborn",
+            "date": [
+                "Jul / 11 / 2020"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "3",
+            "time": "3:02"
+        },
+        {
+            "result": "win",
+            "opponent": "Kleber Koike Erbst",
+            "event": "KSW 46 - Narkun vs. Khalidov 2",
+            "date": [
+                "Dec / 01 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Grzegorz Szulakowski",
+            "event": "KSW 42 - Khalidov vs. Narkun",
+            "date": [
+                "Mar / 03 / 2018"
+            ],
+            "method": "Submission (Keylock)",
+            "round": "4",
+            "time": "4:15"
+        },
+        {
+            "result": "NC",
+            "opponent": "Norman Parke",
+            "event": "KSW 40 - Dublin",
+            "date": [
+                "Oct / 22 / 2017"
+            ],
+            "method": "No Contest (Accidental Eye Poke)",
+            "round": "2",
+            "time": "4:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Norman Parke",
+            "event": "KSW 39 - Colosseum",
+            "date": [
+                "May / 27 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Renato Gomes Gabriel",
+            "event": "KSW 36 - Materla vs. Palhares",
+            "date": [
+                "Oct / 01 / 2016"
+            ],
+            "method": "Submission (Heel Hook)",
+            "round": "2",
+            "time": "3:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Mansour Barnaoui",
+            "event": "KSW 35 - Khalidov vs. Karaoglu",
+            "date": [
+                "May / 27 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marif Piraev",
+            "event": "KSW 32 - Road to Wembley",
+            "date": [
+                "Oct / 31 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Rodrigo Correia",
+            "event": "KSW 30 - Genesis",
+            "date": [
+                "Feb / 21 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "4:54"
+        },
+        {
+            "result": "win",
+            "opponent": "Lukasz Chlewicki",
+            "event": "KSW 29 - Reload",
+            "date": [
+                "Dec / 06 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Tim Newman",
+            "event": "CWFC 72 - Cage Warriors Fighting Championship 72",
+            "date": [
+                "Sep / 13 / 2014"
+            ],
+            "method": "Submission (Heel Hook)",
+            "round": "1",
+            "time": "1:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Jefferson George",
+            "event": "KSW 27 - Cage Time",
+            "date": [
+                "May / 17 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Andre Winner",
+            "event": "KSW 24 - Clash of the Giants",
+            "date": [
+                "Sep / 28 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Mateusz Zawadzki",
+            "event": "KSW 23 - Khalidov vs. Manhoef",
+            "date": [
+                "Jun / 08 / 2013"
+            ],
+            "method": "TKO (Corner Stoppage)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Tomas Deak",
+            "event": "XFS - Night of Champions 5",
+            "date": [
+                "Oct / 20 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Tomasz Matuszewski",
+            "event": "XFS - Night of Champions 4",
+            "date": [
+                "Apr / 21 / 2012"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "1:11"
+        },
+        {
+            "result": "win",
+            "opponent": "Arbi Shamaev",
+            "event": "XFS - Night of Champions 3",
+            "date": [
+                "Feb / 04 / 2012"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "2",
+            "time": "3:59"
+        }
+    ]
+}

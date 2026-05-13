@@ -1,0 +1,240 @@
+{
+    "name": [
+        "Jean",
+        "Silva"
+    ],
+    "bioData": {
+        "age": 29,
+        "DOB": "13, Dec 1996",
+        "height": "5'7\" / 170.18cm",
+        "weightClass": "Featherweight",
+        "country": "Brazil"
+    },
+    "record": {
+        "wins": 17,
+        "losses": 3,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Arnold Allen",
+            "event": "UFC 324 - Gaethje vs. Pimblett",
+            "date": [
+                "Jan / 24 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Diego Lopes",
+            "event": "UFC Fight Night 259 - Noche UFC: Lopes vs. Silva",
+            "date": [
+                "Sep / 13 / 2025"
+            ],
+            "method": "TKO (Spinning Back Elbow and Punches)",
+            "round": "2",
+            "time": "4:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Bryce Mitchell",
+            "event": "UFC 314 - Volkanovski vs. Lopes",
+            "date": [
+                "Apr / 12 / 2025"
+            ],
+            "method": "Submission (Ninja Choke)",
+            "round": "2",
+            "time": "3:52"
+        },
+        {
+            "result": "win",
+            "opponent": "Melsik Baghdasaryan",
+            "event": "UFC Fight Night 252 - Cejudo vs. Song",
+            "date": [
+                "Feb / 22 / 2025"
+            ],
+            "method": "TKO (Punches and Elbows)",
+            "round": "1",
+            "time": "4:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Drew Dober",
+            "event": "UFC on ESPN 59 - Namajunas vs. Cortez",
+            "date": [
+                "Jul / 13 / 2024"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "3",
+            "time": "1:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Charles Jourdain",
+            "event": "UFC 303 - Pereira vs. Prochazka 2",
+            "date": [
+                "Jun / 29 / 2024"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "1:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Westin Wilson",
+            "event": "UFC Fight Night 234 - Ankalaev vs. Walker 2",
+            "date": [
+                "Jan / 13 / 2024"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Kevin Vallejos",
+            "event": "Dana White's Contender Series - Contender Series 2023: Week 5",
+            "date": [
+                "Sep / 05 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Shahin Najafi",
+            "event": "Spartacus MMA - Spartacus Fight Event 34",
+            "date": [
+                "Mar / 25 / 2023"
+            ],
+            "method": "TKO (Retirement)",
+            "round": "1",
+            "time": "2:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Valdemir  Cardoso",
+            "event": "Spartacus MMA - Spartacus Fight Event 28",
+            "date": [
+                "Feb / 04 / 2023"
+            ],
+            "method": "KO",
+            "round": "1",
+            "time": "2:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Tiago Souza",
+            "event": "Big Shot Fight 1 - Big Shot: Floripa vs. Goiania",
+            "date": [
+                "Aug / 08 / 2021"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "0:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Adriano Souza",
+            "event": "Future MMA - Road to Future 1",
+            "date": [
+                "Jun / 27 / 2021"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "4:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Tamyray Lacerda",
+            "event": "Cidade da Luta - Cidade da Luta 5",
+            "date": [
+                "Mar / 08 / 2020"
+            ],
+            "method": "KO",
+            "round": "1",
+            "time": "4:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Antonio Henrique Santos de Miranda",
+            "event": "MTK - MTK MMA 6",
+            "date": [
+                "Apr / 27 / 2019"
+            ],
+            "method": "Submission (Guillotine)",
+            "round": "1",
+            "time": "3:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Muniz Martins dos Santos",
+            "event": "MF Fighters - MF Fighters 1",
+            "date": [
+                "Nov / 10 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:10"
+        },
+        {
+            "result": "loss",
+            "opponent": "Gabriel Schlupp",
+            "event": "Sao Jose Super Fight Qualifying - SJSF",
+            "date": [
+                "Apr / 21 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Lucas Vinicius Razalkiewicz",
+            "event": "Blackout FC 5 - Blackout Fight Championship 5",
+            "date": [
+                "Dec / 16 / 2017"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "2",
+            "time": "3:43"
+        },
+        {
+            "result": "loss",
+            "opponent": "Pedro Henrique",
+            "event": "Aspera FC 52 - Aspera Fighting Championship 52",
+            "date": [
+                "May / 21 / 2017"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Anderson Renan Kraus",
+            "event": "Aspera FC 50 - Aspera Fighting Championship 50",
+            "date": [
+                "Mar / 18 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:11"
+        },
+        {
+            "result": "win",
+            "opponent": "Lorenzo Rodrigues",
+            "event": "AFC - Aspera Fighting Championship 48",
+            "date": [
+                "Nov / 19 / 2016"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:15"
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "name": [
+        "Lone'er",
+        "Kavanagh"
+    ],
+    "bioData": {
+        "age": 26,
+        "DOB": "9, Jun 1999",
+        "height": "5'4\" / 162.56cm",
+        "weightClass": "Flyweight",
+        "country": "England"
+    },
+    "record": {
+        "wins": 10,
+        "losses": 1,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Brandon Moreno",
+            "event": "UFC Fight Night 268 - Moreno vs. Kavanagh",
+            "date": [
+                "Feb / 28 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Charles Johnson",
+            "event": "UFC Fight Night 257 - Walker vs. Zhang",
+            "date": [
+                "Aug / 23 / 2025"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "4:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Felipe dos Santos",
+            "event": "UFC Fight Night 255 - Edwards vs. Brady",
+            "date": [
+                "Mar / 22 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Ochoa",
+            "event": "UFC Fight Night 248 - Yan vs. Figueiredo",
+            "date": [
+                "Nov / 23 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "An Tuan Ho",
+            "event": "Dana White's Contender Series - Contender Series 2024: Week 1",
+            "date": [
+                "Aug / 13 / 2024"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "2:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Shawn Marcos da Silva",
+            "event": "CW 169 - Cage Warriors 169: London",
+            "date": [
+                "Mar / 30 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Davide Scarano",
+            "event": "CW 150 - Cage Warriors 150: London",
+            "date": [
+                "Mar / 17 / 2023"
+            ],
+            "method": "TKO (Spinning Back Kick and Punches)",
+            "round": "3",
+            "time": "0:58"
+        },
+        {
+            "result": "win",
+            "opponent": "Ander Sanchez",
+            "event": "CW 141 - Cage Warriors 141",
+            "date": [
+                "Jul / 22 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ryan Morgan",
+            "event": "CW 134 - Cage Warriors 134",
+            "date": [
+                "Mar / 18 / 2022"
+            ],
+            "method": "KO (Punches)",
+            "round": "3",
+            "time": "1:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Danny Missin",
+            "event": "FSC 19 - FightStar Championship 19",
+            "date": [
+                "Dec / 14 / 2019"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "0:56"
+        },
+        {
+            "result": "win",
+            "opponent": "Glody Matusiwa",
+            "event": "ROC 7 - Rise of Champions 7",
+            "date": [
+                "Mar / 02 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:05"
+        },
+        {
+            "result": "win",
+            "opponent": "Muhidin Abubakar",
+            "event": "ROC 6 - Rise of Champions 6",
+            "date": [
+                "Sep / 01 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "draw",
+            "opponent": "Nik Bagley",
+            "event": "ROC 5 - Rise of Champions 5",
+            "date": [
+                "Feb / 17 / 2018"
+            ],
+            "method": "Draw (Split)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "draw",
+            "opponent": "Omar Sargent",
+            "event": "ROC 4 - Rise of Champions 4",
+            "date": [
+                "Sep / 30 / 2017"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Myles Richards",
+            "event": "BCMMA - British Challenge MMA 19",
+            "date": [
+                "May / 06 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "NC",
+            "opponent": "Andy Collier",
+            "event": "BCMMA - British Challenge MMA 13",
+            "date": [
+                "Dec / 05 / 2015"
+            ],
+            "method": "No Contest",
+            "round": "1",
+            "time": "3:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jawany Scott",
+            "event": "ROC 1 - Rise of Champions 1",
+            "date": [
+                "Oct / 17 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "0:58"
+        },
+        {
+            "result": "loss",
+            "opponent": "Festus Ahorlu",
+            "event": "Fury MMA 9 - Jones vs. Nadlonly",
+            "date": [
+                "Sep / 14 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        }
+    ]
+}

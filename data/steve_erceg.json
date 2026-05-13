@@ -1,0 +1,229 @@
+{
+    "name": [
+        "Steve",
+        "Erceg"
+    ],
+    "bioData": {
+        "age": 30,
+        "DOB": "27, Jul 1995",
+        "height": "5'8\" / 172.72cm",
+        "weightClass": "Flyweight",
+        "country": "Australia"
+    },
+    "record": {
+        "wins": 14,
+        "losses": 4,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Tim Elliott",
+            "event": "UFC Fight Night 275 - Della Maddalena vs. Prates",
+            "date": [
+                "May / 02 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ode Osbourne",
+            "event": "UFC on ESPN 72 - Dolidze vs. Hernandez",
+            "date": [
+                "Aug / 09 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Brandon Moreno",
+            "event": "UFC on ESPN 64 - Moreno vs. Erceg",
+            "date": [
+                "Mar / 29 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Kai Kara-France",
+            "event": "UFC 305 - Du Plessis vs. Adesanya",
+            "date": [
+                "Aug / 17 / 2024"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:04"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alexandre Pantoja",
+            "event": "UFC 301 - Pantoja vs. Erceg",
+            "date": [
+                "May / 04 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Matt Schnell",
+            "event": "UFC Fight Night 238 - Rozenstruik vs. Gaziev",
+            "date": [
+                "Mar / 02 / 2024"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "0:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Alessandro Costa",
+            "event": "UFC 295 - Prochazka vs. Pereira",
+            "date": [
+                "Nov / 11 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "David Dvorak",
+            "event": "UFC 289 - Nunes vs. Aldana",
+            "date": [
+                "Jun / 10 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Soichiro Hirai",
+            "event": "Eternal MMA 73 - Perth",
+            "date": [
+                "Feb / 11 / 2023"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Paul Loga",
+            "event": "Eternal MMA 62 - Perth",
+            "date": [
+                "Oct / 30 / 2021"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "2:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Cody Haddon",
+            "event": "Eternal MMA 60 - Perth",
+            "date": [
+                "Jun / 05 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Shannon Ross",
+            "event": "Eternal MMA 52 - Gold Coast",
+            "date": [
+                "Mar / 07 / 2020"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Paul Loga",
+            "event": "Eternal MMA 47 - Erceg vs. Loga",
+            "date": [
+                "Sep / 07 / 2019"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "1:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Tim Moore",
+            "event": "Eternal MMA 45 - Mumford vs. Martinez",
+            "date": [
+                "May / 25 / 2019"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "3",
+            "time": "3:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Mark Familiari",
+            "event": "Eternal MMA 41 - Martin vs. Moses",
+            "date": [
+                "Mar / 02 / 2019"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Seung Guk Choi",
+            "event": "HFS - Hex Fight Series 15",
+            "date": [
+                "Jul / 21 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sean Gauci",
+            "event": "HFS - Hex Fight Series 11",
+            "date": [
+                "Sep / 01 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ryan Robertson",
+            "event": "CDL Promotions - CDL Super Card",
+            "date": [
+                "Feb / 12 / 2016"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "2",
+            "time": "0:00"
+        },
+        {
+            "result": "NC",
+            "opponent": "Jake Newton",
+            "event": "Eternal MMA 18 - Baires vs. Fraser",
+            "date": [
+                "Jul / 09 / 2016"
+            ],
+            "method": "No Contest (Overturned)",
+            "round": "2",
+            "time": "2:10"
+        }
+    ]
+}

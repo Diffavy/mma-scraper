@@ -1,0 +1,339 @@
+{
+    "name": [
+        "Brandon",
+        "Royval"
+    ],
+    "bioData": {
+        "age": 33,
+        "DOB": "16, Aug 1992",
+        "height": "5'7\" / 170.18cm",
+        "weightClass": "Flyweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 17,
+        "losses": 9,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Manel Kape",
+            "event": "UFC on ESPN 73 - Royval vs. Kape",
+            "date": [
+                "Dec / 13 / 2025"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:18"
+        },
+        {
+            "result": "loss",
+            "opponent": "Joshua Van",
+            "event": "UFC 317 - Topuria vs. Oliveira",
+            "date": [
+                "Jun / 28 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Tatsuro Taira",
+            "event": "UFC Fight Night 244 - Royval vs. Taira",
+            "date": [
+                "Oct / 12 / 2024"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Moreno",
+            "event": "UFC Fight Night 237 - Moreno vs. Royval 2",
+            "date": [
+                "Feb / 24 / 2024"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alexandre Pantoja",
+            "event": "UFC 296 - Edwards vs. Covington",
+            "date": [
+                "Dec / 16 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Matheus Nicolau",
+            "event": "UFC on ESPN 44 - Holloway vs. Allen",
+            "date": [
+                "Apr / 15 / 2023"
+            ],
+            "method": "KO (Knee and Elbows)",
+            "round": "1",
+            "time": "2:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Matt Schnell",
+            "event": "UFC 274 - Oliveira vs. Gaethje",
+            "date": [
+                "May / 07 / 2022"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "2:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Rogerio Bontorin",
+            "event": "UFC on ESPN 32 - Kattar vs. Chikadze",
+            "date": [
+                "Jan / 15 / 2022"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alexandre Pantoja",
+            "event": "UFC on ESPN 29 - Cannonier vs. Gastelum",
+            "date": [
+                "Aug / 21 / 2021"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:46"
+        },
+        {
+            "result": "loss",
+            "opponent": "Brandon Moreno",
+            "event": "UFC 255 - Figueiredo vs. Perez",
+            "date": [
+                "Nov / 21 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Kai Kara-France",
+            "event": "UFC 253 - Adesanya vs. Costa",
+            "date": [
+                "Sep / 26 / 2020"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "2",
+            "time": "0:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Tim Elliott",
+            "event": "UFC on ESPN 9 - Woodley vs. Burns",
+            "date": [
+                "May / 30 / 2020"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "2",
+            "time": "3:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Nate Williams",
+            "event": "LFA 79 - Royval vs. Williams",
+            "date": [
+                "Nov / 22 / 2019"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "0:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Joby Sanchez",
+            "event": "LFA 65 - Royval vs. Sanchez",
+            "date": [
+                "May / 03 / 2019"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "3:17"
+        },
+        {
+            "result": "loss",
+            "opponent": "Casey Kenney",
+            "event": "LFA 53 - Royval vs. Kenney",
+            "date": [
+                "Nov / 09 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Charles Johnson",
+            "event": "LFA 48 - Stots vs. Lilley",
+            "date": [
+                "Sep / 07 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jerome Rivera",
+            "event": "LFA 39 - Heinisch vs. Checco",
+            "date": [
+                "May / 04 / 2018"
+            ],
+            "method": "TKO (Arm Injury)",
+            "round": "1",
+            "time": "0:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Demetrius Wilson",
+            "event": "LFA 22 - Heinisch vs. Perez",
+            "date": [
+                "Sep / 08 / 2017"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "2",
+            "time": "2:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Nick Urso",
+            "event": "LFA 10 - Heinisch vs. Rota",
+            "date": [
+                "Apr / 21 / 2017"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Rakan Adwan",
+            "event": "LFA 5 - Edwards vs. Townsend",
+            "date": [
+                "Feb / 24 / 2017"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "1:54"
+        },
+        {
+            "result": "win",
+            "opponent": "Angel Torres",
+            "event": "SCL 53 - SCL 53",
+            "date": [
+                "Oct / 15 / 2016"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "0:34"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ricky Palacios",
+            "event": "Combate Americas - Road to the Championship 5",
+            "date": [
+                "May / 09 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Danny Mainus",
+            "event": "WSOF 29 - Gaethje vs. Foster",
+            "date": [
+                "Mar / 12 / 2016"
+            ],
+            "method": "KO (Knee)",
+            "round": "1",
+            "time": "2:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Joey Welch",
+            "event": "SCL - Mile High Mayhem",
+            "date": [
+                "Aug / 23 / 2014"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "0:51"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ben VomBaur",
+            "event": "Kick Down MMA 104 - Boom",
+            "date": [
+                "Oct / 19 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sammy Rind",
+            "event": "Kick Down MMA 102 - Rebels",
+            "date": [
+                "Aug / 17 / 2012"
+            ],
+            "method": "TKO (Elbows)",
+            "round": "1",
+            "time": "1:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Isaac Johnson",
+            "event": "Kick Down MMA - 100",
+            "date": [
+                "Apr / 07 / 2012"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "2:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Justin O'Hara",
+            "event": "Kickdown 96 - Denver Fight Force",
+            "date": [
+                "Sep / 09 / 2011"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "1:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Justin Hernandez",
+            "event": "RMBB - Extreme MMA",
+            "date": [
+                "Aug / 12 / 2011"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:08"
+        }
+    ]
+}

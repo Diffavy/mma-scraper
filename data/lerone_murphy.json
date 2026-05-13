@@ -1,0 +1,262 @@
+{
+    "name": [
+        "Lerone",
+        "Murphy"
+    ],
+    "bioData": {
+        "age": 34,
+        "DOB": "22, Jul 1991",
+        "height": "5'10\" / 177.8cm",
+        "weightClass": "Featherweight",
+        "country": "England"
+    },
+    "record": {
+        "wins": 17,
+        "losses": 1,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Movsar Evloev",
+            "event": "UFC Fight Night 270 - Evloev vs. Murphy",
+            "date": [
+                "Mar / 21 / 2026"
+            ],
+            "method": "Decision (Majority)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Aaron Pico",
+            "event": "UFC 319 - Du Plessis vs. Chimaev",
+            "date": [
+                "Aug / 16 / 2025"
+            ],
+            "method": "KO (Spinning Back Elbow)",
+            "round": "1",
+            "time": "3:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Josh Emmett",
+            "event": "UFC on ESPN 65 - Emmett vs. Murphy",
+            "date": [
+                "Apr / 05 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dan Ige",
+            "event": "UFC 308 - Topuria vs. Holloway",
+            "date": [
+                "Oct / 26 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Edson Barboza",
+            "event": "UFC Fight Night 241 - Barboza vs. Murphy",
+            "date": [
+                "May / 18 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Joshua Culibao",
+            "event": "UFC Fight Night 224 - Aspinall vs. Tybura",
+            "date": [
+                "Jul / 22 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Gabriel Santos",
+            "event": "UFC 286 - Edwards vs. Usman 3",
+            "date": [
+                "Mar / 18 / 2023"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Makwan Amirkhani",
+            "event": "UFC 267 - Blachowicz vs. Teixeira",
+            "date": [
+                "Oct / 30 / 2021"
+            ],
+            "method": "KO (Knee)",
+            "round": "2",
+            "time": "0:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Douglas Silva de Andrade",
+            "event": "UFC on ESPN 20 - Chiesa vs. Magny",
+            "date": [
+                "Jan / 20 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ricardo Ramos",
+            "event": "UFC on ESPN 13 - Kattar vs. Ige",
+            "date": [
+                "Jul / 15 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:18"
+        },
+        {
+            "result": "draw",
+            "opponent": "Zubaira Tukhugov",
+            "event": "UFC 242 - Khabib vs. Poirier",
+            "date": [
+                "Sep / 07 / 2019"
+            ],
+            "method": "Draw (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Manolo Scianna",
+            "event": "FCC 23 - Full Contact Contender 23",
+            "date": [
+                "May / 18 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Ayton De Paepe",
+            "event": "Celtic Gladiator 22 - Manchester",
+            "date": [
+                "Nov / 30 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "James McErlean",
+            "event": "Evolution Of Combat - Fight Night 2",
+            "date": [
+                "Sep / 01 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Terry Doyle",
+            "event": "FSC 14 - FightStar Championship 14",
+            "date": [
+                "Apr / 14 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Nathan Thompson",
+            "event": "FCC 19 - Full Contact Contender 19",
+            "date": [
+                "Sep / 30 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Jamie Lee",
+            "event": "FCC 18 - Full Contact Contender 18",
+            "date": [
+                "Apr / 15 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Tyler John Thomas",
+            "event": "TFC - Tanko Fighting Championships 3",
+            "date": [
+                "Feb / 11 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Martin Fouda",
+            "event": "FCC 15 - Full Contact Contender 15",
+            "date": [
+                "Mar / 12 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Lloyd Sweeney",
+            "event": "FCC 14 - Full Contact Contender 14",
+            "date": [
+                "Oct / 17 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Matthew Bonner",
+            "event": "ICE FC - ICE Fighting Championship 5",
+            "date": [
+                "Feb / 28 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "James Doolan",
+            "event": "ICE FC - ICE Fighting Championship 4",
+            "date": [
+                "Nov / 08 / 2014"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "2",
+            "time": "1:14"
+        }
+    ]
+}

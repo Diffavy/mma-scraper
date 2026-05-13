@@ -1,0 +1,405 @@
+{
+    "name": [
+        "Diego",
+        "Lopes"
+    ],
+    "bioData": {
+        "age": 31,
+        "DOB": "30, Dec 1994",
+        "height": "5'11\" / 180.34cm",
+        "weightClass": "Featherweight",
+        "country": "Brazil"
+    },
+    "record": {
+        "wins": 27,
+        "losses": 8,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Jan / 31 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Diego Lopes",
+            "event": "UFC 325 - Volkanovski vs. Lopes 2",
+            "date": [
+                "Sep / 13 / 2025"
+            ],
+            "method": "TKO (Spinning Back Elbow and Punches)",
+            "round": "2",
+            "time": "4:48"
+        },
+        {
+            "result": "loss",
+            "opponent": "",
+            "event": "UFC Fight Night 259 - Noche UFC: Lopes vs. Silva",
+            "date": [
+                "Apr / 12 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Steve Garcia",
+            "event": "UFC 314 - Volkanovski vs. Lopes",
+            "date": [
+                "Sep / 14 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Volkanovski",
+            "event": "UFC 306 - Noche UFC: O'Malley vs. Dvalishvili",
+            "date": [
+                "Jun / 29 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jean Silva",
+            "event": "UFC 303 - Pereira vs. Prochazka 2",
+            "date": [
+                "Apr / 13 / 2024"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:29"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Volkanovski",
+            "event": "UFC 300 - Pereira vs. Hill",
+            "date": [
+                "Nov / 11 / 2023"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Brian Ortega",
+            "event": "UFC 295 - Prochazka vs. Pereira",
+            "date": [
+                "Aug / 05 / 2023"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "1:38"
+        },
+        {
+            "result": "loss",
+            "opponent": "Dan Ige",
+            "event": "UFC on ESPN 50 - Sandhagen vs. Font",
+            "date": [
+                "May / 06 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sodiq Yusuff",
+            "event": "UFC 288 - Sterling vs. Cejudo",
+            "date": [
+                "Nov / 18 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Pat Sabatini",
+            "event": "LUX 028 - Monterrey",
+            "date": [
+                "Feb / 11 / 2022"
+            ],
+            "method": "KO (Punches)",
+            "round": "3",
+            "time": "4:39"
+        },
+        {
+            "result": "loss",
+            "opponent": "Gavin Tucker",
+            "event": "Fury FC 57 - Fury Fighting Championship 57",
+            "date": [
+                "Oct / 17 / 2021"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Movsar Evloev",
+            "event": "Fury FC 52 - Fury Fighting Championship 52",
+            "date": [
+                "Aug / 31 / 2021"
+            ],
+            "method": "Technical Decision (Unanimous)",
+            "round": "3",
+            "time": "0:10"
+        },
+        {
+            "result": "win",
+            "opponent": "Angel Rodriguez",
+            "event": "Dana White's Contender Series - Contender Series 2021: Week 1",
+            "date": [
+                "Mar / 12 / 2021"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "3",
+            "time": "3:06"
+        },
+        {
+            "result": "win",
+            "opponent": "Kenn Glenn",
+            "event": "LUX 012 - Monterrey",
+            "date": [
+                "Nov / 29 / 2019"
+            ],
+            "method": "Submission (Kneebar)",
+            "round": "1",
+            "time": "3:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Nate Richardson",
+            "event": "LUX 007 - Monterrey",
+            "date": [
+                "Aug / 30 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Joanderson Brito",
+            "event": "LUX 006 - Monterrey",
+            "date": [
+                "Mar / 15 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Masio Fullen",
+            "event": "LUX 004 - CDMX",
+            "date": [
+                "Oct / 05 / 2018"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "1:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Marco Beltran",
+            "event": "LUX 003 - CDMX",
+            "date": [
+                "Aug / 17 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Alejandro Solano Rodriguez",
+            "event": "RFL - Roca Fighting League 2",
+            "date": [
+                "Jun / 01 / 2018"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "1:21"
+        },
+        {
+            "result": "loss",
+            "opponent": "Rony Mariano Bezerra",
+            "event": "XFL 38 - Xtreme Fighters Latino 38",
+            "date": [
+                "Jan / 13 / 2018"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "3:06"
+        },
+        {
+            "result": "win",
+            "opponent": "Luis Guerrero",
+            "event": "ACB 78 - Grozny: Young Eagles 24",
+            "date": [
+                "Aug / 23 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Rogelio Meneses",
+            "event": "JFL 17 - Jasaji Fighting League 17",
+            "date": [
+                "Apr / 21 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Antonio Hernandez",
+            "event": "XFL 34 - Xtreme Fighters Latino 34",
+            "date": [
+                "Mar / 18 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Amir Elzhurkaev",
+            "event": "JFL 15 - Jasaji Fighting League 15",
+            "date": [
+                "Nov / 26 / 2016"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "4:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Isaac Ruelas",
+            "event": "JFL 14 - Jasaji Fighting League 14",
+            "date": [
+                "Apr / 16 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Raul Najera Ocampo",
+            "event": "CFN 5 - Coatza Fight Night 5",
+            "date": [
+                "Sep / 19 / 2015"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "2",
+            "time": "2:19"
+        },
+        {
+            "result": "win",
+            "opponent": "Carlos Canada",
+            "event": "EFN - Elite Fight Night",
+            "date": [
+                "Apr / 11 / 2015"
+            ],
+            "method": "Submission (Heel Hook)",
+            "round": "1",
+            "time": "3:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Paul Marquez",
+            "event": "Thunder Fight 3 - Gameth vs. Para",
+            "date": [
+                "Nov / 15 / 2014"
+            ],
+            "method": "TKO (Retirement)",
+            "round": "1",
+            "time": "2:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Luis Torres",
+            "event": "MMASH - MMA Super Heroes 7",
+            "date": [
+                "Jul / 27 / 2014"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:44"
+        },
+        {
+            "result": "loss",
+            "opponent": "Gilberto dos Santos Pantoja",
+            "event": "PFMMA - Pro Fight MMA Brasil 11",
+            "date": [
+                "Apr / 16 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "N/A"
+        },
+        {
+            "result": "loss",
+            "opponent": "Duda Sales",
+            "event": "ITC - It's Time Combat 4",
+            "date": [
+                "Nov / 08 / 2013"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Roberto dos Santos",
+            "event": "BWF - Big Way Fight 3",
+            "date": [
+                "Jul / 13 / 2013"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Isaque Silva",
+            "event": "ITC - It's Time Combat 3",
+            "date": [
+                "Feb / 01 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Rodrigo Praia",
+            "event": "ITC - It's Time Combat 2",
+            "date": [
+                "Sep / 08 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:00"
+        }
+    ]
+}

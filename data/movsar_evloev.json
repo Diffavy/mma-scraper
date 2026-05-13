@@ -1,0 +1,240 @@
+{
+    "name": [
+        "Movsar",
+        "Evloev"
+    ],
+    "bioData": {
+        "age": 32,
+        "DOB": "11, Feb 1994",
+        "height": "5'8\" / 172.72cm",
+        "weightClass": "Featherweight",
+        "country": "Russia"
+    },
+    "record": {
+        "wins": 20,
+        "losses": 0,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Lerone Murphy",
+            "event": "UFC Fight Night 270 - Evloev vs. Murphy",
+            "date": [
+                "Mar / 21 / 2026"
+            ],
+            "method": "Decision (Majority)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Aljamain Sterling",
+            "event": "UFC 310 - Pantoja vs. Asakura",
+            "date": [
+                "Dec / 07 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Arnold Allen",
+            "event": "UFC 297 - Strickland vs. Du Plessis",
+            "date": [
+                "Jan / 20 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Diego Lopes",
+            "event": "UFC 288 - Sterling vs. Cejudo",
+            "date": [
+                "May / 06 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dan Ige",
+            "event": "UFC Fight Night 207 - Volkov vs. Rozenstruik",
+            "date": [
+                "Jun / 04 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Hakeem Dawodu",
+            "event": "UFC 263 - Adesanya vs. Vettori 2",
+            "date": [
+                "Jun / 12 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Nik Lentz",
+            "event": "UFC 257 - Poirier vs. McGregor 2",
+            "date": [
+                "Jan / 23 / 2021"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Mike Grundy",
+            "event": "UFC on ESPN 14 - Whittaker vs. Till",
+            "date": [
+                "Jul / 25 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Enrique Barzola",
+            "event": "UFC Fight Night 162 - Maia vs. Askren",
+            "date": [
+                "Oct / 26 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Seung Woo Choi",
+            "event": "UFC Fight Night 149 - Overeem vs. Oleynik",
+            "date": [
+                "Apr / 20 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Rafael Dias",
+            "event": "M-1 Challenge 95 - Battle in the Mountains 7",
+            "date": [
+                "Jul / 21 / 2018"
+            ],
+            "method": "KO (Punch)",
+            "round": "5",
+            "time": "0:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Sergey Morozov",
+            "event": "M-1 Challenge 88 - Ismagulov vs. Tutarauli",
+            "date": [
+                "Feb / 22 / 2018"
+            ],
+            "method": "Technical Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "3:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Pavel Vitruk",
+            "event": "M-1 Challenge 81 - Battle in the Mountains 6",
+            "date": [
+                "Jul / 22 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexey Nevzorov",
+            "event": "M-1 Challenge 76 - Nevzorov vs. Evloev",
+            "date": [
+                "Apr / 22 / 2017"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "2",
+            "time": "2:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Lee Morrison",
+            "event": "M-1 Challenge 73 - Battle of Narts",
+            "date": [
+                "Dec / 09 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Aleksander Krupenkin",
+            "event": "M-1 Challenge 66 - Nemkov vs. Yusupov",
+            "date": [
+                "May / 27 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Djulustan Akimov",
+            "event": "M-1 Global - Road to M-1: Battle in Nazran 3",
+            "date": [
+                "May / 07 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:01"
+        },
+        {
+            "result": "win",
+            "opponent": "Andrey Syrovatkin",
+            "event": "M-1 Global - Road to M-1: Battle in Nazran",
+            "date": [
+                "Dec / 12 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:44"
+        },
+        {
+            "result": "win",
+            "opponent": "Zhenhong Lu",
+            "event": "M-1 Challenge 58 - Battle in the Mountains 4",
+            "date": [
+                "Jun / 06 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jianwei He",
+            "event": "M-1 Challenge 53 - Battle in the Celestial Empire",
+            "date": [
+                "Nov / 25 / 2014"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:56"
+        }
+    ]
+}

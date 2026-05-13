@@ -1,0 +1,482 @@
+{
+    "name": [
+        "Kyoji",
+        "Horiguchi"
+    ],
+    "bioData": {
+        "age": 35,
+        "DOB": "12, Oct 1990",
+        "height": "5'5\" / 165.1cm",
+        "weightClass": "Flyweight",
+        "country": "Japan"
+    },
+    "record": {
+        "wins": 36,
+        "losses": 5,
+        "noContests": 1
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Feb / 07 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kyoji Horiguchi",
+            "event": "UFC Fight Night 266 - Bautista vs. Oliveira",
+            "date": [
+                "Nov / 22 / 2025"
+            ],
+            "method": "Technical Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "2:18"
+        },
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "UFC Fight Night 265 - Tsarukyan vs. Hooker",
+            "date": [
+                "Dec / 31 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Manel Kape",
+            "event": "Rizin FF - Rizin Bangaichi / Rizin 49: Decade",
+            "date": [
+                "Jun / 09 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Amir Albazi",
+            "event": "Rizin FF - Rizin 47",
+            "date": [
+                "Dec / 31 / 2023"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:44"
+        },
+        {
+            "result": "NC",
+            "opponent": "Tagir Ulanbekov",
+            "event": "Rizin FF - Rizin 45",
+            "date": [
+                "Jul / 29 / 2023"
+            ],
+            "method": "No Contest (Accidental Eye Poke)",
+            "round": "1",
+            "time": "0:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Nkazimulo Zulu",
+            "event": "Bellator MMA x Rizin 2 - Pitbull vs. de Souza",
+            "date": [
+                "Dec / 31 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sergio Pettis",
+            "event": "Rizin FF - Rizin 40: Bellator MMA vs. Rizin",
+            "date": [
+                "Sep / 25 / 2022"
+            ],
+            "method": "Technical Submission (Arm-Triangle Choke)",
+            "round": "2",
+            "time": "2:59"
+        },
+        {
+            "result": "loss",
+            "opponent": "Makoto Takahashi",
+            "event": "Rizin FF - Super Rizin / Rizin 38",
+            "date": [
+                "Apr / 23 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Makoto Takahashi",
+            "event": "Bellator 279 - Cyborg vs. Blencowe 2",
+            "date": [
+                "Dec / 03 / 2021"
+            ],
+            "method": "KO (Spinning Backfist)",
+            "round": "4",
+            "time": "3:24"
+        },
+        {
+            "result": "win",
+            "opponent": "Hiromasa Ougikubo",
+            "event": "Bellator 272 - Pettis vs. Horiguchi",
+            "date": [
+                "Dec / 31 / 2020"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "2:48"
+        },
+        {
+            "result": "loss",
+            "opponent": "Yuto Hokamura",
+            "event": "Rizin FF - Rizin 26",
+            "date": [
+                "Aug / 18 / 2019"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Patrick Mix",
+            "event": "Rizin FF - Rizin 18",
+            "date": [
+                "Jun / 14 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sergio Pettis",
+            "event": "Bellator 222 - MacDonald vs. Gracie",
+            "date": [
+                "Apr / 21 / 2019"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "2:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Kai Asakura",
+            "event": "Rizin FF - Rizin 15",
+            "date": [
+                "Dec / 31 / 2018"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "3",
+            "time": "1:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Kai Asakura",
+            "event": "Rizin FF - Rizin 14",
+            "date": [
+                "Jul / 29 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Darrion Caldwell",
+            "event": "Rizin FF - Rizin 11",
+            "date": [
+                "May / 06 / 2018"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Ben Nguyen",
+            "event": "Rizin FF - Rizin 10",
+            "date": [
+                "Dec / 31 / 2017"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "0:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Darrion Caldwell",
+            "event": "Rizin Fighting World Grand Prix 2017 - Bantamweight Tournament: Final Round",
+            "date": [
+                "Dec / 31 / 2017"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "3",
+            "time": "4:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Hiromasa Ougikubo",
+            "event": "Rizin Fighting World Grand Prix 2017 - Bantamweight Tournament: Final Round",
+            "date": [
+                "Dec / 29 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Ian McCall",
+            "event": "Rizin Fighting World Grand Prix 2017 - Bantamweight Tournament: 2nd Round",
+            "date": [
+                "Jul / 30 / 2017"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:49"
+        },
+        {
+            "result": "win",
+            "opponent": "Shintaro Ishiwatari",
+            "event": "Rizin Fighting World Grand Prix 2017 - Bantamweight Tournament: 1st Round",
+            "date": [
+                "Apr / 16 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Manel Kape",
+            "event": "Rizin 5 - Rizin 2017 in Yokohama: Sakura",
+            "date": [
+                "Nov / 19 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Gabriel Leite de Oliveira",
+            "event": "UFC Fight Night 99 - Mousasi vs. Hall 2",
+            "date": [
+                "May / 08 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Hideo Tokoro",
+            "event": "UFC Fight Night 87 - Overeem vs. Arlovski",
+            "date": [
+                "Sep / 26 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Yuki Motoya",
+            "event": "UFC Fight Night 75 - Barnett vs. Nelson",
+            "date": [
+                "Apr / 25 / 2015"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "5",
+            "time": "4:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Ali Bagautinov",
+            "event": "UFC 186 - Johnson vs. Horiguchi",
+            "date": [
+                "Jan / 03 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Neil Seery",
+            "event": "UFC 182 - Jones vs. Cormier",
+            "date": [
+                "Sep / 20 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Chico Camus",
+            "event": "UFC Fight Night 52 - Hunt vs. Nelson",
+            "date": [
+                "May / 10 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Demetrious Johnson",
+            "event": "UFC Fight Night 40 - Brown vs. Silva",
+            "date": [
+                "Oct / 19 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:51"
+        },
+        {
+            "result": "win",
+            "opponent": "Louis Gaudinot",
+            "event": "UFC 166 - Velasquez vs. Dos Santos 3",
+            "date": [
+                "Jun / 22 / 2013"
+            ],
+            "method": "TKO (Head Kicks and Punches)",
+            "round": "5",
+            "time": "0:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Jon delos Reyes",
+            "event": "Vale Tudo Japan - VTJ 2nd",
+            "date": [
+                "Mar / 16 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Darrell Montague",
+            "event": "Shooto - 2nd Round 2013",
+            "date": [
+                "Dec / 24 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dustin Pague",
+            "event": "Vale Tudo Japan - VTJ 1st",
+            "date": [
+                "Jul / 16 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Shintaro Ishiwatari",
+            "event": "Shooto - 8th Round",
+            "date": [
+                "Mar / 10 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:06"
+        },
+        {
+            "result": "loss",
+            "opponent": "Hiromasa Ougikubo",
+            "event": "Shooto - 3rd Round",
+            "date": [
+                "Jan / 08 / 2012"
+            ],
+            "method": "Decision (Majority)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ian Loveland",
+            "event": "Shooto - Survivor Tournament Final",
+            "date": [
+                "Sep / 23 / 2011"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "3:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Manabu Inoue",
+            "event": "Shooto - Shootor's Legacy 4",
+            "date": [
+                "Jul / 18 / 2011"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "3:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Tetsu Suzuki",
+            "event": "Shooto - Shootor's Legacy 3",
+            "date": [
+                "Apr / 29 / 2011"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:06"
+        },
+        {
+            "result": "win",
+            "opponent": "Masakatsu Ueda",
+            "event": "Shooto - Shooto Tradition 2011",
+            "date": [
+                "Dec / 18 / 2010"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:43"
+        },
+        {
+            "result": "win",
+            "opponent": "Naohiro Mizuno",
+            "event": "Shooto - The Rookie Tournament 2010 Final",
+            "date": [
+                "Aug / 07 / 2010"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "1",
+            "time": "2:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Yuta Nezu",
+            "event": "Shooto - Gig Tokyo 5",
+            "date": [
+                "May / 09 / 2010"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        }
+    ]
+}

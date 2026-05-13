@@ -1,0 +1,449 @@
+{
+    "name": [
+        "Alexandre",
+        "Pantoja"
+    ],
+    "bioData": {
+        "age": 36,
+        "DOB": "16, Apr 1990",
+        "height": "5'5\" / 165.1cm",
+        "weightClass": "Flyweight",
+        "country": "Brazil"
+    },
+    "record": {
+        "wins": 30,
+        "losses": 6,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Joshua Van",
+            "event": "UFC 323 - Dvalishvili vs. Yan 2",
+            "date": [
+                "Dec / 06 / 2025"
+            ],
+            "method": "TKO (Arm Injury)",
+            "round": "1",
+            "time": "0:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Kai Kara-France",
+            "event": "UFC 317 - Topuria vs. Oliveira",
+            "date": [
+                "Jun / 28 / 2025"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "1:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Kai Asakura",
+            "event": "UFC 310 - Pantoja vs. Asakura",
+            "date": [
+                "Dec / 07 / 2024"
+            ],
+            "method": "Technical Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:05"
+        },
+        {
+            "result": "win",
+            "opponent": "Steve Erceg",
+            "event": "UFC 301 - Pantoja vs. Erceg",
+            "date": [
+                "May / 04 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Royval",
+            "event": "UFC 296 - Edwards vs. Covington",
+            "date": [
+                "Dec / 16 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Moreno",
+            "event": "UFC 290 - Volkanovski vs. Rodriguez",
+            "date": [
+                "Jul / 08 / 2023"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alex Perez",
+            "event": "UFC 277 - Pena vs. Nunes 2",
+            "date": [
+                "Jul / 30 / 2022"
+            ],
+            "method": "Submission (Neck Crank)",
+            "round": "1",
+            "time": "1:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Royval",
+            "event": "UFC on ESPN 29 - Cannonier vs. Gastelum",
+            "date": [
+                "Aug / 21 / 2021"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Manel Kape",
+            "event": "UFC Fight Night 184 - Overeem vs. Volkov",
+            "date": [
+                "Feb / 06 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Askar Askarov",
+            "event": "UFC Fight Night 172 - Figueiredo vs. Benavidez 2",
+            "date": [
+                "Jul / 18 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Matt Schnell",
+            "event": "UFC Fight Night 165 - Edgar vs. Korean Zombie",
+            "date": [
+                "Dec / 21 / 2019"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "4:17"
+        },
+        {
+            "result": "loss",
+            "opponent": "Deiveson Figueiredo",
+            "event": "UFC 240 - Holloway vs. Edgar",
+            "date": [
+                "Jul / 27 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Wilson Reis",
+            "event": "UFC 236 - Holloway vs. Poirier",
+            "date": [
+                "Apr / 13 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:58"
+        },
+        {
+            "result": "win",
+            "opponent": "Yuta Sasaki",
+            "event": "UFC Fight Night 140 - Magny vs. Ponzinibbio",
+            "date": [
+                "Nov / 17 / 2018"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Moreno",
+            "event": "UFC Fight Night 129 - Maia vs. Usman",
+            "date": [
+                "May / 19 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Dustin Ortiz",
+            "event": "UFC 220 - Miocic vs. Ngannou",
+            "date": [
+                "Jan / 20 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Neil Seery",
+            "event": "UFC Fight Night 113 - Nelson vs. Ponzinibbio",
+            "date": [
+                "Jul / 16 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "2:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Eric Shelton",
+            "event": "UFC on Fox 23 - Shevchenko vs. Pena",
+            "date": [
+                "Jan / 28 / 2017"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Damacio Page",
+            "event": "AXS TV Fights - RFA vs. Legacy Superfight",
+            "date": [
+                "May / 08 / 2015"
+            ],
+            "method": "Technical Submission (Triangle Choke)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Matt Manzanares",
+            "event": "RFA 18 - Manzanares vs. Pantoja",
+            "date": [
+                "Sep / 12 / 2014"
+            ],
+            "method": "Technical Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Lincoln de Sa Oliveira",
+            "event": "Shooto Brazil 45 - Sa vs. Pantoja",
+            "date": [
+                "Dec / 20 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Daniel Araujo",
+            "event": "WOCS 31 - Watch Out Combat Show 31",
+            "date": [
+                "Nov / 01 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Rodrigo Favacho dos Santos",
+            "event": "MMA Fight Show - Summer Edition",
+            "date": [
+                "Mar / 16 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:29"
+        },
+        {
+            "result": "win",
+            "opponent": "Lincoln de Sa Oliveira",
+            "event": "Shooto Brazil 32 - Olivieri vs. Ferro",
+            "date": [
+                "Jul / 14 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sandro Gemaque de Souza",
+            "event": "FA - Fatality Arena Fight Night 1",
+            "date": [
+                "Dec / 09 / 2011"
+            ],
+            "method": "KO (Punches)",
+            "round": "3",
+            "time": "3:58"
+        },
+        {
+            "result": "win",
+            "opponent": "Samuel de Souza",
+            "event": "WFC 3 - Pantoja Vs Souza",
+            "date": [
+                "Dec / 22 / 2010"
+            ],
+            "method": "TKO (Elbows and Punches)",
+            "round": "1",
+            "time": "1:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Bruno Azevedo",
+            "event": "Shooto Brazil 18 - Inocente vs. Moia",
+            "date": [
+                "Sep / 17 / 2010"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "0:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jussier Formiga",
+            "event": "Shooto Brazil 16 - Formiga vs. Pantoja",
+            "date": [
+                "Jun / 12 / 2010"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ralph Alves",
+            "event": "WOCS - Watch Out Combat Show 6",
+            "date": [
+                "Dec / 12 / 2009"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Magno Alves",
+            "event": "WOCS - Watch Out Combat Show 5",
+            "date": [
+                "Sep / 27 / 2009"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Michael William Costa",
+            "event": "Shooto Brazil 13 - Bahadurzada vs. Batata",
+            "date": [
+                "Aug / 27 / 2009"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Bruno Moreno",
+            "event": "Shooto Brazil 12 - Ramos vs. Fernandes",
+            "date": [
+                "May / 30 / 2009"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "3",
+            "time": "4:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Gabriel Wolff",
+            "event": "Shooto Brazil 11 - Miranda vs. Matos",
+            "date": [
+                "Mar / 28 / 2009"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Willian Viana",
+            "event": "WOCS - Watch Out Combat Show 2",
+            "date": [
+                "Sep / 25 / 2008"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Peterson Maffort",
+            "event": "RF - Rocinha Fight",
+            "date": [
+                "Aug / 02 / 2008"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Antonio    Carlos",
+            "event": "VF - Vila Fight",
+            "date": [
+                "Jul / 21 / 2007"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "0:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Hiromasa Ougikubo",
+            "event": "UFC - The Ultimate Fighter Season 24 Semifinals",
+            "date": [
+                "Aug / 03 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kai Kara-France",
+            "event": "UFC - The Ultimate Fighter Season 24 Quarterfinals, Day 1",
+            "date": [
+                "Jul / 26 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Moreno",
+            "event": "UFC - The Ultimate Fighter Season 24 Opening Round, Day 1",
+            "date": [
+                "Jul / 13 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:44"
+        }
+    ]
+}

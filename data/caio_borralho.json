@@ -1,0 +1,262 @@
+{
+    "name": [
+        "Caio",
+        "Borralho"
+    ],
+    "bioData": {
+        "age": 33,
+        "DOB": "16, Jan 1993",
+        "height": "6'2\" / 187.96cm",
+        "weightClass": "Middleweight",
+        "country": "Brazil"
+    },
+    "record": {
+        "wins": 18,
+        "losses": 2,
+        "noContests": 1
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Reinier de Ridder",
+            "event": "UFC 326 - Holloway vs. Oliveira 2",
+            "date": [
+                "Mar / 07 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Nassourdine Imavov",
+            "event": "UFC Fight Night 258 - Imavov vs. Borralho",
+            "date": [
+                "Sep / 06 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jared Cannonier",
+            "event": "UFC on ESPN 62 - Cannonier vs. Borralho",
+            "date": [
+                "Aug / 24 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Paul Craig",
+            "event": "UFC 301 - Pantoja vs. Erceg",
+            "date": [
+                "May / 04 / 2024"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "2:10"
+        },
+        {
+            "result": "win",
+            "opponent": "Abusupiyan Magomedov",
+            "event": "UFC Fight Night 231 - Almeida vs. Lewis",
+            "date": [
+                "Nov / 04 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Michal Oleksiejczuk",
+            "event": "UFC on ESPN 45 - Song vs. Simon",
+            "date": [
+                "Apr / 29 / 2023"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:49"
+        },
+        {
+            "result": "win",
+            "opponent": "Makhmud Muradov",
+            "event": "UFC 280 - Oliveira vs. Makhachev",
+            "date": [
+                "Oct / 22 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Armen Petrosyan",
+            "event": "UFC on ESPN 39 - Dos Anjos vs. Fiziev",
+            "date": [
+                "Jul / 09 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Gadzhi Omargadzhiev",
+            "event": "UFC on ESPN 34 - Luque vs. Muhammad 2",
+            "date": [
+                "Apr / 16 / 2022"
+            ],
+            "method": "Technical Decision (Unanimous)",
+            "round": "3",
+            "time": "3:56"
+        },
+        {
+            "result": "win",
+            "opponent": "Jesse Murray",
+            "event": "Dana White's Contender Series - Contender Series 2021: Week 8",
+            "date": [
+                "Oct / 19 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Aaron Jeffery",
+            "event": "Dana White's Contender Series - Contender Series 2021: Week 5",
+            "date": [
+                "Sep / 28 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Wildemar Souza Santos",
+            "event": "Future MMA 12 - Night of Champions",
+            "date": [
+                "Oct / 16 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ykaro Queiroz",
+            "event": "Future MMA 10 - Furia vs. Godzilla",
+            "date": [
+                "Dec / 06 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Otavio Sagas",
+            "event": "Future MMA 8 - Babuino vs. Foguete",
+            "date": [
+                "Aug / 23 / 2019"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "3:44"
+        },
+        {
+            "result": "win",
+            "opponent": "Luiz Carlos Alves",
+            "event": "MFC - Mega Fight Championship 2",
+            "date": [
+                "Jun / 22 / 2019"
+            ],
+            "method": "Submission (Anaconda Choke)",
+            "round": "1",
+            "time": "2:03"
+        },
+        {
+            "result": "win",
+            "opponent": "Douglas Nascimento",
+            "event": "Batalha MMA - Batalha MMA 14",
+            "date": [
+                "Sep / 08 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:13"
+        },
+        {
+            "result": "NC",
+            "opponent": "Raylander Marques",
+            "event": "Vikings Fight Club 2 - Return of the Warriors",
+            "date": [
+                "Jun / 16 / 2018"
+            ],
+            "method": "No Contest",
+            "round": "1",
+            "time": "N/A"
+        },
+        {
+            "result": "win",
+            "opponent": "Luiz Carlos Alves",
+            "event": "Arena Combat - Fight Night 2",
+            "date": [
+                "Sep / 16 / 2017"
+            ],
+            "method": "TKO",
+            "round": "1",
+            "time": "0:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Edson Junior",
+            "event": "Thunder Fight 9 - Special Edition",
+            "date": [
+                "Sep / 30 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "3:05"
+        },
+        {
+            "result": "loss",
+            "opponent": "Joao Carvalho",
+            "event": "Bradar Fight - Bradar Fight 3",
+            "date": [
+                "Jul / 18 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Cleiton Rafael",
+            "event": "Evocke Fight - Gods Of War",
+            "date": [
+                "Dec / 13 / 2014"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "1:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Romulo Oliveira",
+            "event": "Bradar Fight - Bradar Fight Night 1",
+            "date": [
+                "Jun / 21 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:10"
+        }
+    ]
+}

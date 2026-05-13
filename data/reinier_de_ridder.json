@@ -1,0 +1,307 @@
+{
+    "name": [
+        "Reinier",
+        "de",
+        "Ridder"
+    ],
+    "bioData": {
+        "age": 35,
+        "DOB": "7, Sep 1990",
+        "height": "6'4\" / 193.04cm",
+        "weightClass": "Middleweight",
+        "country": "Netherlands"
+    },
+    "record": {
+        "wins": 21,
+        "losses": 4,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Caio Borralho",
+            "event": "UFC 326 - Holloway vs. Oliveira 2",
+            "date": [
+                "Mar / 07 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Brendan Allen",
+            "event": "UFC Fight Night 262 - De Ridder vs. Allen",
+            "date": [
+                "Oct / 18 / 2025"
+            ],
+            "method": "TKO (Corner Stoppage)",
+            "round": "4",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Robert Whittaker",
+            "event": "UFC on ABC 9 - Whittaker vs. de Ridder",
+            "date": [
+                "Jul / 26 / 2025"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Bo Nickal",
+            "event": "UFC on ESPN 67 - Sandhagen vs. Figueiredo",
+            "date": [
+                "May / 03 / 2025"
+            ],
+            "method": "TKO (Knee to the Body)",
+            "round": "2",
+            "time": "1:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Kevin Holland",
+            "event": "UFC 311 - Makhachev vs. Moicano",
+            "date": [
+                "Jan / 18 / 2025"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Gerald Meerschaert",
+            "event": "UFC Fight Night 247 - Magny vs. Prates",
+            "date": [
+                "Nov / 09 / 2024"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "3",
+            "time": "1:44"
+        },
+        {
+            "result": "win",
+            "opponent": "Magomedmurad Khasaev",
+            "event": "UAE Warriors 51 - Magomedov vs. Kabdulla",
+            "date": [
+                "Jul / 27 / 2024"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:24"
+        },
+        {
+            "result": "loss",
+            "opponent": "Anatoly Malykhin",
+            "event": "One Championship - One 166: Qatar",
+            "date": [
+                "Mar / 01 / 2024"
+            ],
+            "method": "TKO (Retirement)",
+            "round": "3",
+            "time": "1:16"
+        },
+        {
+            "result": "loss",
+            "opponent": "Anatoly Malykhin",
+            "event": "One Championship - One on Prime Video 5: De Ridder vs. Malykhin",
+            "date": [
+                "Dec / 02 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Vitaly Bigdash",
+            "event": "One Championship - One 159",
+            "date": [
+                "Jul / 22 / 2022"
+            ],
+            "method": "Technical Submission (Inverted Triangle Choke)",
+            "round": "1",
+            "time": "3:29"
+        },
+        {
+            "result": "win",
+            "opponent": "Kiamrian Abbasov",
+            "event": "One Championship - Full Circle",
+            "date": [
+                "Feb / 25 / 2022"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "3",
+            "time": "0:57"
+        },
+        {
+            "result": "win",
+            "opponent": "Aung La N Sang",
+            "event": "One Championship - One on TNT 4",
+            "date": [
+                "Apr / 28 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Aung La N Sang",
+            "event": "One Championship - Inside the Matrix",
+            "date": [
+                "Oct / 30 / 2020"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Leandro Ataides",
+            "event": "One Championship - Warrior's Code",
+            "date": [
+                "Feb / 07 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Gilberto Galvao",
+            "event": "One Championship - Legendary Quest",
+            "date": [
+                "Jun / 15 / 2019"
+            ],
+            "method": "KO (Knees)",
+            "round": "2",
+            "time": "0:57"
+        },
+        {
+            "result": "win",
+            "opponent": "Fan Rong",
+            "event": "One Championship - Hero's Ascent",
+            "date": [
+                "Jan / 25 / 2019"
+            ],
+            "method": "Technical Submission (Brabo Choke)",
+            "round": "1",
+            "time": "1:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Warren Allison",
+            "event": "EFC 67 - EFC Worldwide 67",
+            "date": [
+                "Mar / 10 / 2018"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Shota Gvasalia",
+            "event": "Hit-FC - Hit Fighting Championship 4",
+            "date": [
+                "Oct / 21 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Jaouad Ikan",
+            "event": "WFL MMA - World Fighting League MMA",
+            "date": [
+                "May / 27 / 2017"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "N/A"
+        },
+        {
+            "result": "win",
+            "opponent": "Lamine Talbi",
+            "event": "360 Promotion - Volition",
+            "date": [
+                "Apr / 08 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "0:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Marcus Plodek",
+            "event": "Superior FC 16 - Superior Fighting Championship 16",
+            "date": [
+                "Mar / 11 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:51"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Heinrich",
+            "event": "Superior FC 15 - Superior Fighting Championship 15",
+            "date": [
+                "Oct / 29 / 2016"
+            ],
+            "method": "TKO (Knees and Punches)",
+            "round": "1",
+            "time": "4:52"
+        },
+        {
+            "result": "win",
+            "opponent": "Michaelis Efstratiou",
+            "event": "Superior FC 14 - The Comeback",
+            "date": [
+                "May / 21 / 2016"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "1",
+            "time": "1:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Rene Hoppe",
+            "event": "Rostocker & Benefiz Fight Night - 2 in 1 Fight Night",
+            "date": [
+                "Oct / 10 / 2015"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "2",
+            "time": "1:54"
+        },
+        {
+            "result": "win",
+            "opponent": "Marco Wuest",
+            "event": "GFC - Gladiators Fighting Championship 2",
+            "date": [
+                "Jun / 01 / 2013"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "4:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Ali Saleh",
+            "event": "Staredown FC - Staredown 7",
+            "date": [
+                "Mar / 16 / 2013"
+            ],
+            "method": "Submission",
+            "round": "1",
+            "time": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "name": [
+        "Tatsuro",
+        "Taira"
+    ],
+    "bioData": {
+        "age": 26,
+        "DOB": "27, Jan 2000",
+        "height": "5'7\" / 170.18cm",
+        "weightClass": "Flyweight",
+        "country": "Japan"
+    },
+    "record": {
+        "wins": 18,
+        "losses": 2,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Joshua Van",
+            "event": "UFC 328 - Chimaev vs. Strickland",
+            "date": [
+                "May / 09 / 2026"
+            ],
+            "method": "TKO (Front Kick to the Body and Punches)",
+            "round": "5",
+            "time": "1:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Moreno",
+            "event": "UFC 323 - Dvalishvili vs. Yan 2",
+            "date": [
+                "Dec / 06 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:24"
+        },
+        {
+            "result": "win",
+            "opponent": "Hyun Sung Park",
+            "event": "UFC on ESPN 71 - Taira vs. Park",
+            "date": [
+                "Aug / 02 / 2025"
+            ],
+            "method": "Submission (Neck Crank)",
+            "round": "2",
+            "time": "1:06"
+        },
+        {
+            "result": "loss",
+            "opponent": "Brandon Royval",
+            "event": "UFC Fight Night 244 - Royval vs. Taira",
+            "date": [
+                "Oct / 12 / 2024"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alex Perez",
+            "event": "UFC on ESPN 58 - Perez vs. Taira",
+            "date": [
+                "Jun / 15 / 2024"
+            ],
+            "method": "TKO (Knee Injury)",
+            "round": "2",
+            "time": "2:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Carlos Hernandez",
+            "event": "UFC Fight Night 233 - Song vs. Gutierrez",
+            "date": [
+                "Dec / 09 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Edgar Chairez",
+            "event": "UFC 290 - Volkanovski vs. Rodriguez",
+            "date": [
+                "Jul / 08 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jesus Santos Aguilar",
+            "event": "UFC Fight Night 218 - Lewis vs. Spivak",
+            "date": [
+                "Feb / 04 / 2023"
+            ],
+            "method": "Submission (Triangle Armbar)",
+            "round": "1",
+            "time": "4:20"
+        },
+        {
+            "result": "win",
+            "opponent": "C.J. Vergara",
+            "event": "UFC Fight Night 212 - Grasso vs. Araujo",
+            "date": [
+                "Oct / 15 / 2022"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "2",
+            "time": "4:19"
+        },
+        {
+            "result": "win",
+            "opponent": "Carlos Candelario",
+            "event": "UFC on ESPN 36 - Blachowicz vs. Rakic",
+            "date": [
+                "May / 14 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alfredo Muaiad",
+            "event": "Vale Tudo Japan - VTJ 2021",
+            "date": [
+                "Nov / 06 / 2021"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Ryuya Fukuda",
+            "event": "Shooto - Professional Shooto 2021 Vol. 4",
+            "date": [
+                "Jul / 04 / 2021"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "4:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Yoshiro Maeda",
+            "event": "Shooto - Professional Shooto 2021 Vol. 2",
+            "date": [
+                "Mar / 20 / 2021"
+            ],
+            "method": "Technical Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:01"
+        },
+        {
+            "result": "win",
+            "opponent": "Kiyotaka Shimizu",
+            "event": "Shooto - Professional Shooto 2020 Vol. 7",
+            "date": [
+                "Nov / 23 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jared Almazan",
+            "event": "Shooto - Shooto 2020 in Korakuen Hall",
+            "date": [
+                "Jan / 26 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:19"
+        },
+        {
+            "result": "win",
+            "opponent": "Yamato Takagi",
+            "event": "Shooto - The Shooto Okinawa Vol. 2",
+            "date": [
+                "Nov / 03 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Takahiro Kohori",
+            "event": "Shooto - Border: Season 11 - The 3rd",
+            "date": [
+                "Sep / 22 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Yuto Sekiguchi",
+            "event": "Shooto - Gig Tokyo 27",
+            "date": [
+                "Jun / 08 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ryo Oyakawa",
+            "event": "Shooto - The Shooto Okinawa Vol. 1",
+            "date": [
+                "Nov / 25 / 2018"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "3:24"
+        },
+        {
+            "result": "win",
+            "opponent": "Yo Otake",
+            "event": "Shooto - This Is Shooto, Vol. 2",
+            "date": [
+                "Aug / 03 / 2018"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "2:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Ken Chiken",
+            "event": "Lequio Battle - Nago Vol. 1",
+            "date": [
+                "Apr / 23 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:05"
+        }
+    ]
+}

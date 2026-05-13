@@ -1,0 +1,328 @@
+{
+    "name": [
+        "Merab",
+        "Dvalishvili"
+    ],
+    "bioData": {
+        "age": 35,
+        "DOB": "10, Jan 1991",
+        "height": "5'6\" / 167.64cm",
+        "weightClass": "Bantamweight",
+        "country": "Georgia"
+    },
+    "record": {
+        "wins": 21,
+        "losses": 5,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Petr Yan",
+            "event": "UFC 323 - Dvalishvili vs. Yan 2",
+            "date": [
+                "Dec / 06 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Cory Sandhagen",
+            "event": "UFC 320 - Ankalaev vs. Pereira 2",
+            "date": [
+                "Oct / 04 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sean O'Malley",
+            "event": "UFC 316 - Dvalishvili vs. O'Malley 2",
+            "date": [
+                "Jun / 07 / 2025"
+            ],
+            "method": "Submission (North-South Choke)",
+            "round": "3",
+            "time": "4:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Umar Nurmagomedov",
+            "event": "UFC 311 - Makhachev vs. Moicano",
+            "date": [
+                "Jan / 18 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sean O'Malley",
+            "event": "UFC 306 - Noche UFC: O'Malley vs. Dvalishvili",
+            "date": [
+                "Sep / 14 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Henry Cejudo",
+            "event": "UFC 298 - Volkanovski vs. Topuria",
+            "date": [
+                "Feb / 17 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Petr Yan",
+            "event": "UFC Fight Night 221 - Yan vs. Dvalishvili",
+            "date": [
+                "Mar / 11 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Aldo",
+            "event": "UFC 278 - Usman vs. Edwards 2",
+            "date": [
+                "Aug / 20 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marlon Moraes",
+            "event": "UFC 266 - Volkanovski vs. Ortega",
+            "date": [
+                "Sep / 25 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Cody Stamann",
+            "event": "UFC on ESPN 23 - Reyes vs. Prochazka",
+            "date": [
+                "May / 01 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "John Dodson",
+            "event": "UFC 252 - Miocic vs. Cormier 3",
+            "date": [
+                "Aug / 15 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Gustavo Lopez",
+            "event": "UFC on ESPN 10 - Eye vs. Calvillo",
+            "date": [
+                "Jun / 13 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Casey Kenney",
+            "event": "UFC Fight Night 167 - Anderson vs. Blachowicz 2",
+            "date": [
+                "Feb / 15 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brad Katona",
+            "event": "UFC Fight Night 151 - Iaquinta vs. Cowboy",
+            "date": [
+                "May / 04 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Terrion Ware",
+            "event": "UFC Fight Night 136 - Hunt vs. Oleynik",
+            "date": [
+                "Sep / 15 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ricky Simon",
+            "event": "UFC Fight Night 128 - Barboza vs. Lee",
+            "date": [
+                "Apr / 21 / 2018"
+            ],
+            "method": "Technical Submission (Guillotine Choke)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Frankie Saenz",
+            "event": "UFC Fight Night 123 - Swanson vs. Ortega",
+            "date": [
+                "Dec / 09 / 2017"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Raufeon Stots",
+            "event": "ROC 59 - Ring of Combat 59",
+            "date": [
+                "Jun / 02 / 2017"
+            ],
+            "method": "KO (Spinning Backfist)",
+            "round": "1",
+            "time": "0:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Sukhrob Aydarbekov",
+            "event": "ROC 58 - Ring of Combat 58",
+            "date": [
+                "Feb / 24 / 2017"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "2",
+            "time": "4:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Tony Gravely",
+            "event": "ROC 57 - Ring of Combat 57",
+            "date": [
+                "Nov / 18 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "4:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Paul Grant",
+            "event": "ROC 56 - Ring of Combat 56",
+            "date": [
+                "Sep / 23 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "4:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Matt Tullos",
+            "event": "CES MMA 36 - Andrews vs. Muro",
+            "date": [
+                "Jun / 10 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Geoffrey Then",
+            "event": "CES MMA 34 - Curtis vs. Burrell",
+            "date": [
+                "Apr / 01 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ricky Bandejas",
+            "event": "CFFC 43 - Webb vs. Good",
+            "date": [
+                "Nov / 01 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dennis Dombrow",
+            "event": "ROC 49 - Ring of Combat 49",
+            "date": [
+                "Sep / 19 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "0:50"
+        },
+        {
+            "result": "loss",
+            "opponent": "Darren Mima",
+            "event": "ROC 47 - Ring of Combat 47",
+            "date": [
+                "Jan / 24 / 2014"
+            ],
+            "method": "Decision (Majority)",
+            "round": "3",
+            "time": "4:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Andrew Vass",
+            "event": "VCS - Victory Combat Sports",
+            "date": [
+                "May / 17 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Orlando Torres",
+            "event": "RDMMA - Battle in the South 4",
+            "date": [
+                "Jul / 14 / 2012"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "4",
+            "time": "3:00"
+        }
+    ]
+}

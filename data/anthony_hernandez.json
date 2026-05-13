@@ -1,0 +1,317 @@
+{
+    "name": [
+        "Anthony",
+        "Hernandez"
+    ],
+    "bioData": {
+        "age": 32,
+        "DOB": "18, Oct 1993",
+        "height": "6'0\" / 182.88cm",
+        "weightClass": "Middleweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 15,
+        "losses": 3,
+        "noContests": 1
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Sean Strickland",
+            "event": "UFC Fight Night 267 - Strickland vs. Hernandez",
+            "date": [
+                "Feb / 21 / 2026"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "2:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Roman Dolidze",
+            "event": "UFC on ESPN 72 - Dolidze vs. Hernandez",
+            "date": [
+                "Aug / 09 / 2025"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "4",
+            "time": "2:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Brendan Allen",
+            "event": "UFC Fight Night 252 - Cejudo vs. Song",
+            "date": [
+                "Feb / 22 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Michel Pereira",
+            "event": "UFC Fight Night 245 - Hernandez vs. Pereira",
+            "date": [
+                "Oct / 19 / 2024"
+            ],
+            "method": "TKO (Elbows)",
+            "round": "5",
+            "time": "2:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Roman Kopylov",
+            "event": "UFC 298 - Volkanovski vs. Topuria",
+            "date": [
+                "Feb / 17 / 2024"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Edmen Shahbazyan",
+            "event": "UFC Fight Night 223 - Dern vs. Hill",
+            "date": [
+                "May / 20 / 2023"
+            ],
+            "method": "TKO (Elbows and Punches)",
+            "round": "3",
+            "time": "1:01"
+        },
+        {
+            "result": "win",
+            "opponent": "Marc-Andre Barriault",
+            "event": "UFC Fight Night 210 - Sandhagen vs. Song",
+            "date": [
+                "Sep / 17 / 2022"
+            ],
+            "method": "Technical Submission (Arm-Triangle Choke)",
+            "round": "3",
+            "time": "1:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Josh Fremd",
+            "event": "UFC 273 - Volkanovski vs. Korean Zombie",
+            "date": [
+                "Apr / 09 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Rodolfo Vieira",
+            "event": "UFC 258 - Usman vs. Burns",
+            "date": [
+                "Feb / 13 / 2021"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "2",
+            "time": "1:53"
+        },
+        {
+            "result": "loss",
+            "opponent": "Kevin Holland",
+            "event": "UFC on ESPN 8 - Overeem vs. Harris",
+            "date": [
+                "May / 16 / 2020"
+            ],
+            "method": "TKO (Knees and Punches)",
+            "round": "1",
+            "time": "0:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Jun Yong Park",
+            "event": "UFC Fight Night 157 - Andrade vs. Zhang",
+            "date": [
+                "Aug / 31 / 2019"
+            ],
+            "method": "Submission (Anaconda Choke)",
+            "round": "2",
+            "time": "4:39"
+        },
+        {
+            "result": "loss",
+            "opponent": "Markus Perez",
+            "event": "UFC Fight Night 144 - Assuncao vs. Moraes 2",
+            "date": [
+                "Feb / 02 / 2019"
+            ],
+            "method": "Submission (Anaconda Choke)",
+            "round": "2",
+            "time": "1:07"
+        },
+        {
+            "result": "NC",
+            "opponent": "Jordan Wright",
+            "event": "Dana White's Tuesday Night Contender Series - Season 2, Episode 2",
+            "date": [
+                "Jun / 19 / 2018"
+            ],
+            "method": "No Contest (Overturned by NSAC)",
+            "round": "1",
+            "time": "0:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Brendan Allen",
+            "event": "LFA 32 - Allen vs. Hernandez",
+            "date": [
+                "Jan / 26 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Mike Persons",
+            "event": "GKO 9 - Global Knockout 9",
+            "date": [
+                "Mar / 18 / 2017"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "1:54"
+        },
+        {
+            "result": "win",
+            "opponent": "Jumoke Hunter",
+            "event": "GKO 7 - Global Knockout 7",
+            "date": [
+                "Aug / 27 / 2016"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "3:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Preston Snook",
+            "event": "GKO 4 - Global Knockout 4",
+            "date": [
+                "Aug / 29 / 2015"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "1:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Kenny Ento",
+            "event": "GKO 3 - Global Knockout 3",
+            "date": [
+                "Mar / 21 / 2015"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "3:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Trey Williams",
+            "event": "WFC 11 - Mitchell vs. Major",
+            "date": [
+                "Sep / 13 / 2014"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:51"
+        },
+        {
+            "result": "win",
+            "opponent": "Eric Smith",
+            "event": "WFC 5 - Andrews vs. Griffin",
+            "date": [
+                "May / 03 / 2013"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "2",
+            "time": "0:43"
+        },
+        {
+            "result": "loss",
+            "opponent": "Justin Jones",
+            "event": "KOTC - Fighting Legends",
+            "date": [
+                "Apr / 13 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Matt Wilson",
+            "event": "WFC 4 - Huckaba vs. Williams",
+            "date": [
+                "Jan / 18 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "N/A"
+        },
+        {
+            "result": "win",
+            "opponent": "Blake Smee",
+            "event": "URC 35 - Ultimate Reno Combat 35",
+            "date": [
+                "Jul / 20 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "1:11"
+        },
+        {
+            "result": "win",
+            "opponent": "Randall Wallace",
+            "event": "URC 33 - Ultimate Reno Combat 33",
+            "date": [
+                "May / 18 / 2012"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Albert Townsend",
+            "event": "Ultimate Reno Combat - Fight Factory at the Knit 1",
+            "date": [
+                "Mar / 23 / 2012"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "1:01"
+        },
+        {
+            "result": "win",
+            "opponent": "Mike Ramos",
+            "event": "URC 28 - Invincible",
+            "date": [
+                "Oct / 21 / 2011"
+            ],
+            "method": "KO (Knee to the Body)",
+            "round": "2",
+            "time": "1:51"
+        },
+        {
+            "result": "win",
+            "opponent": "Michael Green Jr.",
+            "event": "Ring of Fire - Ring of Fire 1",
+            "date": [
+                "Jun / 25 / 2010"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "2:00"
+        }
+    ]
+}

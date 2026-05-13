@@ -1,0 +1,449 @@
+{
+    "name": [
+        "Dan",
+        "Hooker"
+    ],
+    "bioData": {
+        "age": 36,
+        "DOB": "13, Feb 1990",
+        "height": "6'0\" / 182.88cm",
+        "weightClass": "Lightweight",
+        "country": "New Zealand"
+    },
+    "record": {
+        "wins": 24,
+        "losses": 14,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Benoit St. Denis",
+            "event": "UFC 325 - Volkanovski vs. Lopes 2",
+            "date": [
+                "Jan / 31 / 2026"
+            ],
+            "method": "TKO (Elbows and Punches)",
+            "round": "2",
+            "time": "4:45"
+        },
+        {
+            "result": "loss",
+            "opponent": "Arman Tsarukyan",
+            "event": "UFC Fight Night 265 - Tsarukyan vs. Hooker",
+            "date": [
+                "Nov / 22 / 2025"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "2",
+            "time": "3:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Mateusz Gamrot",
+            "event": "UFC 305 - Du Plessis vs. Adesanya",
+            "date": [
+                "Aug / 17 / 2024"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jalin Turner",
+            "event": "UFC 290 - Volkanovski vs. Rodriguez",
+            "date": [
+                "Jul / 08 / 2023"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Claudio Puelles",
+            "event": "UFC 281 - Adesanya vs. Pereira",
+            "date": [
+                "Nov / 12 / 2022"
+            ],
+            "method": "TKO (Front Kick to the Body)",
+            "round": "2",
+            "time": "4:06"
+        },
+        {
+            "result": "loss",
+            "opponent": "Arnold Allen",
+            "event": "UFC Fight Night 204 - Volkov vs. Aspinall",
+            "date": [
+                "Mar / 19 / 2022"
+            ],
+            "method": "TKO (Punches and Elbows)",
+            "round": "1",
+            "time": "2:33"
+        },
+        {
+            "result": "loss",
+            "opponent": "Islam Makhachev",
+            "event": "UFC 267 - Blachowicz vs. Teixeira",
+            "date": [
+                "Oct / 30 / 2021"
+            ],
+            "method": "Submission (Kimura)",
+            "round": "1",
+            "time": "2:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Nasrat Haqparast",
+            "event": "UFC 266 - Volkanovski vs. Ortega",
+            "date": [
+                "Sep / 25 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Michael Chandler",
+            "event": "UFC 257 - Poirier vs. McGregor 2",
+            "date": [
+                "Jan / 23 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:30"
+        },
+        {
+            "result": "loss",
+            "opponent": "Dustin Poirier",
+            "event": "UFC on ESPN 12 - Poirier vs. Hooker",
+            "date": [
+                "Jun / 27 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Paul Felder",
+            "event": "UFC Fight Night 168 - Felder vs. Hooker",
+            "date": [
+                "Feb / 23 / 2020"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Al Iaquinta",
+            "event": "UFC 243 - Whittaker vs. Adesanya",
+            "date": [
+                "Oct / 05 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "James Vick",
+            "event": "UFC on ESPN 4 - Dos Anjos vs. Edwards",
+            "date": [
+                "Jul / 20 / 2019"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "2:33"
+        },
+        {
+            "result": "loss",
+            "opponent": "Edson Barboza",
+            "event": "UFC on Fox 31 - Iaquinta vs. Lee 2",
+            "date": [
+                "Dec / 15 / 2018"
+            ],
+            "method": "KO (Punch to the Body)",
+            "round": "3",
+            "time": "2:19"
+        },
+        {
+            "result": "win",
+            "opponent": "Gilbert Burns",
+            "event": "UFC 226 - Miocic vs. Cormier",
+            "date": [
+                "Jul / 07 / 2018"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "2:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Jim Miller",
+            "event": "UFC Fight Night 128 - Barboza vs. Lee",
+            "date": [
+                "Apr / 21 / 2018"
+            ],
+            "method": "KO (Knee)",
+            "round": "1",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marc Diakiese",
+            "event": "UFC 219 - Cyborg vs. Holm",
+            "date": [
+                "Dec / 30 / 2017"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "3",
+            "time": "0:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Ross Pearson",
+            "event": "UFC Fight Night 110 - Hunt vs. Lewis",
+            "date": [
+                "Jun / 10 / 2017"
+            ],
+            "method": "KO (Knee)",
+            "round": "2",
+            "time": "3:02"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jason Knight",
+            "event": "UFC Fight Night 101 - Whittaker vs. Brunson",
+            "date": [
+                "Nov / 26 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Mark Eddiva",
+            "event": "UFC Fight Night 85 - Hunt vs. Mir",
+            "date": [
+                "Mar / 19 / 2016"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "1:24"
+        },
+        {
+            "result": "loss",
+            "opponent": "Yair Rodriguez",
+            "event": "UFC 192 - Cormier vs. Gustafsson",
+            "date": [
+                "Oct / 03 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Hatsu Hioki",
+            "event": "UFC Fight Night 65 - Miocic vs. Hunt",
+            "date": [
+                "May / 10 / 2015"
+            ],
+            "method": "KO (Head Kick and Punches)",
+            "round": "2",
+            "time": "4:13"
+        },
+        {
+            "result": "loss",
+            "opponent": "Maximo Blanco",
+            "event": "UFC Fight Night 52 - Hunt vs. Nelson",
+            "date": [
+                "Sep / 20 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ian Entwistle",
+            "event": "UFC Fight Night 43 - Te Huna vs. Marquardt",
+            "date": [
+                "Jun / 28 / 2014"
+            ],
+            "method": "TKO (Elbows)",
+            "round": "1",
+            "time": "3:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Nick Patterson",
+            "event": "AFC 6 - Australian Fighting Championship 6",
+            "date": [
+                "Aug / 24 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "0:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Rusty McBride",
+            "event": "AFC 5 - Australian Fighting Championship 5",
+            "date": [
+                "May / 10 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Sboh Ceeh Khuboni",
+            "event": "Shuriken MMA - Clash of the Continents",
+            "date": [
+                "Oct / 13 / 2012"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "2:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Chengjie Wu",
+            "event": "Legend FC - Legend Fighting Championship 9",
+            "date": [
+                "Jun / 16 / 2012"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "1",
+            "time": "3:44"
+        },
+        {
+            "result": "win",
+            "opponent": "Rusty McBride",
+            "event": "AFC 3 - Australian Fighting Championship 3",
+            "date": [
+                "Apr / 14 / 2012"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "2",
+            "time": "3:57"
+        },
+        {
+            "result": "loss",
+            "opponent": "Haotian Wu",
+            "event": "Legend FC - Legend Fighting Championship 8",
+            "date": [
+                "Mar / 30 / 2012"
+            ],
+            "method": "Technical Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "4:52"
+        },
+        {
+            "result": "win",
+            "opponent": "Yuma Ishizuka",
+            "event": "AFC 2 - Lombard vs. Taylor",
+            "date": [
+                "Sep / 03 / 2011"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Scott MacGregor",
+            "event": "SFC 8 - Triple Threat",
+            "date": [
+                "Jul / 30 / 2011"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "4:42"
+        },
+        {
+            "result": "loss",
+            "opponent": "Rob Lisita",
+            "event": "SCF 6 - Southern Supremacy",
+            "date": [
+                "Jul / 03 / 2010"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sonny Brown",
+            "event": "Rize 4 - Crowning Glory",
+            "date": [
+                "Mar / 27 / 2010"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ken Yasuda",
+            "event": "Rize 3 - Ascension",
+            "date": [
+                "Dec / 05 / 2009"
+            ],
+            "method": "TKO (Eye Injury)",
+            "round": "1",
+            "time": "3:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Adam Calver",
+            "event": "SCF 4 - Legends Rise",
+            "date": [
+                "Nov / 14 / 2009"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "2:52"
+        },
+        {
+            "result": "loss",
+            "opponent": "Adam Calver",
+            "event": "SCF 3 - Supremacy Cage Fighting 3",
+            "date": [
+                "Jul / 25 / 2009"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Mike Taylor",
+            "event": "SCF 2 - Supremacy Cage Fighting 2",
+            "date": [
+                "Mar / 07 / 2009"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "0:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Tristan Watson",
+            "event": "ICNZ - ICNZ 5",
+            "date": [
+                "Mar / 21 / 2009"
+            ],
+            "method": "Decision (Unanimous) ",
+            "round": "3",
+            "time": "3:00"
+        }
+    ]
+}

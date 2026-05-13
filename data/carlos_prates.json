@@ -1,0 +1,361 @@
+{
+    "name": [
+        "Carlos",
+        "Prates"
+    ],
+    "bioData": {
+        "age": 32,
+        "DOB": "17, Aug 1993",
+        "height": "6'1\" / 185.42cm",
+        "weightClass": "Welterweight",
+        "country": "Brazil"
+    },
+    "record": {
+        "wins": 24,
+        "losses": 7,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Jack Della Maddalena",
+            "event": "UFC Fight Night 275 - Della Maddalena vs. Prates",
+            "date": [
+                "May / 02 / 2026"
+            ],
+            "method": "TKO (Leg Kicks and Elbows)",
+            "round": "3",
+            "time": "3:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Leon Edwards",
+            "event": "UFC 322 - Della Maddalena vs. Makhachev",
+            "date": [
+                "Nov / 15 / 2025"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "1:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Geoff Neal",
+            "event": "UFC 319 - Du Plessis vs. Chimaev",
+            "date": [
+                "Aug / 16 / 2025"
+            ],
+            "method": "KO (Spinning Back Elbow)",
+            "round": "1",
+            "time": "4:59"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ian Garry",
+            "event": "UFC on ESPN 66 - Garry vs. Prates",
+            "date": [
+                "Apr / 26 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Neil Magny",
+            "event": "UFC Fight Night 247 - Magny vs. Prates",
+            "date": [
+                "Nov / 09 / 2024"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "4:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Jingliang Li",
+            "event": "UFC 305 - Du Plessis vs. Adesanya",
+            "date": [
+                "Aug / 17 / 2024"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "4:02"
+        },
+        {
+            "result": "win",
+            "opponent": "Charles Radtke",
+            "event": "UFC on ESPN 57 - Cannonier vs. Imavov",
+            "date": [
+                "Jun / 08 / 2024"
+            ],
+            "method": "KO (Knee to the Body)",
+            "round": "1",
+            "time": "4:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Trevin Giles",
+            "event": "UFC Fight Night 236 - Hermansson vs. Pyfer",
+            "date": [
+                "Feb / 10 / 2024"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "4:03"
+        },
+        {
+            "result": "win",
+            "opponent": "Mitch Ramirez",
+            "event": "Dana White's Contender Series - Contender Series 2023: Week 4",
+            "date": [
+                "Aug / 29 / 2023"
+            ],
+            "method": "TKO (Punch)",
+            "round": "2",
+            "time": "1:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Eduardo Ramon",
+            "event": "LFA 154 - Fernando vs. Silva",
+            "date": [
+                "Mar / 10 / 2023"
+            ],
+            "method": "KO (Knee)",
+            "round": "1",
+            "time": "2:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Moacir Rocha",
+            "event": "LFA 146 - Barbosa vs. Santos",
+            "date": [
+                "Nov / 04 / 2022"
+            ],
+            "method": "KO (Head Kick and Punches)",
+            "round": "1",
+            "time": "4:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Charles      Oliveira",
+            "event": "SFT 37 - Prates vs. De Oliveira",
+            "date": [
+                "Sep / 03 / 2022"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "3:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Taffarel Brasil",
+            "event": "SFT 35 - Marajo vs. Manchinha",
+            "date": [
+                "Jun / 11 / 2022"
+            ],
+            "method": "TKO (Punches and Knee)",
+            "round": "2",
+            "time": "1:52"
+        },
+        {
+            "result": "win",
+            "opponent": "Alan Silva",
+            "event": "SFT 32 - War for the Kingdom: Nogueira vs. Marajo",
+            "date": [
+                "Dec / 18 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Joseph Luciano",
+            "event": "One Championship - One Warrior Series 9",
+            "date": [
+                "Dec / 04 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Gadzhimurad Abdullaev",
+            "event": "One Championship - One Warrior Series 6",
+            "date": [
+                "Jun / 20 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Gunther Kalunda",
+            "event": "One Championship - One Warrior Series 5",
+            "date": [
+                "Apr / 25 / 2019"
+            ],
+            "method": "KO (Body Kick)",
+            "round": "2",
+            "time": "4:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Tuluosibake Kuerbanjiang",
+            "event": "WLF - W.A.R.S. 30",
+            "date": [
+                "Dec / 14 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Jiang  Tao",
+            "event": "CWM MMA - Chin Woo Men: 2016-2017 Season, Stage 7",
+            "date": [
+                "Apr / 07 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:35"
+        },
+        {
+            "result": "loss",
+            "opponent": "Mikhail Romanchuk",
+            "event": "CWM MMA - Chin Woo Men: 2016-2017 Season, Stage 3",
+            "date": [
+                "Jan / 07 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:03"
+        },
+        {
+            "result": "win",
+            "opponent": "Jiming Sun",
+            "event": "CWM MMA - Chin Woo Men: 2016-2017 Season, Stage 1",
+            "date": [
+                "Nov / 06 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:58"
+        },
+        {
+            "result": "win",
+            "opponent": "Yousef Wehbe",
+            "event": "FMD - Full Metal Dojo 8: Return of the Mack",
+            "date": [
+                "Jan / 10 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:56"
+        },
+        {
+            "result": "loss",
+            "opponent": "Ary Santos",
+            "event": "MMASH - MMA Super Heroes 6",
+            "date": [
+                "Oct / 25 / 2014"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:24"
+        },
+        {
+            "result": "win",
+            "opponent": "Bruno Pereira",
+            "event": "SFC - Strong Fight Combat",
+            "date": [
+                "Jun / 14 / 2014"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "3",
+            "time": "2:13"
+        },
+        {
+            "result": "loss",
+            "opponent": "Claudiere Freitas",
+            "event": "PFC - Premium Fight Championship 3",
+            "date": [
+                "Nov / 22 / 2013"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "3:10"
+        },
+        {
+            "result": "win",
+            "opponent": "Cosme Santos",
+            "event": "BC - Brazil Combate 2",
+            "date": [
+                "Nov / 10 / 2013"
+            ],
+            "method": "KO (Kick to the Body)",
+            "round": "1",
+            "time": "2:21"
+        },
+        {
+            "result": "loss",
+            "opponent": "Diogo Cavalcanti",
+            "event": "SFT 1 - Cane vs. Wallace",
+            "date": [
+                "Sep / 20 / 2013"
+            ],
+            "method": "Submission (Heel Hook)",
+            "round": "1",
+            "time": "4:54"
+        },
+        {
+            "result": "win",
+            "opponent": "Rodrigo Haro",
+            "event": "DF - Detonic Fight 2",
+            "date": [
+                "May / 11 / 2013"
+            ],
+            "method": "Decision (Majority)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Rafael Nunes",
+            "event": "MF - Max Fight 13",
+            "date": [
+                "May / 13 / 2012"
+            ],
+            "method": "TKO (Retirement)",
+            "round": "1",
+            "time": "2:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Renato da Silva Jr.",
+            "event": "Romani Fight Brasil 1 - Romani Fight",
+            "date": [
+                "Mar / 24 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "4:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Sergio Vieira",
+            "event": "MF - Max Fight 11",
+            "date": [
+                "Mar / 17 / 2012"
+            ],
+            "method": "TKO (Body Kick and Punches)",
+            "round": "2",
+            "time": "2:05"
+        }
+    ]
+}

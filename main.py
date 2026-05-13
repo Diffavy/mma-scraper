@@ -155,4 +155,4 @@ def saveFighter(url):
     
     print(f"Saved {fileName}.json")
 
-saveFighter("https://www.sherdog.com/fighter/Dricus-Du-Plessis-146193")
+saveFighter("https://www.sherdog.com/fighter/Steve-Erceg-228813")

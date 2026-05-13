@@ -1,0 +1,317 @@
+{
+    "name": [
+        "Steve",
+        "Garcia"
+    ],
+    "bioData": {
+        "age": 33,
+        "DOB": "22, May 1992",
+        "height": "6'0\" / 182.88cm",
+        "weightClass": "Featherweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 19,
+        "losses": 5,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Nov / 01 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Steve Garcia",
+            "event": "UFC Fight Night 263 - Garcia vs. Onama",
+            "date": [
+                "Jul / 12 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "UFC on ESPN 70 - Lewis vs. Teixeira",
+            "date": [
+                "Sep / 07 / 2024"
+            ],
+            "method": "TKO (Elbows and Punches)",
+            "round": "1",
+            "time": "3:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Diego Lopes",
+            "event": "UFC Fight Night 242 - Burns vs. Brady",
+            "date": [
+                "Jul / 20 / 2024"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:36"
+        },
+        {
+            "result": "win",
+            "opponent": "David Onama",
+            "event": "UFC on ESPN 60 - Lemos vs. Jandiroba",
+            "date": [
+                "Dec / 09 / 2023"
+            ],
+            "method": "KO (Elbows)",
+            "round": "2",
+            "time": "1:01"
+        },
+        {
+            "result": "win",
+            "opponent": "Calvin Kattar",
+            "event": "UFC Fight Night 233 - Song vs. Gutierrez",
+            "date": [
+                "Apr / 08 / 2023"
+            ],
+            "method": "KO (Body Kick and Punches)",
+            "round": "2",
+            "time": "0:36"
+        },
+        {
+            "result": "win",
+            "opponent": "Kyle Nelson",
+            "event": "UFC 287 - Pereira vs. Adesanya 2",
+            "date": [
+                "Oct / 29 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:32"
+        },
+        {
+            "result": "loss",
+            "opponent": "Seung Woo Choi",
+            "event": "UFC Fight Night 213 - Kattar vs. Allen",
+            "date": [
+                "Jun / 12 / 2022"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "1:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Melquizael Costa",
+            "event": "UFC 275 - Teixeira vs. Prochazka",
+            "date": [
+                "Oct / 09 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:51"
+        },
+        {
+            "result": "loss",
+            "opponent": "Nuerdanbieke Shayilan",
+            "event": "UFC Fight Night 194 - Dern vs. Rodriguez",
+            "date": [
+                "Feb / 29 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Chase Hooper",
+            "event": "UFC Fight Night 169 - Benavidez vs. Figueiredo",
+            "date": [
+                "Jan / 17 / 2020"
+            ],
+            "method": "TKO (Knee and Elbows)",
+            "round": "2",
+            "time": "2:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Maheshate Hayisaer",
+            "event": "LFA 80 - Garcia vs. Mariscal",
+            "date": [
+                "Aug / 20 / 2019"
+            ],
+            "method": "TKO (Punches and Elbows)",
+            "round": "1",
+            "time": "4:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Charlie Ontiveros",
+            "event": "Dana White's Contender Series - Season 3, Episode 9",
+            "date": [
+                "May / 10 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Luis Pena",
+            "event": "Fresquez Productions - Jackson-Wink Fight Night 5",
+            "date": [
+                "Nov / 30 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jose Mariscal",
+            "event": "Fresquez Productions - Jackson-Wink Fight Night 4",
+            "date": [
+                "Jun / 02 / 2018"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:47"
+        },
+        {
+            "result": "loss",
+            "opponent": "Desmond Torres",
+            "event": "Fresquez Productions - Jackson-Wink Fight Night 3",
+            "date": [
+                "Jul / 14 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Andrew Whitney",
+            "event": "Bellator 181 - Campos vs. Girtz 3",
+            "date": [
+                "Oct / 21 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Abel Cullum",
+            "event": "Bellator 162 - Shlemenko vs. Grove",
+            "date": [
+                "Mar / 04 / 2016"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Aalon Cruz",
+            "event": "Bellator 151 - Warren vs. Caldwell",
+            "date": [
+                "Sep / 25 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Joe Warren",
+            "event": "Bellator 143 - Warren vs. Davis",
+            "date": [
+                "Sep / 05 / 2014"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ronnie Lawrence",
+            "event": "Bellator MMA - Bellator 123",
+            "date": [
+                "Jun / 06 / 2014"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Ricky Turcios",
+            "event": "Bellator MMA - Bellator 121",
+            "date": [
+                "Jan / 16 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:14"
+        },
+        {
+            "result": "win",
+            "opponent": "Eduardo Bustillos",
+            "event": "Triple A MMA 4 - Caged Hostility",
+            "date": [
+                "Oct / 25 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "3:29"
+        },
+        {
+            "result": "win",
+            "opponent": "Kin Moy",
+            "event": "Bellator MMA - Bellator 105",
+            "date": [
+                "Apr / 28 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:52"
+        },
+        {
+            "result": "win",
+            "opponent": "Cody Walker",
+            "event": "Triple A MMA 1 - Chavez vs. White",
+            "date": [
+                "Mar / 04 / 2011"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "1",
+            "time": "0:16"
+        },
+        {
+            "result": "win",
+            "opponent": "Klay Guy",
+            "event": "Fresquez Productions - Double Threat",
+            "date": [
+                "Aug / 15 / 2009"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Shawn Bunch",
+            "event": "RITC 133 - Rage in the Cage 133",
+            "date": [
+                "Mar / 25 / 2006"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        }
+    ]
+}

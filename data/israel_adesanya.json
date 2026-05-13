@@ -1,0 +1,361 @@
+{
+    "name": [
+        "Israel",
+        "Adesanya"
+    ],
+    "bioData": {
+        "age": 36,
+        "DOB": "22, Jul 1989",
+        "height": "6'4\" / 193.04cm",
+        "weightClass": "Middleweight",
+        "country": "Nigeria"
+    },
+    "record": {
+        "wins": 24,
+        "losses": 6,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Joe Pyfer",
+            "event": "UFC Fight Night 271 - Adesanya vs. Pyfer",
+            "date": [
+                "Mar / 28 / 2026"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:18"
+        },
+        {
+            "result": "loss",
+            "opponent": "Nassourdine Imavov",
+            "event": "UFC Fight Night 250 - Adesanya vs. Imavov",
+            "date": [
+                "Feb / 01 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:30"
+        },
+        {
+            "result": "loss",
+            "opponent": "Dricus Du Plessis",
+            "event": "UFC 305 - Du Plessis vs. Adesanya",
+            "date": [
+                "Aug / 17 / 2024"
+            ],
+            "method": "Submission (Face Crank)",
+            "round": "4",
+            "time": "3:38"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sean Strickland",
+            "event": "UFC 293 - Adesanya vs. Strickland",
+            "date": [
+                "Sep / 09 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alex Pereira",
+            "event": "UFC 287 - Pereira vs. Adesanya 2",
+            "date": [
+                "Apr / 08 / 2023"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "4:21"
+        },
+        {
+            "result": "loss",
+            "opponent": "Alex Pereira",
+            "event": "UFC 281 - Adesanya vs. Pereira",
+            "date": [
+                "Nov / 12 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "5",
+            "time": "2:01"
+        },
+        {
+            "result": "win",
+            "opponent": "Jared Cannonier",
+            "event": "UFC 276 - Adesanya vs. Cannonier",
+            "date": [
+                "Jul / 02 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Robert Whittaker",
+            "event": "UFC 271 - Adesanya vs. Whittaker 2",
+            "date": [
+                "Feb / 12 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marvin Vettori",
+            "event": "UFC 263 - Adesanya vs. Vettori 2",
+            "date": [
+                "Jun / 12 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jan Blachowicz",
+            "event": "UFC 259 - Blachowicz vs. Adesanya",
+            "date": [
+                "Mar / 06 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Paulo Costa",
+            "event": "UFC 253 - Adesanya vs. Costa",
+            "date": [
+                "Sep / 26 / 2020"
+            ],
+            "method": "TKO (Punches and Elbows)",
+            "round": "2",
+            "time": "3:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Yoel Romero",
+            "event": "UFC 248 - Adesanya vs. Romero",
+            "date": [
+                "Mar / 07 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Robert Whittaker",
+            "event": "UFC 243 - Whittaker vs. Adesanya",
+            "date": [
+                "Oct / 05 / 2019"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "3:33"
+        },
+        {
+            "result": "win",
+            "opponent": "Kelvin Gastelum",
+            "event": "UFC 236 - Holloway vs. Poirier",
+            "date": [
+                "Apr / 13 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Anderson Silva",
+            "event": "UFC 234 - Adesanya vs. Silva",
+            "date": [
+                "Feb / 09 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Derek Brunson",
+            "event": "UFC 230 - Cormier vs. Lewis",
+            "date": [
+                "Nov / 03 / 2018"
+            ],
+            "method": "TKO (Knees and Punches)",
+            "round": "1",
+            "time": "4:51"
+        },
+        {
+            "result": "win",
+            "opponent": "Brad Tavares",
+            "event": "UFC - The Ultimate Fighter 27 Finale",
+            "date": [
+                "Jul / 06 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marvin Vettori",
+            "event": "UFC on Fox 29 - Poirier vs. Gaethje",
+            "date": [
+                "Apr / 14 / 2018"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Rob Wilkinson",
+            "event": "UFC 221 - Romero vs. Rockhold",
+            "date": [
+                "Feb / 10 / 2018"
+            ],
+            "method": "TKO (Knees and Punches)",
+            "round": "2",
+            "time": "3:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Stuart Dare",
+            "event": "HFS - Hex Fight Series 12",
+            "date": [
+                "Nov / 24 / 2017"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "1",
+            "time": "4:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Melvin Guillard",
+            "event": "AFC 20 - Australian Fighting Championship 20",
+            "date": [
+                "Jul / 28 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:49"
+        },
+        {
+            "result": "win",
+            "opponent": "Murad Kuramagomedov",
+            "event": "WLF - E.P.I.C.: Elevation Power in Cage 4",
+            "date": [
+                "May / 28 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:05"
+        },
+        {
+            "result": "win",
+            "opponent": "Andrew Flores Smith",
+            "event": "Glory of Heroes 2 - Shenzhen",
+            "date": [
+                "May / 07 / 2016"
+            ],
+            "method": "TKO (Corner Stoppage)",
+            "round": "1",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dibir Zagirov",
+            "event": "WLF - E.P.I.C.: Elevation Power in Cage 2",
+            "date": [
+                "Mar / 13 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "2:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Vladimir Katykhin",
+            "event": "WLF - E.P.I.C.: Elevation Power in Cage 1",
+            "date": [
+                "Jan / 13 / 2016"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "2",
+            "time": "N/A"
+        },
+        {
+            "result": "win",
+            "opponent": "Gele Qing",
+            "event": "WLF - Wu Lin Feng 2015: New Zealand vs. China",
+            "date": [
+                "Sep / 19 / 2015"
+            ],
+            "method": "TKO (Elbows)",
+            "round": "2",
+            "time": "3:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Maui Tuigamala",
+            "event": "FPF - Fair Pay Fighting 1",
+            "date": [
+                "Sep / 05 / 2015"
+            ],
+            "method": "KO (Kick to the Body)",
+            "round": "2",
+            "time": "1:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Kenan Song",
+            "event": "WFC - The Legend Of Emei 3",
+            "date": [
+                "Aug / 08 / 2015"
+            ],
+            "method": "TKO (Head Kick)",
+            "round": "1",
+            "time": "1:59"
+        },
+        {
+            "result": "win",
+            "opponent": "John Vake",
+            "event": "Shuriken MMA - Best of the Best",
+            "date": [
+                "Jun / 15 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:43"
+        },
+        {
+            "result": "win",
+            "opponent": "James Griffiths",
+            "event": "SFC 9 - Supremacy Fighting Championship 9",
+            "date": [
+                "Mar / 24 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:09"
+        },
+        {
+            "result": "loss",
+            "opponent": "Neroni Savaiinaea",
+            "event": "ICNZ - ICNZ 8",
+            "date": [
+                "Nov / 28 / 2009"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        }
+    ]
+}

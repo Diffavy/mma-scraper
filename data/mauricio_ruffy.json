@@ -1,0 +1,185 @@
+{
+    "name": [
+        "Mauricio",
+        "Ruffy"
+    ],
+    "bioData": {
+        "age": 29,
+        "DOB": "17, Jun 1996",
+        "height": "5'11\" / 180.34cm",
+        "weightClass": "Lightweight",
+        "country": "Brazil"
+    },
+    "record": {
+        "wins": 13,
+        "losses": 2,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Jan / 31 / 2026"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:30"
+        },
+        {
+            "result": "loss",
+            "opponent": "Mauricio Ruffy",
+            "event": "UFC 325 - Volkanovski vs. Lopes 2",
+            "date": [
+                "Sep / 06 / 2025"
+            ],
+            "method": "Submission (Face Crank)",
+            "round": "2",
+            "time": "2:56"
+        },
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "UFC Fight Night 258 - Imavov vs. Borralho",
+            "date": [
+                "Mar / 08 / 2025"
+            ],
+            "method": "KO (Spinning Wheel Kick)",
+            "round": "1",
+            "time": "2:07"
+        },
+        {
+            "result": "win",
+            "opponent": "Michael Chandler",
+            "event": "UFC 313 - Pereira vs. Ankalaev",
+            "date": [
+                "Nov / 16 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Rafael Fiziev",
+            "event": "UFC 309 - Jones vs. Miocic",
+            "date": [
+                "May / 04 / 2024"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Benoit St. Denis",
+            "event": "UFC 301 - Pantoja vs. Erceg",
+            "date": [
+                "Oct / 03 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "4:45"
+        },
+        {
+            "result": "win",
+            "opponent": "King Green",
+            "event": "Dana White's Contender Series - Contender Series 2023: Week 9",
+            "date": [
+                "May / 26 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:21"
+        },
+        {
+            "result": "win",
+            "opponent": "James Llontop",
+            "event": "CFC - Centurion FC: Rex Redemptor",
+            "date": [
+                "May / 26 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Jamie Mullarkey",
+            "event": "CFC - Centurion FC: Rex Redemptor",
+            "date": [
+                "Jun / 26 / 2022"
+            ],
+            "method": "TKO",
+            "round": "1",
+            "time": "1:25"
+        },
+        {
+            "result": "loss",
+            "opponent": "Raimond Magomedaliev",
+            "event": "APM - Arena Pride MMA 4",
+            "date": [
+                "Nov / 30 / 2019"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "2:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Ronys Torres",
+            "event": "SFT 18 - Babuino vs. Preador",
+            "date": [
+                "Jun / 22 / 2019"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Corneliu Lascar Rotaru",
+            "event": "MFC - Mega Fight Championship 2",
+            "date": [
+                "Dec / 15 / 2018"
+            ],
+            "method": "TKO (Punch)",
+            "round": "2",
+            "time": "1:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Brenno Luiz Goncalves Silva",
+            "event": "SFT 8 - Vieira vs. Pessoa",
+            "date": [
+                "Jun / 30 / 2018"
+            ],
+            "method": "TKO (Elbows)",
+            "round": "1",
+            "time": "1:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Manoel Sousa",
+            "event": "Batalha MMA 13 - Cuscianna vs Compri",
+            "date": [
+                "Aug / 26 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Derlan Marinho",
+            "event": "Gold Fight 9 - Gabriel vs. Escurr",
+            "date": [
+                "Sep / 18 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:30"
+        }
+    ]
+}

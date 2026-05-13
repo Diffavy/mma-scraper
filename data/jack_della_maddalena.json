@@ -1,0 +1,285 @@
+{
+    "name": [
+        "Jack",
+        "Della",
+        "Maddalena"
+    ],
+    "bioData": {
+        "age": 29,
+        "DOB": "10, Sep 1996",
+        "height": "5'11\" / 180.34cm",
+        "weightClass": "Welterweight",
+        "country": "Australia"
+    },
+    "record": {
+        "wins": 18,
+        "losses": 4,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Carlos Prates",
+            "event": "UFC Fight Night 275 - Della Maddalena vs. Prates",
+            "date": [
+                "May / 02 / 2026"
+            ],
+            "method": "TKO (Leg Kicks and Elbows)",
+            "round": "3",
+            "time": "3:17"
+        },
+        {
+            "result": "loss",
+            "opponent": "Islam Makhachev",
+            "event": "UFC 322 - Della Maddalena vs. Makhachev",
+            "date": [
+                "Nov / 15 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Belal Muhammad",
+            "event": "UFC 315 - Muhammad vs. Della Maddalena",
+            "date": [
+                "May / 10 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Gilbert Burns",
+            "event": "UFC 299 - O'Malley vs. Vera 2",
+            "date": [
+                "Mar / 09 / 2024"
+            ],
+            "method": "KO (Knee and Elbows)",
+            "round": "3",
+            "time": "3:43"
+        },
+        {
+            "result": "win",
+            "opponent": "Kevin Holland",
+            "event": "UFC Fight Night 227 - Grasso vs. Shevchenko 2",
+            "date": [
+                "Sep / 16 / 2023"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Bassil Hafez",
+            "event": "UFC on ESPN 49 - Holm vs. Bueno Silva",
+            "date": [
+                "Jul / 15 / 2023"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Randy Brown",
+            "event": "UFC 284 - Makhachev vs. Volkanovski",
+            "date": [
+                "Feb / 11 / 2023"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Danny Roberts",
+            "event": "UFC Fight Night 215 - Nzechukwu vs. Cutelaba",
+            "date": [
+                "Nov / 19 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:24"
+        },
+        {
+            "result": "win",
+            "opponent": "Ramazan Emeev",
+            "event": "UFC 275 - Teixeira vs. Prochazka",
+            "date": [
+                "Jun / 12 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Pete Rodriguez",
+            "event": "UFC 270 - Ngannou vs. Gane",
+            "date": [
+                "Jan / 22 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Ange Loosa",
+            "event": "Dana White's Contender Series - Contender Series 2021: Week 3",
+            "date": [
+                "Sep / 14 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Aldin Bates",
+            "event": "Eternal MMA 53 - Perth",
+            "date": [
+                "Oct / 10 / 2020"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "1:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Glen Pettigrew",
+            "event": "Eternal MMA 51 - Perth",
+            "date": [
+                "Feb / 29 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Kevin Jousset",
+            "event": "Eternal MMA 48 - Fitikefu vs. Campbell",
+            "date": [
+                "Oct / 04 / 2019"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dean Abramo",
+            "event": "Eternal MMA 37 - Della Maddalena vs. Abramo",
+            "date": [
+                "Sep / 22 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Luke Howard",
+            "event": "Eternal MMA 31 - Fitikefu vs. Della",
+            "date": [
+                "Mar / 10 / 2018"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "0:28"
+        },
+        {
+            "result": "win",
+            "opponent": "James Duckett",
+            "event": "CWFC 88 - Cage Warriors Fighting Championship 88",
+            "date": [
+                "Oct / 28 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:44"
+        },
+        {
+            "result": "win",
+            "opponent": "Ty Duncan",
+            "event": "Eternal MMA 26 - Mumford vs. Atzori",
+            "date": [
+                "Jul / 08 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:19"
+        },
+        {
+            "result": "win",
+            "opponent": "Glen Pettigrew",
+            "event": "Reign - Reign Fighting 3",
+            "date": [
+                "Apr / 08 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:26"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandt Cogill",
+            "event": "Eternal MMA 20 - Tisdell vs. Potter",
+            "date": [
+                "Oct / 15 / 2016"
+            ],
+            "method": "KO (Elbow)",
+            "round": "1",
+            "time": "1:57"
+        },
+        {
+            "result": "loss",
+            "opponent": "Darcy Vendy",
+            "event": "Eternal MMA 17 - Gross vs. Jacobsen",
+            "date": [
+                "May / 28 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:11"
+        },
+        {
+            "result": "loss",
+            "opponent": "Aldin Bates",
+            "event": "Eternal MMA 15 - Addison vs. As",
+            "date": [
+                "Mar / 12 / 2016"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "2:16"
+        },
+        {
+            "result": "win",
+            "opponent": "Cam McGuire",
+            "event": "Eternal MMA 13 - Gray vs. Simpson",
+            "date": [
+                "Nov / 20 / 2015"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "2",
+            "time": "1:49"
+        },
+        {
+            "result": "win",
+            "opponent": "Dean Abramo",
+            "event": "Battle Collossal 19 - Extreme",
+            "date": [
+                "May / 09 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        }
+    ]
+}

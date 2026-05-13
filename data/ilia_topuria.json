@@ -1,0 +1,207 @@
+{
+    "name": [
+        "Ilia",
+        "Topuria"
+    ],
+    "bioData": {
+        "age": 29,
+        "DOB": "21, Jan 1997",
+        "height": "5'8\" / 172.72cm",
+        "weightClass": "Lightweight",
+        "country": "Georgia"
+    },
+    "record": {
+        "wins": 17,
+        "losses": 0,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Jun / 28 / 2025"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "2:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Ilia Topuria",
+            "event": "UFC 317 - Topuria vs. Oliveira",
+            "date": [
+                "Oct / 26 / 2024"
+            ],
+            "method": "KO (Punches)",
+            "round": "3",
+            "time": "1:34"
+        },
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "UFC 308 - Topuria vs. Holloway",
+            "date": [
+                "Feb / 17 / 2024"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "3:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Justin Gaethje",
+            "event": "UFC 298 - Volkanovski vs. Topuria",
+            "date": [
+                "Jun / 24 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Charles Oliveira",
+            "event": "UFC on ABC 5 - Emmett vs. Topuria",
+            "date": [
+                "Dec / 10 / 2022"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "2",
+            "time": "3:10"
+        },
+        {
+            "result": "win",
+            "opponent": "Max Holloway",
+            "event": "UFC 282 - Blachowicz vs. Ankalaev",
+            "date": [
+                "Mar / 19 / 2022"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "1:07"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Volkanovski",
+            "event": "UFC Fight Night 204 - Volkov vs. Aspinall",
+            "date": [
+                "Jul / 10 / 2021"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "4:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Josh Emmett",
+            "event": "UFC 264 - Poirier vs. McGregor 3",
+            "date": [
+                "Dec / 05 / 2020"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "2:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Bryce Mitchell",
+            "event": "UFC on ESPN 19 - Hermansson vs. Vettori",
+            "date": [
+                "Oct / 10 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jai Herbert",
+            "event": "UFC Fight Night 179 - Moraes vs. Sandhagen",
+            "date": [
+                "Nov / 15 / 2019"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Ryan Hall",
+            "event": "Brave CF 29 - Brave Combat Federation 29: Torres vs. Adur",
+            "date": [
+                "Sep / 07 / 2019"
+            ],
+            "method": "Submission (Triangle Straight Armbar)",
+            "round": "1",
+            "time": "1:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Damon Jackson",
+            "event": "Brave CF 26 - Roa vs. Silva",
+            "date": [
+                "Jun / 16 / 2018"
+            ],
+            "method": "Technical Submission (Anaconda Choke)",
+            "round": "1",
+            "time": "1:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Youssef Zalal",
+            "event": "CW 94 - Cage Warriors 94",
+            "date": [
+                "Apr / 28 / 2018"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "3:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Steven Goncalves",
+            "event": "Cage - Cage 43",
+            "date": [
+                "Nov / 05 / 2016"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "2",
+            "time": "2:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Luis Gomez",
+            "event": "MFE - Mix Fight Events",
+            "date": [
+                "May / 07 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Brian Bouland",
+            "event": "MFE - Mix Fight Events",
+            "date": [
+                "May / 09 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:03"
+        },
+        {
+            "result": "win",
+            "opponent": "Mika Hamalainen",
+            "event": "Climent Club - Climent Show MMA 4",
+            "date": [
+                "Apr / 04 / 2015"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "3:30"
+        }
+    ]
+}

@@ -1,0 +1,317 @@
+{
+    "name": [
+        "Arnold",
+        "Allen"
+    ],
+    "bioData": {
+        "age": 32,
+        "DOB": "22, Jan 1994",
+        "height": "5'9\" / 175.26cm",
+        "weightClass": "Featherweight",
+        "country": "England"
+    },
+    "record": {
+        "wins": 20,
+        "losses": 4,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Jan / 24 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Arnold Allen",
+            "event": "UFC 324 - Gaethje vs. Pimblett",
+            "date": [
+                "Jul / 27 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "",
+            "event": "UFC 304 - Edwards vs. Muhammad 2",
+            "date": [
+                "Jan / 20 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Melquizael Costa",
+            "event": "UFC 297 - Strickland vs. Du Plessis",
+            "date": [
+                "Apr / 15 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jean Silva",
+            "event": "UFC on ESPN 44 - Holloway vs. Allen",
+            "date": [
+                "Oct / 29 / 2022"
+            ],
+            "method": "TKO (Knee Injury)",
+            "round": "2",
+            "time": "0:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Giga Chikadze",
+            "event": "UFC Fight Night 213 - Kattar vs. Allen",
+            "date": [
+                "Mar / 19 / 2022"
+            ],
+            "method": "TKO (Punches and Elbows)",
+            "round": "1",
+            "time": "2:33"
+        },
+        {
+            "result": "win",
+            "opponent": "Movsar Evloev",
+            "event": "UFC Fight Night 204 - Volkov vs. Aspinall",
+            "date": [
+                "Apr / 10 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Max Holloway",
+            "event": "UFC on ABC 2 - Vettori vs. Holland",
+            "date": [
+                "Jan / 25 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Calvin Kattar",
+            "event": "UFC Fight Night 166 - Blaydes vs. dos Santos",
+            "date": [
+                "Jul / 06 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dan Hooker",
+            "event": "UFC 239 - Jones vs. Santos",
+            "date": [
+                "Mar / 16 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sodiq Yusuff",
+            "event": "UFC Fight Night 147 - Till vs. Masvidal",
+            "date": [
+                "May / 27 / 2018"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "3",
+            "time": "2:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Nik Lentz",
+            "event": "UFC Fight Night 130 - Thompson vs. Till",
+            "date": [
+                "Mar / 18 / 2017"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Gilbert Melendez",
+            "event": "UFC Fight Night 107 - Manuwa vs. Anderson",
+            "date": [
+                "Feb / 27 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jordan Rinaldi",
+            "event": "UFC Fight Night 84 - Silva vs. Bisping",
+            "date": [
+                "Jun / 20 / 2015"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "3",
+            "time": "1:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Mads Burnell",
+            "event": "UFC Fight Night 69 - Jedrzejczyk vs. Penne",
+            "date": [
+                "Nov / 29 / 2014"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Makwan Amirkhani",
+            "event": "M4tC 15 - Bad Blood",
+            "date": [
+                "Aug / 22 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Yaotzin Meza",
+            "event": "CWFC 71 - Cage Warriors Fighting Championship 71",
+            "date": [
+                "Jun / 07 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alan Omer",
+            "event": "CWFC 69 - Cage Warriors Fighting Championship 69: Super Saturday",
+            "date": [
+                "Apr / 18 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Paul Cook",
+            "event": "CWFC - Fight Night 11",
+            "date": [
+                "Dec / 13 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Gaetano Pirrello",
+            "event": "CWFC 61 - Cage Warriors Fighting Championship 61",
+            "date": [
+                "Oct / 05 / 2013"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "2",
+            "time": "4:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Marcin Wrzosek",
+            "event": "CWFC 60 - Cage Warriors Fighting Championship 60",
+            "date": [
+                "Jul / 06 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Tobias Huber",
+            "event": "CWFC 56 - Cage Warriors Fighting Championship 56",
+            "date": [
+                "Feb / 02 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Doni Miller",
+            "event": "UCMMA 32 - Ultimate Challenge MMA 32",
+            "date": [
+                "Oct / 20 / 2012"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "1",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Declan Williams",
+            "event": "UWC 21 - Xplosion",
+            "date": [
+                "Apr / 07 / 2012"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "0:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Andy Green",
+            "event": "UCMMA 27 - Ultimate Challenge MMA 27",
+            "date": [
+                "Dec / 03 / 2011"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Carl Orriss",
+            "event": "ECFF - Night of Champions 2",
+            "date": [
+                "Mar / 05 / 2011"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Kim Tinghaugen",
+            "event": "ECFF - Madness",
+            "date": [
+                "Feb / 19 / 2010"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "2:27"
+        }
+    ]
+}

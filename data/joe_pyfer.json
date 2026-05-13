@@ -1,0 +1,284 @@
+{
+    "name": [
+        "Joe",
+        "Pyfer"
+    ],
+    "bioData": {
+        "age": 29,
+        "DOB": "17, Sep 1996",
+        "height": "6'1\" / 185.42cm",
+        "weightClass": "Middleweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 16,
+        "losses": 3,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Israel Adesanya",
+            "event": "UFC Fight Night 271 - Adesanya vs. Pyfer",
+            "date": [
+                "Mar / 28 / 2026"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Abusupiyan Magomedov",
+            "event": "UFC 320 - Ankalaev vs. Pereira 2",
+            "date": [
+                "Oct / 04 / 2025"
+            ],
+            "method": "Submission (Face Crank)",
+            "round": "2",
+            "time": "1:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Kelvin Gastelum",
+            "event": "UFC 316 - Dvalishvili vs. O'Malley 2",
+            "date": [
+                "Jun / 07 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marc-Andre Barriault",
+            "event": "UFC 303 - Pereira vs. Prochazka 2",
+            "date": [
+                "Jun / 29 / 2024"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:25"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jack Hermansson",
+            "event": "UFC Fight Night 236 - Hermansson vs. Pyfer",
+            "date": [
+                "Feb / 10 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Abdul Razak Alhassan",
+            "event": "UFC Fight Night 229 - Dawson vs. Green",
+            "date": [
+                "Oct / 07 / 2023"
+            ],
+            "method": "Technical Submission (Arm-Triangle Choke)",
+            "round": "2",
+            "time": "2:05"
+        },
+        {
+            "result": "win",
+            "opponent": "Gerald Meerschaert",
+            "event": "UFC 287 - Pereira vs. Adesanya 2",
+            "date": [
+                "Apr / 08 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Alen Amedovski",
+            "event": "UFC Fight Night 210 - Sandhagen vs. Song",
+            "date": [
+                "Sep / 17 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Osman Diaz",
+            "event": "Dana White's Contender Series - Contender Series 2022: Week 1",
+            "date": [
+                "Jul / 26 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Austin Trotman",
+            "event": "CFFC 104 - Cage Fury Fighting Championships 104",
+            "date": [
+                "Dec / 17 / 2021"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "2:55"
+        },
+        {
+            "result": "loss",
+            "opponent": "Dustin Stoltzfus",
+            "event": "Dana White's Contender Series - Contender Series 2020: Week 2",
+            "date": [
+                "Aug / 11 / 2020"
+            ],
+            "method": "TKO (Elbow Injury)",
+            "round": "1",
+            "time": "4:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Chase Gamble",
+            "event": "ROC 71 - Ring of Combat 71",
+            "date": [
+                "Feb / 21 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:04"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jhonoven Pati",
+            "event": "ROC 70 - Ring of Combat 70",
+            "date": [
+                "Nov / 23 / 2019"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "2",
+            "time": "1:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Matt Foster",
+            "event": "ROC 69 - Ring of Combat 69",
+            "date": [
+                "Sep / 13 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:07"
+        },
+        {
+            "result": "win",
+            "opponent": "Elijah Gbollie",
+            "event": "ROC 68 - Ring of Combat 68",
+            "date": [
+                "May / 31 / 2019"
+            ],
+            "method": "KO (Elbow and Punch)",
+            "round": "2",
+            "time": "1:36"
+        },
+        {
+            "result": "win",
+            "opponent": "Eric Roncoroni",
+            "event": "AOW 11 - Art of War Cage Fighting 11",
+            "date": [
+                "Feb / 16 / 2019"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Lorenzo Hunt",
+            "event": "AOW 8 - Art of War Cage Fighting 8",
+            "date": [
+                "Oct / 05 / 2018"
+            ],
+            "method": "Technical Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Derek Wilson",
+            "event": "CES MMA 52 - Norwood vs. Wells",
+            "date": [
+                "Aug / 17 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Steven Covington",
+            "event": "AOW 7 - Art of War Cage Fighting 7",
+            "date": [
+                "May / 18 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Sheldon Neighoff",
+            "event": "AOW 5 - Art of War Cage Fighting 5",
+            "date": [
+                "Feb / 16 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:44"
+        },
+        {
+            "result": "win",
+            "opponent": "Adam Atiyeh",
+            "event": "AOW 4 - Art of War Cage Fighting 4",
+            "date": [
+                "Dec / 08 / 2017"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Rashaun Day",
+            "event": "AOW 2 - Art of War Cage Fighting 2",
+            "date": [
+                "Jun / 02 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "0:44"
+        },
+        {
+            "result": "loss",
+            "opponent": "Victor Pozsonyi",
+            "event": "XCC 27 - Xtreme Caged Combat 27",
+            "date": [
+                "Feb / 24 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Christopher Alan",
+            "event": "XCC 26 - Xtreme Caged Combat 26: Williams vs. Abdullah",
+            "date": [
+                "Nov / 18 / 2016"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "0:17"
+        }
+    ]
+}

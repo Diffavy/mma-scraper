@@ -1,0 +1,295 @@
+{
+    "name": [
+        "Ian",
+        "Garry"
+    ],
+    "bioData": {
+        "age": 28,
+        "DOB": "17, Nov 1997",
+        "height": "6'3\" / 190.5cm",
+        "weightClass": "Welterweight",
+        "country": "Ireland"
+    },
+    "record": {
+        "wins": 17,
+        "losses": 1,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Belal Muhammad",
+            "event": "UFC Fight Night 265 - Tsarukyan vs. Hooker",
+            "date": [
+                "Nov / 22 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Carlos Prates",
+            "event": "UFC on ESPN 66 - Garry vs. Prates",
+            "date": [
+                "Apr / 26 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Shavkat Rakhmonov",
+            "event": "UFC 310 - Pantoja vs. Asakura",
+            "date": [
+                "Dec / 07 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Michael Page",
+            "event": "UFC 303 - Pereira vs. Prochazka 2",
+            "date": [
+                "Jun / 29 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Geoff Neal",
+            "event": "UFC 298 - Volkanovski vs. Topuria",
+            "date": [
+                "Feb / 17 / 2024"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Neil Magny",
+            "event": "UFC 292 - Sterling vs. O'Malley",
+            "date": [
+                "Aug / 19 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Daniel Rodriguez",
+            "event": "UFC on ABC 4 - Rozenstruik vs. Almeida",
+            "date": [
+                "May / 13 / 2023"
+            ],
+            "method": "TKO (Head Kick and Punches)",
+            "round": "1",
+            "time": "2:57"
+        },
+        {
+            "result": "win",
+            "opponent": "Kenan Song",
+            "event": "UFC 285 - Jones vs. Gane",
+            "date": [
+                "Mar / 04 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "4:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Gabriel Green",
+            "event": "UFC 276 - Adesanya vs. Cannonier",
+            "date": [
+                "Jul / 02 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Darian Weeks",
+            "event": "UFC 273 - Volkanovski vs. Korean Zombie",
+            "date": [
+                "Apr / 09 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jordan Williams",
+            "event": "UFC 268 - Usman vs. Covington 2",
+            "date": [
+                "Nov / 06 / 2021"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "4:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Jack Grant",
+            "event": "CW 125 - Cage Warriors 125",
+            "date": [
+                "Jun / 26 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Rostem Akman",
+            "event": "CW 121 - Cage Warriors 121: Sardari vs. Desmae",
+            "date": [
+                "Mar / 19 / 2021"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "2",
+            "time": "2:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Lawrence Jordan Tracey",
+            "event": "CW 119 - Cage Warriors 119: The Trilogy Strikes Back 3",
+            "date": [
+                "Dec / 12 / 2020"
+            ],
+            "method": "TKO (Punches and Elbows)",
+            "round": "1",
+            "time": "4:02"
+        },
+        {
+            "result": "win",
+            "opponent": "George McManus",
+            "event": "CW 115 - Cage Warriors 115",
+            "date": [
+                "Sep / 25 / 2020"
+            ],
+            "method": "TKO (Punches and Head Kick)",
+            "round": "2",
+            "time": "3:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Mateusz Figlak",
+            "event": "CW 110 - Cage Warriors 110",
+            "date": [
+                "Nov / 09 / 2019"
+            ],
+            "method": "Technical Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Matteo Ceglia",
+            "event": "Cage Warriors - Unplugged 2",
+            "date": [
+                "Sep / 06 / 2019"
+            ],
+            "method": "TKO (Flying Knee)",
+            "round": "2",
+            "time": "1:01"
+        },
+        {
+            "result": "win",
+            "opponent": "James Sheehan",
+            "event": "CW 101 - Cage Warriors 101",
+            "date": [
+                "Feb / 16 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Guolaugar Por Einarsson",
+            "event": "CW 99 - Cage Warriors 99",
+            "date": [
+                "Nov / 17 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Stephen Costello",
+            "event": "CLFC 9 - Cage Legacy 9",
+            "date": [
+                "Aug / 19 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "2:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Stephen Cunningham",
+            "event": "CW 32 - Clan Wars 32",
+            "date": [
+                "Jun / 24 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "N/A"
+        },
+        {
+            "result": "win",
+            "opponent": "John Smooth",
+            "event": "Budo 29 - Lee vs. Briggs",
+            "date": [
+                "Apr / 07 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:27"
+        },
+        {
+            "result": "loss",
+            "opponent": "Andreeas Binder",
+            "event": "CW 31 - Clan Wars 31",
+            "date": [
+                "Mar / 25 / 2018"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Tadhg Linnane",
+            "event": "CRC 7 - Annihilation",
+            "date": [
+                "Jan / 21 / 2018"
+            ],
+            "method": "Submission (Anaconda Choke)",
+            "round": "2",
+            "time": "1:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Audrius Andrejs Laksa",
+            "event": "CW 30 - Clan Wars 30",
+            "date": [
+                "Nov / 19 / 2017"
+            ],
+            "method": "KO",
+            "round": "1",
+            "time": "1:01"
+        }
+    ]
+}

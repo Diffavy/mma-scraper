@@ -1,0 +1,207 @@
+{
+    "name": [
+        "Aiemann",
+        "Zahabi"
+    ],
+    "bioData": {
+        "age": 38,
+        "DOB": "19, Nov 1987",
+        "height": "5'8\" / 172.72cm",
+        "weightClass": "Bantamweight",
+        "country": "Canada"
+    },
+    "record": {
+        "wins": 14,
+        "losses": 2,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Oct / 18 / 2025"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Aiemann Zahabi",
+            "event": "UFC Fight Night 262 - De Ridder vs. Allen",
+            "date": [
+                "May / 10 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "UFC 315 - Muhammad vs. Della Maddalena",
+            "date": [
+                "Nov / 02 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sean O'Malley",
+            "event": "UFC Fight Night 246 - Moreno vs. Albazi",
+            "date": [
+                "Mar / 02 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marlon Vera",
+            "event": "UFC Fight Night 238 - Rozenstruik vs. Gaziev",
+            "date": [
+                "Jun / 10 / 2023"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "1:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Aldo",
+            "event": "UFC 289 - Nunes vs. Aldana",
+            "date": [
+                "Jul / 09 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Pedro Munhoz",
+            "event": "UFC on ESPN 39 - Dos Anjos vs. Fiziev",
+            "date": [
+                "Feb / 20 / 2021"
+            ],
+            "method": "KO (Punches)",
+            "round": "1",
+            "time": "3:05"
+        },
+        {
+            "result": "loss",
+            "opponent": "Javid Basharat",
+            "event": "UFC Fight Night 185 - Blaydes vs. Lewis",
+            "date": [
+                "May / 04 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Qileng Aori",
+            "event": "UFC Fight Night 151 - Iaquinta vs. Cowboy",
+            "date": [
+                "Nov / 04 / 2017"
+            ],
+            "method": "KO (Spinning Back Elbow)",
+            "round": "3",
+            "time": "1:58"
+        },
+        {
+            "result": "win",
+            "opponent": "Ricky Turcios",
+            "event": "UFC 217 - Bisping vs. St. Pierre",
+            "date": [
+                "Feb / 19 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Drako Rodriguez",
+            "event": "UFC Fight Night 105 - Lewis vs. Browne",
+            "date": [
+                "Mar / 12 / 2016"
+            ],
+            "method": "TKO (Knee Injury)",
+            "round": "1",
+            "time": "2:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Vince Morales",
+            "event": "Prestige FC 2 - Queen City Coronation",
+            "date": [
+                "Oct / 17 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Ricardo Ramos",
+            "event": "Hybrid Combat - Hybrid Pro Series 4",
+            "date": [
+                "Mar / 13 / 2015"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "2:36"
+        },
+        {
+            "result": "win",
+            "opponent": "Reginaldo Vieira",
+            "event": "RMMA - Rivals MMA 1",
+            "date": [
+                "Nov / 15 / 2014"
+            ],
+            "method": "Submission (Ankle Lock)",
+            "round": "1",
+            "time": "4:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Kyle Oliveira",
+            "event": "Hybrid Combat - Hybrid Pro Series 2",
+            "date": [
+                "Mar / 05 / 2014"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "2:33"
+        },
+        {
+            "result": "win",
+            "opponent": "Jeremy Dichiara",
+            "event": "MMAFN - MMA Fight Night 1",
+            "date": [
+                "Nov / 30 / 2012"
+            ],
+            "method": "TKO (Submission to Punches)",
+            "round": "1",
+            "time": "1:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Scott Farhat",
+            "event": "Slamm 1 - Garcia vs. Lamarche",
+            "date": [
+                "Apr / 02 / 2011"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "1:43"
+        }
+    ]
+}

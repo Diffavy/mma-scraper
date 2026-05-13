@@ -1,0 +1,306 @@
+{
+    "name": [
+        "Asu",
+        "Almabayev"
+    ],
+    "bioData": {
+        "age": 32,
+        "DOB": "25, Jan 1994",
+        "height": "5'4\" / 162.56cm",
+        "weightClass": "Flyweight",
+        "country": "Kazakhstan"
+    },
+    "record": {
+        "wins": 23,
+        "losses": 3,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Nov / 22 / 2025"
+            ],
+            "method": "Submission (Flying Guillotine Choke)",
+            "round": "3",
+            "time": "0:22"
+        },
+        {
+            "result": "win",
+            "opponent": "Asu Almabayev",
+            "event": "UFC Fight Night 265 - Tsarukyan vs. Hooker",
+            "date": [
+                "Jul / 26 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "",
+            "event": "UFC on ABC 9 - Whittaker vs. de Ridder",
+            "date": [
+                "Mar / 01 / 2025"
+            ],
+            "method": "TKO (Retirement)",
+            "round": "3",
+            "time": "2:16"
+        },
+        {
+            "result": "win",
+            "opponent": "Charles Johnson",
+            "event": "UFC Fight Night 253 - Kape vs. Almabayev",
+            "date": [
+                "Oct / 19 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alex Perez",
+            "event": "UFC Fight Night 245 - Hernandez vs. Pereira",
+            "date": [
+                "Jun / 15 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Ochoa",
+            "event": "UFC on ESPN 58 - Perez vs. Taira",
+            "date": [
+                "Mar / 09 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Manel Kape",
+            "event": "UFC 299 - O'Malley vs. Vera 2",
+            "date": [
+                "Aug / 05 / 2023"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:11"
+        },
+        {
+            "result": "win",
+            "opponent": "Matheus Nicolau",
+            "event": "UFC on ESPN 50 - Sandhagen vs. Font",
+            "date": [
+                "Nov / 26 / 2022"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Johnson",
+            "event": "Brave CF 66 - Brave Combat Federation 66",
+            "date": [
+                "Jul / 30 / 2022"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "C.J. Vergara",
+            "event": "Brave CF 60 - Brave Combat Federation 60",
+            "date": [
+                "Mar / 11 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ode Osbourne",
+            "event": "Brave CF 57 - Brave Combat Federation 57",
+            "date": [
+                "Dec / 29 / 2021"
+            ],
+            "method": "KO (Punch)",
+            "round": "3",
+            "time": "0:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Kenneth Maningat",
+            "event": "NFC 36 - Naiza Fighter Championship 36",
+            "date": [
+                "Aug / 21 / 2021"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Zach Makovsky",
+            "event": "Brave CF 53 / Octagon 22 - Brave Combat Federation 53 / Octagon Promotion 22",
+            "date": [
+                "Dec / 25 / 2020"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:29"
+        },
+        {
+            "result": "win",
+            "opponent": "Imran Magaramov",
+            "event": "NFC 27 - Naiza Fighter Championship 27",
+            "date": [
+                "Oct / 19 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kayck Alencar",
+            "event": "M-1 Challenge 105 - Rettinghouse vs. Morozov",
+            "date": [
+                "Mar / 30 / 2019"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "2",
+            "time": "1:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Aleksander Doskalchuk",
+            "event": "M-1 Challenge 101 - Prikaza vs. Rakhmonov",
+            "date": [
+                "Dec / 15 / 2018"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:51"
+        },
+        {
+            "result": "win",
+            "opponent": "Darkhan Skakov",
+            "event": "M-1 Challenge - Battle in Atyrau",
+            "date": [
+                "Aug / 31 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Chris Kelades",
+            "event": "FNG - Fight Nights Global 88",
+            "date": [
+                "Apr / 29 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Pierre Ludet",
+            "event": "BYE 4 - 2018 Berkut Young Eagles Grand Prix: Opening Round 4",
+            "date": [
+                "Dec / 30 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kirill Fomenkov",
+            "event": "Alash Pride FC - Alash Pride",
+            "date": [
+                "Sep / 09 / 2017"
+            ],
+            "method": "Submission (Peruvian Necktie)",
+            "round": "2",
+            "time": "2:08"
+        },
+        {
+            "result": "loss",
+            "opponent": "Saud Karagishov",
+            "event": "ACB 69 - Almaty: Young Eagles 22",
+            "date": [
+                "Apr / 01 / 2017"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Shamil Akhmaev",
+            "event": "Alash Pride - Alash Aibary",
+            "date": [
+                "Jan / 28 / 2017"
+            ],
+            "method": "TKO (Submission to Punches)",
+            "round": "3",
+            "time": "4:51"
+        },
+        {
+            "result": "win",
+            "opponent": "Kenan Jafarli",
+            "event": "FNG - Fight Nights Global 58",
+            "date": [
+                "Apr / 22 / 2016"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "3:41"
+        },
+        {
+            "result": "win",
+            "opponent": "Ibragim Mamaev",
+            "event": "EFN - Fight Nights Global 45",
+            "date": [
+                "Mar / 03 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Mehman Mamedov",
+            "event": "Tech-Krep FC - Southern Front 3",
+            "date": [
+                "Feb / 14 / 2016"
+            ],
+            "method": "TKO",
+            "round": "1",
+            "time": "4:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Tagir Ulanbekov",
+            "event": "Alash Pride - Selection 13",
+            "date": [
+                "Jun / 01 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        }
+    ]
+}

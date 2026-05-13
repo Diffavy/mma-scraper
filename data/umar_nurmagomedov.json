@@ -1,0 +1,295 @@
+{
+    "name": [
+        "Umar",
+        "Nurmagomedov"
+    ],
+    "bioData": {
+        "age": 30,
+        "DOB": "3, Jan 1996",
+        "height": "5'8\" / 172.72cm",
+        "weightClass": "Bantamweight",
+        "country": "Russia"
+    },
+    "record": {
+        "wins": 20,
+        "losses": 1,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Deiveson Figueiredo",
+            "event": "UFC 324 - Gaethje vs. Pimblett",
+            "date": [
+                "Jan / 24 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Mario Bautista",
+            "event": "UFC 321 - Aspinall vs. Gane",
+            "date": [
+                "Oct / 25 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Merab Dvalishvili",
+            "event": "UFC 311 - Makhachev vs. Moicano",
+            "date": [
+                "Jan / 18 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Cory Sandhagen",
+            "event": "UFC on ABC 7 - Sandhagen vs. Nurmagomedov",
+            "date": [
+                "Aug / 03 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Bekzat Almakhan",
+            "event": "UFC Fight Night 238 - Rozenstruik vs. Gaziev",
+            "date": [
+                "Mar / 02 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Raoni Barcelos",
+            "event": "UFC Fight Night 217 - Strickland vs. Imavov",
+            "date": [
+                "Jan / 14 / 2023"
+            ],
+            "method": "KO (Body Kick and Punch)",
+            "round": "1",
+            "time": "4:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Nathan Maness",
+            "event": "UFC on ESPN 38 - Tsarukyan vs. Gamrot",
+            "date": [
+                "Jun / 25 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brian Kelleher",
+            "event": "UFC 272 - Covington vs. Masvidal",
+            "date": [
+                "Mar / 05 / 2022"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Sergey Morozov",
+            "event": "UFC on ESPN 20 - Chiesa vs. Magny",
+            "date": [
+                "Jan / 20 / 2021"
+            ],
+            "method": "Technical Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Braian Gonzalez",
+            "event": "GFC 20 - Gorilla Fighting 20",
+            "date": [
+                "Nov / 23 / 2019"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Sidemar Honorio",
+            "event": "Professional Fighters League - PFL 6: 2019 Regular Season",
+            "date": [
+                "Aug / 08 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Taras Gryckiv",
+            "event": "GFC 14 - Gorilla Fighting 14: Dagestan",
+            "date": [
+                "Jul / 13 / 2019"
+            ],
+            "method": "Submission (Rear-Naked Choke) ",
+            "round": "1",
+            "time": "2:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Wagner Lima",
+            "event": "Battle on Volga 10 - Nurmagomedov vs Lima",
+            "date": [
+                "Apr / 14 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Saidyokub Kakhramonov",
+            "event": "Professional Fighters League - PFL 7: 2018 Regular Season",
+            "date": [
+                "Aug / 30 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Fatkhidin Sobirov",
+            "event": "Samara MMA Federation - Battle on the Volga 4",
+            "date": [
+                "May / 11 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Shyudi Yamauchi",
+            "event": "FNG - Fight Nights Global 83",
+            "date": [
+                "Feb / 22 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Nauruz Dzamikhov",
+            "event": "FNG - Fight Nights Global 76",
+            "date": [
+                "Oct / 08 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Valisher Rakhmonov",
+            "event": "FNG - Fight Nights Global 71",
+            "date": [
+                "Jul / 29 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "4:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Alym Isabaev",
+            "event": "FNG - Fight Nights Global 62",
+            "date": [
+                "Mar / 31 / 2017"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:32"
+        },
+        {
+            "result": "win",
+            "opponent": "Ulukbek Amanbaev",
+            "event": "Fight Star - Battle on Sura 6",
+            "date": [
+                "Jan / 05 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Rishat Kharisov",
+            "event": "EFN - Fight Nights Global 57",
+            "date": [
+                "Dec / 16 / 2016"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "2",
+            "time": "3:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Artur Mykytenko",
+            "event": "WMMAA - 2016 World MMA Championships - Finals",
+            "date": [
+                "Nov / 26 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Chunbo Yuan",
+            "event": "WMMAA - 2016 World MMA Championships - Selection",
+            "date": [
+                "Nov / 25 / 2016"
+            ],
+            "method": "",
+            "round": "0",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Benjamin Molnar",
+            "event": "WMMAA - 2016 World MMA Championships - Selection",
+            "date": [
+                "Nov / 25 / 2016"
+            ],
+            "method": "",
+            "round": "0",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Seung Gyun Cho",
+            "event": "WMMAA - 2016 World MMA Championships - Selection",
+            "date": [
+                "Nov / 25 / 2016"
+            ],
+            "method": "",
+            "round": "0",
+            "time": "0:00"
+        }
+    ]
+}

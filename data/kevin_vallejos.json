@@ -1,0 +1,273 @@
+{
+    "name": [
+        "Kevin",
+        "Vallejos"
+    ],
+    "bioData": {
+        "age": 24,
+        "DOB": "8, Dec 2001",
+        "height": "5'7\" / 170.18cm",
+        "weightClass": "Featherweight",
+        "country": "Argentina"
+    },
+    "record": {
+        "wins": 18,
+        "losses": 1,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Josh Emmett",
+            "event": "UFC Fight Night 269 - Emmett vs. Vallejos",
+            "date": [
+                "Mar / 14 / 2026"
+            ],
+            "method": "TKO (Knees and Punches)",
+            "round": "1",
+            "time": "3:33"
+        },
+        {
+            "result": "win",
+            "opponent": "Giga Chikadze",
+            "event": "UFC on ESPN 73 - Royval vs. Kape",
+            "date": [
+                "Dec / 13 / 2025"
+            ],
+            "method": "KO (Spinning Backfist and Elbows)",
+            "round": "2",
+            "time": "1:29"
+        },
+        {
+            "result": "win",
+            "opponent": "Danny Silva",
+            "event": "UFC on ESPN 71 - Taira vs. Park",
+            "date": [
+                "Aug / 02 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Seung Woo Choi",
+            "event": "UFC Fight Night 254 - Vettori vs. Dolidze 2",
+            "date": [
+                "Mar / 15 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:09"
+        },
+        {
+            "result": "win",
+            "opponent": "Cam Teague",
+            "event": "Dana White's Contender Series - Contender Series 2024: Week 7",
+            "date": [
+                "Sep / 24 / 2024"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Gonzalo Contreras",
+            "event": "SFH 15 - El Chino vs. La Pantera",
+            "date": [
+                "Mar / 02 / 2024"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "4:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Maximiliano Perez",
+            "event": "SFH 14 - Tito vs. El Toro",
+            "date": [
+                "Dec / 22 / 2023"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "1:30"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jean Silva",
+            "event": "Dana White's Contender Series - Contender Series 2023: Week 5",
+            "date": [
+                "Sep / 05 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Luiz Eduardo Garagorri",
+            "event": "SFH 11 - Vallejos vs. Garagorri",
+            "date": [
+                "May / 13 / 2023"
+            ],
+            "method": "TKO (Elbows and Punches)",
+            "round": "2",
+            "time": "3:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Natanael Aldo Espindola",
+            "event": "SFH 10 - El Chino vs. Villalba",
+            "date": [
+                "Mar / 11 / 2023"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Nestor Machado",
+            "event": "SFH 8 - Prado vs. Espindola",
+            "date": [
+                "Dec / 16 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Emmanuel Vallejos",
+            "event": "SFH 7 - Campo vs. Taboada",
+            "date": [
+                "Nov / 19 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Pablo Etelechea",
+            "event": "SFH 6 - El Chino vs. Ziller",
+            "date": [
+                "Oct / 15 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:06"
+        },
+        {
+            "result": "win",
+            "opponent": "Mauricio Gabriel Flores",
+            "event": "SFH 5 - Prado vs. La Furia",
+            "date": [
+                "Jun / 19 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:49"
+        },
+        {
+            "result": "win",
+            "opponent": "Gabriel Vargas",
+            "event": "SFH 4 - Perez vs. Bragayrac",
+            "date": [
+                "May / 22 / 2022"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:59"
+        },
+        {
+            "result": "win",
+            "opponent": "Jesus Ru",
+            "event": "CAM 7 - Circuito Argentino de MMA 7",
+            "date": [
+                "Mar / 12 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Lucas Miletich",
+            "event": "SFH 3 - Prado vs. Basualdo",
+            "date": [
+                "Feb / 12 / 2022"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "4:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Matias Ponce",
+            "event": "CF 1 - Cobra Fighter 1",
+            "date": [
+                "Dec / 05 / 2021"
+            ],
+            "method": "KO",
+            "round": "1",
+            "time": "0:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Rocco Cena",
+            "event": "SW 6 - Supreme Warriors 6",
+            "date": [
+                "Sep / 04 / 2021"
+            ],
+            "method": "KO",
+            "round": "2",
+            "time": "3:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Diego Valencia",
+            "event": "Ultimate Fighting Brothers - Argentina vs. Chile",
+            "date": [
+                "Sep / 28 / 2019"
+            ],
+            "method": "TKO",
+            "round": "1",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Emiliano Ramirez",
+            "event": "Best Warriors Championship - The Best of the Best",
+            "date": [
+                "Jul / 13 / 2019"
+            ],
+            "method": "TKO",
+            "round": "0",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Emiliano Vidaurre",
+            "event": "UFS 6 - Figueredo vs. Borda",
+            "date": [
+                "Jun / 09 / 2019"
+            ],
+            "method": "Submission",
+            "round": "1",
+            "time": "1:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Juan Lopez",
+            "event": "WUSJJ - Peregrinos Fight",
+            "date": [
+                "Dec / 22 / 2018"
+            ],
+            "method": "TKO",
+            "round": "0",
+            "time": "0:00"
+        }
+    ]
+}

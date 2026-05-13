@@ -1,0 +1,295 @@
+{
+    "name": [
+        "Kamaru",
+        "Usman"
+    ],
+    "bioData": {
+        "age": 39,
+        "DOB": "11, May 1987",
+        "height": "6'0\" / 182.88cm",
+        "weightClass": "Welterweight",
+        "country": "Nigeria"
+    },
+    "record": {
+        "wins": 21,
+        "losses": 4,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Joaquin Buckley",
+            "event": "UFC on ESPN 69 - Usman vs. Buckley",
+            "date": [
+                "Jun / 14 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Khamzat Chimaev",
+            "event": "UFC 294 - Makhachev vs. Volkanovski 2",
+            "date": [
+                "Oct / 21 / 2023"
+            ],
+            "method": "Decision (Majority)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Leon Edwards",
+            "event": "UFC 286 - Edwards vs. Usman 3",
+            "date": [
+                "Mar / 18 / 2023"
+            ],
+            "method": "Decision (Majority)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Leon Edwards",
+            "event": "UFC 278 - Usman vs. Edwards 2",
+            "date": [
+                "Aug / 20 / 2022"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "5",
+            "time": "4:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Colby Covington",
+            "event": "UFC 268 - Usman vs. Covington 2",
+            "date": [
+                "Nov / 06 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jorge Masvidal",
+            "event": "UFC 261 - Usman vs. Masvidal 2",
+            "date": [
+                "Apr / 24 / 2021"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "1:02"
+        },
+        {
+            "result": "win",
+            "opponent": "Gilbert Burns",
+            "event": "UFC 258 - Usman vs. Burns",
+            "date": [
+                "Feb / 13 / 2021"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "0:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Jorge Masvidal",
+            "event": "UFC 251 - Usman vs. Masvidal",
+            "date": [
+                "Jul / 11 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Colby Covington",
+            "event": "UFC 245 - Usman vs. Covington",
+            "date": [
+                "Dec / 14 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "5",
+            "time": "4:10"
+        },
+        {
+            "result": "win",
+            "opponent": "Tyron Woodley",
+            "event": "UFC 235 - Jones vs. Smith",
+            "date": [
+                "Mar / 02 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Rafael dos Anjos",
+            "event": "UFC - The Ultimate Fighter 28 Finale",
+            "date": [
+                "Nov / 30 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Demian Maia",
+            "event": "UFC Fight Night 129 - Maia vs. Usman",
+            "date": [
+                "May / 19 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Emil Meek",
+            "event": "UFC Fight Night 124 - Stephens vs. Choi",
+            "date": [
+                "Jan / 14 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sergio Moraes",
+            "event": "UFC Fight Night 116 - Rockhold vs. Branch",
+            "date": [
+                "Sep / 16 / 2017"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "2:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Sean Strickland",
+            "event": "UFC 210 - Cormier vs. Johnson 2",
+            "date": [
+                "Apr / 08 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Warlley Alves",
+            "event": "UFC Fight Night 100 - Bader vs. Nogueira 2",
+            "date": [
+                "Nov / 19 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Yakovlev",
+            "event": "UFC on Fox 20 - Holm vs. Shevchenko",
+            "date": [
+                "Jul / 23 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Leon Edwards",
+            "event": "UFC on Fox 17 - Dos Anjos vs. Cerrone 2",
+            "date": [
+                "Dec / 19 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Hayder Hassan",
+            "event": "UFC - The Ultimate Fighter 21 Finale",
+            "date": [
+                "Jul / 12 / 2015"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "2",
+            "time": "1:19"
+        },
+        {
+            "result": "win",
+            "opponent": "Marcus Hicks",
+            "event": "LFC 33 - Legacy Fighting Championship 33",
+            "date": [
+                "Jul / 18 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Lenny Lovato",
+            "event": "LFC 30 - Legacy Fighting Championship 30",
+            "date": [
+                "Apr / 04 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "3",
+            "time": "1:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Steven    Rodriguez",
+            "event": "LFC 27 - Legacy Fighting Championship 27",
+            "date": [
+                "Jan / 31 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Rashid Abdullah",
+            "event": "VFC - Victory Fighting Championship 41",
+            "date": [
+                "Dec / 14 / 2013"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:49"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jose Caceres",
+            "event": "CFA 11 - Kyle vs. Wiuff",
+            "date": [
+                "May / 24 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:47"
+        },
+        {
+            "result": "win",
+            "opponent": "David Glover",
+            "event": "RFA 5 - Downing vs. Rinaldi",
+            "date": [
+                "Nov / 30 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:50"
+        }
+    ]
+}

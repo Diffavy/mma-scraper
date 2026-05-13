@@ -1,0 +1,339 @@
+{
+    "name": [
+        "Islam",
+        "Makhachev"
+    ],
+    "bioData": {
+        "age": 34,
+        "DOB": "27, Oct 1991",
+        "height": "5'10\" / 177.8cm",
+        "weightClass": "Lightweight",
+        "country": "Russia"
+    },
+    "record": {
+        "wins": 28,
+        "losses": 1,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Jack Della Maddalena",
+            "event": "UFC 322 - Della Maddalena vs. Makhachev",
+            "date": [
+                "Nov / 15 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Renato Carneiro",
+            "event": "UFC 311 - Makhachev vs. Moicano",
+            "date": [
+                "Jan / 18 / 2025"
+            ],
+            "method": "Submission (Brabo Choke)",
+            "round": "1",
+            "time": "4:05"
+        },
+        {
+            "result": "win",
+            "opponent": "Dustin Poirier",
+            "event": "UFC 302 - Makhachev vs. Poirier",
+            "date": [
+                "Jun / 01 / 2024"
+            ],
+            "method": "Submission (Brabo Choke)",
+            "round": "5",
+            "time": "2:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Volkanovski",
+            "event": "UFC 294 - Makhachev vs. Volkanovski 2",
+            "date": [
+                "Oct / 21 / 2023"
+            ],
+            "method": "KO (Head Kick and Punches)",
+            "round": "1",
+            "time": "3:06"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexander Volkanovski",
+            "event": "UFC 284 - Makhachev vs. Volkanovski",
+            "date": [
+                "Feb / 11 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Charles Oliveira",
+            "event": "UFC 280 - Oliveira vs. Makhachev",
+            "date": [
+                "Oct / 22 / 2022"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "2",
+            "time": "3:16"
+        },
+        {
+            "result": "win",
+            "opponent": "King Green",
+            "event": "UFC Fight Night 202 - Makhachev vs. Green",
+            "date": [
+                "Feb / 26 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:23"
+        },
+        {
+            "result": "win",
+            "opponent": "Dan Hooker",
+            "event": "UFC 267 - Blachowicz vs. Teixeira",
+            "date": [
+                "Oct / 30 / 2021"
+            ],
+            "method": "Submission (Kimura)",
+            "round": "1",
+            "time": "2:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Thiago Moises",
+            "event": "UFC on ESPN 26 - Makhachev vs. Moises",
+            "date": [
+                "Jul / 17 / 2021"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "4",
+            "time": "2:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Drew Dober",
+            "event": "UFC 259 - Blachowicz vs. Adesanya",
+            "date": [
+                "Mar / 06 / 2021"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "3",
+            "time": "1:37"
+        },
+        {
+            "result": "win",
+            "opponent": "Davi Ramos",
+            "event": "UFC 242 - Khabib vs. Poirier",
+            "date": [
+                "Sep / 07 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Arman Tsarukyan",
+            "event": "UFC Fight Night 149 - Overeem vs. Oleynik",
+            "date": [
+                "Apr / 20 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kajan Johnson",
+            "event": "UFC on Fox 30 - Alvarez vs. Poirier 2",
+            "date": [
+                "Jul / 28 / 2018"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "4:43"
+        },
+        {
+            "result": "win",
+            "opponent": "Gleison Tibau",
+            "event": "UFC 220 - Miocic vs. Ngannou",
+            "date": [
+                "Jan / 20 / 2018"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:57"
+        },
+        {
+            "result": "win",
+            "opponent": "Nik Lentz",
+            "event": "UFC 208 - Holm vs. De Randamie",
+            "date": [
+                "Feb / 11 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Chris Wade",
+            "event": "UFC Fight Night 94 - Poirier vs. Johnson",
+            "date": [
+                "Sep / 17 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Adriano Martins",
+            "event": "UFC 192 - Cormier vs. Gustafsson",
+            "date": [
+                "Oct / 03 / 2015"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "1:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Leo Kuntz",
+            "event": "UFC 187 - Johnson vs. Cormier",
+            "date": [
+                "May / 23 / 2015"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "2:38"
+        },
+        {
+            "result": "win",
+            "opponent": "Ivica Truscek",
+            "event": "M-1 Challenge 51 - Fightspirit",
+            "date": [
+                "Sep / 07 / 2014"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "3",
+            "time": "4:45"
+        },
+        {
+            "result": "win",
+            "opponent": "Yuri Ivlev",
+            "event": "M-1 Challenge 49 - Battle in the Mountains",
+            "date": [
+                "Jun / 07 / 2014"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "3:10"
+        },
+        {
+            "result": "win",
+            "opponent": "Rander Junio",
+            "event": "M-1 Global - M-1 Challenge 41",
+            "date": [
+                "Aug / 21 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Mansour Barnaoui",
+            "event": "M-1 Challenge 38 - Spring Battle",
+            "date": [
+                "Apr / 09 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Anatoly Kormilkin",
+            "event": "Lion's Fights 2 - Battle of Two Capitals",
+            "date": [
+                "Sep / 02 / 2012"
+            ],
+            "method": "Submission (Inverted Triangle Choke)",
+            "round": "1",
+            "time": "3:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Migel Grigoryan",
+            "event": "SFC - Siberian Fighting Championship 1",
+            "date": [
+                "Dec / 15 / 2011"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "4:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Vladimir Egoyan",
+            "event": "ProFC - Union Nation Cup Final",
+            "date": [
+                "Jul / 02 / 2011"
+            ],
+            "method": "Decision (Split)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Magomed Ibragimov",
+            "event": "TFC 5 - Tsumada Fighting Championship",
+            "date": [
+                "Jul / 01 / 2011"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "2",
+            "time": "3:15"
+        },
+        {
+            "result": "win",
+            "opponent": "Martiros Grigoryan",
+            "event": "ProFC - Union Nation Cup 15",
+            "date": [
+                "May / 06 / 2011"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:52"
+        },
+        {
+            "result": "win",
+            "opponent": "Tengiz Khuchua",
+            "event": "M-1 Selection Ukraine 2010 - The Finals",
+            "date": [
+                "Feb / 12 / 2011"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "0:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Magomed Bekbolatov",
+            "event": "TFC 4 - Tsumada Fighting Championship",
+            "date": [
+                "Aug / 01 / 2010"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "2",
+            "time": "5:00"
+        }
+    ]
+}

@@ -1,0 +1,427 @@
+{
+    "name": [
+        "Marlon",
+        "Vera"
+    ],
+    "bioData": {
+        "age": 33,
+        "DOB": "2, Dec 1992",
+        "height": "5'8\" / 172.72cm",
+        "weightClass": "Bantamweight",
+        "country": "Ecuador"
+    },
+    "record": {
+        "wins": 23,
+        "losses": 12,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "David Martinez",
+            "event": "UFC Fight Night 268 - Moreno vs. Kavanagh",
+            "date": [
+                "Feb / 28 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Aiemann Zahabi",
+            "event": "UFC Fight Night 262 - De Ridder vs. Allen",
+            "date": [
+                "Oct / 18 / 2025"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Deiveson Figueiredo",
+            "event": "UFC on ABC 7 - Sandhagen vs. Nurmagomedov",
+            "date": [
+                "Aug / 03 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sean O'Malley",
+            "event": "UFC 299 - O'Malley vs. Vera 2",
+            "date": [
+                "Mar / 09 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Pedro Munhoz",
+            "event": "UFC 292 - Sterling vs. O'Malley",
+            "date": [
+                "Aug / 19 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Cory Sandhagen",
+            "event": "UFC on ESPN 43 - Vera vs. Sandhagen",
+            "date": [
+                "Mar / 25 / 2023"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dominick Cruz",
+            "event": "UFC on ESPN 41 - Vera vs. Cruz",
+            "date": [
+                "Aug / 13 / 2022"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "4",
+            "time": "2:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Rob Font",
+            "event": "UFC on ESPN 35 - Font vs. Vera",
+            "date": [
+                "Apr / 30 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Frankie Edgar",
+            "event": "UFC 268 - Usman vs. Covington 2",
+            "date": [
+                "Nov / 06 / 2021"
+            ],
+            "method": "KO (Front Kick)",
+            "round": "3",
+            "time": "3:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Davey Grant",
+            "event": "UFC on ESPN 25 - Korean Zombie vs. Ige",
+            "date": [
+                "Jun / 19 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jose Aldo",
+            "event": "UFC Fight Night 183 - Thompson vs. Neal",
+            "date": [
+                "Dec / 19 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Sean O'Malley",
+            "event": "UFC 252 - Miocic vs. Cormier 3",
+            "date": [
+                "Aug / 15 / 2020"
+            ],
+            "method": "TKO (Elbows and Punches)",
+            "round": "1",
+            "time": "4:40"
+        },
+        {
+            "result": "loss",
+            "opponent": "Yadong Song",
+            "event": "UFC on ESPN 8 - Overeem vs. Harris",
+            "date": [
+                "May / 16 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Andre Ewell",
+            "event": "UFC Fight Night 161 - Jedrzejczyk vs. Waterson",
+            "date": [
+                "Oct / 12 / 2019"
+            ],
+            "method": "TKO (Elbow and Punches)",
+            "round": "3",
+            "time": "3:17"
+        },
+        {
+            "result": "win",
+            "opponent": "Nohelin Hernandez",
+            "event": "UFC 239 - Jones vs. Santos",
+            "date": [
+                "Jul / 06 / 2019"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "3:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Frankie Saenz",
+            "event": "UFC Fight Night 148 - Thompson vs. Pettis",
+            "date": [
+                "Mar / 23 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "1:25"
+        },
+        {
+            "result": "win",
+            "opponent": "Guido Cannetti",
+            "event": "UFC Fight Night 140 - Magny vs. Ponzinibbio",
+            "date": [
+                "Nov / 17 / 2018"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Lijiburen Wu",
+            "event": "UFC 227 - Dillashaw vs. Garbrandt 2",
+            "date": [
+                "Aug / 04 / 2018"
+            ],
+            "method": "KO (Punch to the Body)",
+            "round": "2",
+            "time": "4:53"
+        },
+        {
+            "result": "loss",
+            "opponent": "Douglas Silva de Andrade",
+            "event": "UFC Fight Night 125 - Machida vs. Anders",
+            "date": [
+                "Feb / 03 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "John Lineker",
+            "event": "UFC Fight Night 119 - Brunson vs. Machida",
+            "date": [
+                "Oct / 28 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brian Kelleher",
+            "event": "UFC on Fox 25 - Weidman vs. Gastelum",
+            "date": [
+                "Jul / 22 / 2017"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "2:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Brad Pickett",
+            "event": "UFC Fight Night 107 - Manuwa vs. Anderson",
+            "date": [
+                "Mar / 18 / 2017"
+            ],
+            "method": "TKO (Head Kick and Punches)",
+            "round": "3",
+            "time": "3:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Guangyou Ning",
+            "event": "UFC Fight Night 101 - Whittaker vs. Brunson",
+            "date": [
+                "Nov / 26 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Davey Grant",
+            "event": "UFC Fight Night 84 - Silva vs. Bisping",
+            "date": [
+                "Feb / 27 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Roman Salazar",
+            "event": "UFC Fight Night 73 - Teixeira vs. St. Preux",
+            "date": [
+                "Aug / 08 / 2015"
+            ],
+            "method": "Submission (Triangle Armbar)",
+            "round": "2",
+            "time": "2:15"
+        },
+        {
+            "result": "loss",
+            "opponent": "Marco Beltran",
+            "event": "UFC 180 - Werdum vs. Hunt",
+            "date": [
+                "Nov / 15 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "D'Juan Owens",
+            "event": "Inka 24 - Inka Fighting Championship 24",
+            "date": [
+                "Oct / 23 / 2013"
+            ],
+            "method": "Submission (Heel Hook)",
+            "round": "1",
+            "time": "1:54"
+        },
+        {
+            "result": "loss",
+            "opponent": "Bruno Leandro Soares Lobato",
+            "event": "Inka 23 - Pequeno vs. Owens",
+            "date": [
+                "Aug / 24 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "draw",
+            "opponent": "Fabio Bispo",
+            "event": "Inka 22 - Reiter vs. De Lima",
+            "date": [
+                "Jun / 29 / 2013"
+            ],
+            "method": "Draw",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Luis Roberto Herrera",
+            "event": "FMP 16 - We Don't Stop",
+            "date": [
+                "May / 25 / 2013"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:50"
+        },
+        {
+            "result": "win",
+            "opponent": "Joel Iglesias",
+            "event": "300 Sparta 1 - MMA",
+            "date": [
+                "Apr / 24 / 2013"
+            ],
+            "method": "KO (Elbows)",
+            "round": "1",
+            "time": "4:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Javier Umana Munoz",
+            "event": "Panama Fight League - Ultimate Combat Challenge 13",
+            "date": [
+                "Jan / 18 / 2013"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "2",
+            "time": "4:44"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexis Patino Pinos",
+            "event": "Punisher 4 - Punisher Machala 4",
+            "date": [
+                "May / 26 / 2012"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jack Guzman",
+            "event": "Samurai FC 7 - Peace and War",
+            "date": [
+                "Feb / 20 / 2012"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Cesar Moreno",
+            "event": "EMMA 2 - Extreme FC: Conflicto",
+            "date": [
+                "Jun / 18 / 2011"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Romel Orosco",
+            "event": "QFC 3 - Quito Fight Club 3",
+            "date": [
+                "Jul / 24 / 2010"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "2",
+            "time": "1:12"
+        },
+        {
+            "result": "win",
+            "opponent": "Enrique Briones",
+            "event": "UFC - The Ultimate Fighter: Latin America Season 1 Quarterfinals, Day 5",
+            "date": [
+                "Jun / 03 / 2014"
+            ],
+            "method": "KO (Upkick)",
+            "round": "2",
+            "time": "2:33"
+        }
+    ]
+}

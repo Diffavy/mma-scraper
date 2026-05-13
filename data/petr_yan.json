@@ -1,0 +1,328 @@
+{
+    "name": [
+        "Petr",
+        "Yan"
+    ],
+    "bioData": {
+        "age": 33,
+        "DOB": "11, Feb 1993",
+        "height": "5'7\" / 170.18cm",
+        "weightClass": "Bantamweight",
+        "country": "Russia"
+    },
+    "record": {
+        "wins": 20,
+        "losses": 5,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Merab Dvalishvili",
+            "event": "UFC 323 - Dvalishvili vs. Yan 2",
+            "date": [
+                "Dec / 06 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marcus McGhee",
+            "event": "UFC on ABC 9 - Whittaker vs. de Ridder",
+            "date": [
+                "Jul / 26 / 2025"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Deiveson Figueiredo",
+            "event": "UFC Fight Night 248 - Yan vs. Figueiredo",
+            "date": [
+                "Nov / 23 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Yadong Song",
+            "event": "UFC 299 - O'Malley vs. Vera 2",
+            "date": [
+                "Mar / 09 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Merab Dvalishvili",
+            "event": "UFC Fight Night 221 - Yan vs. Dvalishvili",
+            "date": [
+                "Mar / 11 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Sean O'Malley",
+            "event": "UFC 280 - Oliveira vs. Makhachev",
+            "date": [
+                "Oct / 22 / 2022"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Aljamain Sterling",
+            "event": "UFC 273 - Volkanovski vs. Korean Zombie",
+            "date": [
+                "Apr / 09 / 2022"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Cory Sandhagen",
+            "event": "UFC 267 - Blachowicz vs. Teixeira",
+            "date": [
+                "Oct / 30 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Aljamain Sterling",
+            "event": "UFC 259 - Blachowicz vs. Adesanya",
+            "date": [
+                "Mar / 06 / 2021"
+            ],
+            "method": "Disqualification (Illegal Knee)",
+            "round": "4",
+            "time": "4:29"
+        },
+        {
+            "result": "win",
+            "opponent": "Jose Aldo",
+            "event": "UFC 251 - Usman vs. Masvidal",
+            "date": [
+                "Jul / 11 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "5",
+            "time": "3:24"
+        },
+        {
+            "result": "win",
+            "opponent": "Urijah Faber",
+            "event": "UFC 245 - Usman vs. Covington",
+            "date": [
+                "Dec / 14 / 2019"
+            ],
+            "method": "KO (Head Kick)",
+            "round": "3",
+            "time": "0:43"
+        },
+        {
+            "result": "win",
+            "opponent": "Jimmie Rivera",
+            "event": "UFC 238 - Cejudo vs. Moraes",
+            "date": [
+                "Jun / 08 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "John Dodson",
+            "event": "UFC Fight Night 145 - Blachowicz vs. Santos",
+            "date": [
+                "Feb / 23 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Douglas Silva de Andrade",
+            "event": "UFC 232 - Jones vs. Gustafsson 2",
+            "date": [
+                "Dec / 29 / 2018"
+            ],
+            "method": "TKO (Corner Stoppage)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jin Soo Son",
+            "event": "UFC Fight Night 136 - Hunt vs. Oleynik",
+            "date": [
+                "Sep / 15 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Teruto Ishihara",
+            "event": "UFC Fight Night 132 - Cerrone vs. Edwards",
+            "date": [
+                "Jun / 23 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Matheus Mattos",
+            "event": "ACB 71 - Moscow",
+            "date": [
+                "Sep / 30 / 2017"
+            ],
+            "method": "KO (Punches)",
+            "round": "3",
+            "time": "2:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Magomed Magomedov",
+            "event": "ACB 57 - Yan vs. Magomedov",
+            "date": [
+                "Apr / 15 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Ed Arthur",
+            "event": "ACB 41 - Path to Triumph",
+            "date": [
+                "Jul / 15 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Magomed Magomedov",
+            "event": "ACB 32 - Battle of Lions",
+            "date": [
+                "Mar / 26 / 2016"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Murad Kalamov",
+            "event": "ACB 24 - Grand Prix Berkut 2015 Final",
+            "date": [
+                "Oct / 24 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Artur  Mirzakhanyan",
+            "event": "Professional Combat Sambo - Russia Cup",
+            "date": [
+                "Jul / 05 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:40"
+        },
+        {
+            "result": "win",
+            "opponent": "Haron Orzumiev",
+            "event": "ACB 19 - Baltic Challenge",
+            "date": [
+                "May / 30 / 2015"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "0:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Renato Velame",
+            "event": "ACB 14 - Grand Prix 2015",
+            "date": [
+                "Feb / 28 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Murad Bakiev",
+            "event": "Irkutsk Pankration Sports Center - Baikal Storm 2013: Irkutsk VS Omsk",
+            "date": [
+                "Mar / 29 / 2013"
+            ],
+            "method": "KO (Punch)",
+            "round": "3",
+            "time": "0:45"
+        },
+        {
+            "result": "loss",
+            "opponent": "Goga Shamatava",
+            "event": "Russian MMA Union - Russian MMA Cup 2014, Day 1",
+            "date": [
+                "Sep / 26 / 2014"
+            ],
+            "method": "KO (Punch)",
+            "round": "2",
+            "time": "1:05"
+        },
+        {
+            "result": "win",
+            "opponent": "Ivan Glebov",
+            "event": "Russian MMA Union - Russian MMA Cup 2014, Day 1",
+            "date": [
+                "Sep / 26 / 2014"
+            ],
+            "method": "KO (Punch)",
+            "round": "1",
+            "time": "2:46"
+        },
+        {
+            "result": "win",
+            "opponent": "Elgun Mamedov",
+            "event": "Russian MMA Union - Russian MMA Cup 2014, Day 1",
+            "date": [
+                "Sep / 26 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "0:27"
+        }
+    ]
+}

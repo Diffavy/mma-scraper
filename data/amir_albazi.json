@@ -1,0 +1,240 @@
+{
+    "name": [
+        "Amir",
+        "Albazi"
+    ],
+    "bioData": {
+        "age": 32,
+        "DOB": "27, Oct 1993",
+        "height": "5'5\" / 165.1cm",
+        "weightClass": "Flyweight",
+        "country": "Iraq"
+    },
+    "record": {
+        "wins": 17,
+        "losses": 3,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "Kyoji Horiguchi",
+            "event": "UFC Fight Night 266 - Bautista vs. Oliveira",
+            "date": [
+                "Feb / 07 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Brandon Moreno",
+            "event": "UFC Fight Night 246 - Moreno vs. Albazi",
+            "date": [
+                "Nov / 02 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kai Kara-France",
+            "event": "UFC on ESPN 46 - Kara-France vs. Albazi",
+            "date": [
+                "Jun / 03 / 2023"
+            ],
+            "method": "Decision (Split)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Alessandro Costa",
+            "event": "UFC Fight Night 216 - Cannonier vs. Strickland",
+            "date": [
+                "Dec / 17 / 2022"
+            ],
+            "method": "KO (Punches)",
+            "round": "3",
+            "time": "2:13"
+        },
+        {
+            "result": "win",
+            "opponent": "Francisco Figueiredo",
+            "event": "UFC 278 - Usman vs. Edwards 2",
+            "date": [
+                "Aug / 20 / 2022"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Zhalgas Zhumagulov",
+            "event": "UFC 257 - Poirier vs. McGregor 2",
+            "date": [
+                "Jan / 23 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Malcolm Gordon",
+            "event": "UFC Fight Night 172 - Figueiredo vs. Benavidez 2",
+            "date": [
+                "Jul / 18 / 2020"
+            ],
+            "method": "Submission (Triangle Choke)",
+            "round": "1",
+            "time": "4:42"
+        },
+        {
+            "result": "win",
+            "opponent": "Ryan Curtis",
+            "event": "Brave CF 29 - Brave Combat Federation 29: Torres vs. Adur",
+            "date": [
+                "Nov / 15 / 2019"
+            ],
+            "method": "Submission (Kimura)",
+            "round": "1",
+            "time": "2:24"
+        },
+        {
+            "result": "loss",
+            "opponent": "Jose Torres",
+            "event": "Brave CF 23 - Pride & Honor",
+            "date": [
+                "Apr / 19 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Iurie Bejenari",
+            "event": "Bellator 200 - Carvalho vs. Mousasi",
+            "date": [
+                "May / 25 / 2018"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "3:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Jamie Powell",
+            "event": "Bellator 179 - Daley vs. MacDonald",
+            "date": [
+                "May / 19 / 2017"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Dino Gambatesa",
+            "event": "FSC 8 - FightStar Championship 8",
+            "date": [
+                "Dec / 10 / 2016"
+            ],
+            "method": "Submission (Kimura)",
+            "round": "1",
+            "time": "4:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Rafal Czechowski",
+            "event": "SFN 1 - Scandinavian Fight Nights",
+            "date": [
+                "Jun / 04 / 2016"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "N/A"
+        },
+        {
+            "result": "win",
+            "opponent": "Niko Gjoka",
+            "event": "UCMMA 44 - Ultimate Challenge MMA 44",
+            "date": [
+                "Sep / 05 / 2015"
+            ],
+            "method": "TKO (Slam)",
+            "round": "2",
+            "time": "2:21"
+        },
+        {
+            "result": "win",
+            "opponent": "Ondrej Moravec",
+            "event": "Caveam - Bitva Roku 2015",
+            "date": [
+                "Mar / 19 / 2015"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "4:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Salih Kulucan",
+            "event": "UCMMA 41 - Ultimate Challenge MMA 41",
+            "date": [
+                "Nov / 08 / 2014"
+            ],
+            "method": "Submission (Kimura)",
+            "round": "2",
+            "time": "2:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Ally McCrae",
+            "event": "SFC 3 - Showdown",
+            "date": [
+                "Oct / 10 / 2010"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "0:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Bagandov Murada",
+            "event": "WUFC - World Ultimate Full Contact 16",
+            "date": [
+                "Sep / 04 / 2010"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Andre Batista",
+            "event": "WUFC - World Ultimate Full Contact 15",
+            "date": [
+                "Aug / 22 / 2009"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:35"
+        },
+        {
+            "result": "win",
+            "opponent": "Pavlo Kulish",
+            "event": "WUFC - World Ultimate Full Contact 15",
+            "date": [
+                "Aug / 22 / 2009"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "0:59"
+        }
+    ]
+}

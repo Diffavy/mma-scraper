@@ -1,0 +1,284 @@
+{
+    "name": [
+        "Sean",
+        "Brady"
+    ],
+    "bioData": {
+        "age": 33,
+        "DOB": "23, Nov 1992",
+        "height": "5'9\" / 175.26cm",
+        "weightClass": "Welterweight",
+        "country": "United States"
+    },
+    "record": {
+        "wins": 19,
+        "losses": 2,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "win",
+            "opponent": "Joaquin Buckley",
+            "event": "UFC 328 - Chimaev vs. Strickland",
+            "date": [
+                "May / 09 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Michael Morales",
+            "event": "UFC 322 - Della Maddalena vs. Makhachev",
+            "date": [
+                "Nov / 15 / 2025"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "3:27"
+        },
+        {
+            "result": "win",
+            "opponent": "Leon Edwards",
+            "event": "UFC Fight Night 255 - Edwards vs. Brady",
+            "date": [
+                "Mar / 22 / 2025"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "4",
+            "time": "1:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Gilbert Burns",
+            "event": "UFC Fight Night 242 - Burns vs. Brady",
+            "date": [
+                "Sep / 07 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Kelvin Gastelum",
+            "event": "UFC on ESPN 52 - Dariush vs. Tsarukyan",
+            "date": [
+                "Dec / 02 / 2023"
+            ],
+            "method": "Submission (Kimura)",
+            "round": "3",
+            "time": "1:43"
+        },
+        {
+            "result": "loss",
+            "opponent": "Belal Muhammad",
+            "event": "UFC 280 - Oliveira vs. Makhachev",
+            "date": [
+                "Oct / 22 / 2022"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Michael Chiesa",
+            "event": "UFC Fight Night 198 - Vieira vs. Tate",
+            "date": [
+                "Nov / 20 / 2021"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jake Matthews",
+            "event": "UFC 259 - Blachowicz vs. Adesanya",
+            "date": [
+                "Mar / 06 / 2021"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "3",
+            "time": "3:28"
+        },
+        {
+            "result": "win",
+            "opponent": "Christian Aguilera",
+            "event": "UFC Fight Night 175 - Smith vs. Rakic",
+            "date": [
+                "Aug / 29 / 2020"
+            ],
+            "method": "Technical Submission (Guillotine Choke)",
+            "round": "2",
+            "time": "1:47"
+        },
+        {
+            "result": "win",
+            "opponent": "Ismail Naurdiev",
+            "event": "UFC Fight Night 169 - Benavidez vs. Figueiredo",
+            "date": [
+                "Feb / 29 / 2020"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Court McGee",
+            "event": "UFC on ESPN 6 - Reyes vs. Weidman",
+            "date": [
+                "Oct / 18 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Tajuddin Abdul Hakim",
+            "event": "CFFC 72 - Brady vs. Abdul-Hakim",
+            "date": [
+                "Feb / 16 / 2019"
+            ],
+            "method": "TKO (Punches)",
+            "round": "4",
+            "time": "3:36"
+        },
+        {
+            "result": "win",
+            "opponent": "Gilbert Urbina",
+            "event": "LFA 49 - Brady vs. Urbina",
+            "date": [
+                "Sep / 14 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Colton Smith",
+            "event": "Shogun Fights - Fort Lauderdale",
+            "date": [
+                "Mar / 17 / 2018"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Mike Jones",
+            "event": "CFFC 68 - Cage Fury Fighting Championships 68",
+            "date": [
+                "Oct / 21 / 2017"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "1:31"
+        },
+        {
+            "result": "win",
+            "opponent": "Tanner Saraceno",
+            "event": "CFFC 65 - Brady vs. Saraceno",
+            "date": [
+                "May / 20 / 2017"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "3:36"
+        },
+        {
+            "result": "win",
+            "opponent": "Chauncey Foxworth",
+            "event": "CFFC 60 - Webb vs. Steele",
+            "date": [
+                "Aug / 06 / 2016"
+            ],
+            "method": "KO (Spinning Backfist)",
+            "round": "1",
+            "time": "0:57"
+        },
+        {
+            "result": "win",
+            "opponent": "Rocky Edwards",
+            "event": "CFFC 56 - Wells vs. Walo",
+            "date": [
+                "Feb / 27 / 2016"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Aaron Jeffery",
+            "event": "CFFC 53 - Spohn vs. Anyanwu",
+            "date": [
+                "Dec / 04 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jake Gombocz",
+            "event": "CFFC 48 - Good vs. Burrell",
+            "date": [
+                "May / 09 / 2015"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Paul Almquist",
+            "event": "CFFC 38 - Felder vs. Johnson",
+            "date": [
+                "Aug / 09 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "0:33"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Vernalli",
+            "event": "CFFC 33 - Felder vs. Stevens",
+            "date": [
+                "Mar / 22 / 2014"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "1:39"
+        },
+        {
+            "result": "win",
+            "opponent": "Stephond Ewins",
+            "event": "Xtreme Caged Combat - Uprising",
+            "date": [
+                "May / 10 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Allen Otto",
+            "event": "XFE - Cage Wars 20",
+            "date": [
+                "Feb / 22 / 2013"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "3:00"
+        }
+    ]
+}

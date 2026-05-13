@@ -1,0 +1,372 @@
+{
+    "name": [
+        "Deiveson",
+        "Figueiredo"
+    ],
+    "bioData": {
+        "age": 38,
+        "DOB": "18, Dec 1987",
+        "height": "5'5\" / 165.1cm",
+        "weightClass": "Featherweight",
+        "country": "Brazil"
+    },
+    "record": {
+        "wins": 25,
+        "losses": 6,
+        "noContests": 0
+    },
+    "fights": [
+        {
+            "result": "loss",
+            "opponent": "",
+            "event": "See entire fight card",
+            "date": [
+                "Jan / 24 / 2026"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Deiveson Figueiredo",
+            "event": "UFC 324 - Gaethje vs. Pimblett",
+            "date": [
+                "Oct / 11 / 2025"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "",
+            "event": "UFC Fight Night 261 - Oliveira vs. Gamrot",
+            "date": [
+                "May / 03 / 2025"
+            ],
+            "method": "TKO (Knee Injury)",
+            "round": "2",
+            "time": "4:08"
+        },
+        {
+            "result": "loss",
+            "opponent": "Yadong Song",
+            "event": "UFC on ESPN 67 - Sandhagen vs. Figueiredo",
+            "date": [
+                "Nov / 23 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Umar Nurmagomedov",
+            "event": "UFC Fight Night 248 - Yan vs. Figueiredo",
+            "date": [
+                "Aug / 03 / 2024"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Montel Jackson",
+            "event": "UFC on ABC 7 - Sandhagen vs. Nurmagomedov",
+            "date": [
+                "Apr / 13 / 2024"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "2",
+            "time": "4:02"
+        },
+        {
+            "result": "win",
+            "opponent": "Cory Sandhagen",
+            "event": "UFC 300 - Pereira vs. Hill",
+            "date": [
+                "Dec / 02 / 2023"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Petr Yan",
+            "event": "UFC on ESPN 52 - Dariush vs. Tsarukyan",
+            "date": [
+                "Jan / 21 / 2023"
+            ],
+            "method": "TKO (Doctor Stoppage)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Marlon Vera",
+            "event": "UFC 283 - Teixeira vs. Hill",
+            "date": [
+                "Jan / 22 / 2022"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Cody Garbrandt",
+            "event": "UFC 270 - Ngannou vs. Gane",
+            "date": [
+                "Jun / 12 / 2021"
+            ],
+            "method": "Submission (Rear-Naked Choke)",
+            "round": "3",
+            "time": "2:26"
+        },
+        {
+            "result": "draw",
+            "opponent": "Rob Font",
+            "event": "UFC 263 - Adesanya vs. Vettori 2",
+            "date": [
+                "Dec / 12 / 2020"
+            ],
+            "method": "Draw (Majority)",
+            "round": "5",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Moreno",
+            "event": "UFC 256 - Figueiredo vs. Moreno",
+            "date": [
+                "Nov / 21 / 2020"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "1:57"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Moreno",
+            "event": "UFC 255 - Figueiredo vs. Perez",
+            "date": [
+                "Jul / 18 / 2020"
+            ],
+            "method": "Technical Submission (Rear-Naked Choke)",
+            "round": "1",
+            "time": "4:48"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Moreno",
+            "event": "UFC Fight Night 172 - Figueiredo vs. Benavidez 2",
+            "date": [
+                "Feb / 29 / 2020"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "1:54"
+        },
+        {
+            "result": "win",
+            "opponent": "Brandon Moreno",
+            "event": "UFC Fight Night 169 - Benavidez vs. Figueiredo",
+            "date": [
+                "Oct / 12 / 2019"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "3:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Alex Perez",
+            "event": "UFC Fight Night 161 - Jedrzejczyk vs. Waterson",
+            "date": [
+                "Jul / 27 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "loss",
+            "opponent": "Joseph Benavidez",
+            "event": "UFC 240 - Holloway vs. Edgar",
+            "date": [
+                "Mar / 23 / 2019"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Joseph Benavidez",
+            "event": "UFC Fight Night 148 - Thompson vs. Pettis",
+            "date": [
+                "Aug / 25 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:08"
+        },
+        {
+            "result": "win",
+            "opponent": "Tim Elliott",
+            "event": "UFC Fight Night 135 - Gaethje vs. Vick",
+            "date": [
+                "Feb / 03 / 2018"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "4:34"
+        },
+        {
+            "result": "win",
+            "opponent": "Alexandre Pantoja",
+            "event": "UFC Fight Night 125 - Machida vs. Anders",
+            "date": [
+                "Oct / 28 / 2017"
+            ],
+            "method": "Decision (Split)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Jussier Formiga",
+            "event": "UFC Fight Night 119 - Brunson vs. Machida",
+            "date": [
+                "Jun / 03 / 2017"
+            ],
+            "method": "TKO (Corner Stoppage)",
+            "round": "2",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "John Moraga",
+            "event": "UFC 212 - Aldo vs. Holloway",
+            "date": [
+                "Dec / 01 / 2016"
+            ],
+            "method": "Submission (Arm-Triangle Choke)",
+            "round": "1",
+            "time": "1:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Joseph Morales",
+            "event": "SMF - Salvaterra Marajo Fight 5",
+            "date": [
+                "Sep / 03 / 2016"
+            ],
+            "method": "KO (Punches)",
+            "round": "2",
+            "time": "2:56"
+        },
+        {
+            "result": "win",
+            "opponent": "Jarred Brooks",
+            "event": "Jungle Fight 90 - Sao Paulo",
+            "date": [
+                "May / 21 / 2016"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "2:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Marco Beltran",
+            "event": "Jungle Fight 87 - Sao Paulo",
+            "date": [
+                "Dec / 18 / 2014"
+            ],
+            "method": "TKO (Punches)",
+            "round": "2",
+            "time": "3:20"
+        },
+        {
+            "result": "win",
+            "opponent": "Ricardo do Socorro  Nascimento da Silva",
+            "event": "Jungle Fight 75 - Belem",
+            "date": [
+                "Nov / 13 / 2014"
+            ],
+            "method": "TKO",
+            "round": "1",
+            "time": "2:18"
+        },
+        {
+            "result": "win",
+            "opponent": "Denis Oliveira",
+            "event": "Coalizao Fight 4 - Mondragon vs. Gallotti",
+            "date": [
+                "Aug / 07 / 2014"
+            ],
+            "method": "KO",
+            "round": "1",
+            "time": "3:30"
+        },
+        {
+            "result": "win",
+            "opponent": "Antonio Henrique Santos de Miranda",
+            "event": "Coalizao Fight 2 - Coalizao Fight Night",
+            "date": [
+                "Jul / 03 / 2014"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "4:55"
+        },
+        {
+            "result": "win",
+            "opponent": "Rayner Silva",
+            "event": "JOF - Jurunense Open Fight MMA 7",
+            "date": [
+                "May / 01 / 2014"
+            ],
+            "method": "Decision (Unanimous)",
+            "round": "3",
+            "time": "5:00"
+        },
+        {
+            "result": "win",
+            "opponent": "Joao Neto Silva",
+            "event": "LDPF - Lago da Pedra Fight",
+            "date": [
+                "Mar / 20 / 2014"
+            ],
+            "method": "Submission (Guillotine Choke)",
+            "round": "1",
+            "time": "0:53"
+        },
+        {
+            "result": "win",
+            "opponent": "Joel Silva",
+            "event": "JOF - Jurunense Open Fight MMA 6",
+            "date": [
+                "Aug / 11 / 2012"
+            ],
+            "method": "TKO (Punches)",
+            "round": "1",
+            "time": "2:04"
+        },
+        {
+            "result": "win",
+            "opponent": "Edivaldo Aires Maciel Junior",
+            "event": "Amazon Fight 18 - Santa Izabel",
+            "date": [
+                "Feb / 17 / 2012"
+            ],
+            "method": "Submission (Armbar)",
+            "round": "1",
+            "time": "3:02"
+        }
+    ]
+}
