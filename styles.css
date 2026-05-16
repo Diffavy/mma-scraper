@@ -26,3 +26,45 @@ header {
     font-size: 1.6rem;
     border-bottom: var(--text-color) solid 1px;
 }
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 0.4fr 1fr;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+.divider {
+    border: solid var(--text-color) 10px;
+}
+
+.search-wrapper {
+    position: relative;
+    width: 60%;
+    margin: 0 auto;
+}
+.dropdown {
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+}
+.dropdown li{
+    width: 100%;
+    background-color: var(--primary-color);
+    padding: 20px 0;
+    font-size: 1.8rem;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.dropdown li:hover {
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4); ;
+}
+

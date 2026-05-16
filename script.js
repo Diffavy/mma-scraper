@@ -16,11 +16,11 @@ function searchInput (id) {   // checks text input against fighter database and 
         return
     }
 
-    let selections = fighters.filter(f => f.name.toLowerCase().includes(e.target.value.toLowerCase()))
+    let selections = fighters.filter(f => f.name.toLowerCase().includes(e.target.value.toLowerCase())).slice(0,10)
     
     dropdown.innerHTML = ""
     selections.forEach((f) => {
-        dropdown.innerHTML += `\n<li data-filepath="${f.filepath}">${f.name}</li>`
+        dropdown.innerHTML += `\n<li data-filepath="${f.filepath}"><strong>${f.name}</strong></li>`
     })
 })
 }
