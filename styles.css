@@ -1,0 +1,28 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+:root {
+    --background-color: #F5F5F5;
+    --primary-color: #E5E4E2;
+    --secondary-color: #DBD7D2;
+    --fighter-one-accent: #98817B;
+    --fighter-two-accent: #8C92AC;
+    --text-color: #242124;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: "Inter";
+    text-align: center;
+}
+
+header {
+    font-size: 1.6rem;
+    border-bottom: var(--text-color) solid 1px;
+}
