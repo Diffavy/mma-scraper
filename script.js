@@ -7,9 +7,18 @@ async function loadFighters() {
 
 function searchInput (id) {   // checks text input against fighter database and produces a dropdown
     const fighterInput = document.getElementById(id)
-    fighterInput.addEventListener("input", (e) => {
     const dropdown = document.getElementById(`fighter${id.slice(-1)}`)
+
+    dropdown.addEventListener("click", async (e) => {
+        if (e.target.tagName === "LI") {
+            const filepath = e.target.dataset.filepath
+            const response = await fetch(filepath)
+            const fighterData = await response.json()
+            console.log(fighterData)
+        }
+    })
     
+    fighterInput.addEventListener("input", (e) => {
     if (e.target.value.trim() === "") {  // returns early if input empty
         dropdown.innerHTML = ""
         return
