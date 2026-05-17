@@ -14,7 +14,9 @@ function searchInput (id) {   // checks text input against fighter database and 
             const filepath = e.target.dataset.filepath
             const response = await fetch(filepath)
             const fighterData = await response.json()
-            console.log(fighterData)
+            
+            const cardId = id === "name-1" ? "fighter-left" : "fighter-right"
+            loadInCards(cardId, fighterData)
         }
     })
     
@@ -33,6 +35,36 @@ function searchInput (id) {   // checks text input against fighter database and 
 })
 }
 
+function loadInCards(cardId, data) {
+    const cardEl = document.getElementById(cardId)
+    const name = data["name"].join(" ")
+    const age = data["bioData"]["age"]
+    const height = data["bioData"]["height"]
+    const weightClass = data["bioData"]["weightClass"]
+    const record = data["record"]
+    const nationality = data["bioData"]["country"]
+    const DOB = data["bioData"]["DOB"]
+
+    let wins = 0; let NCs = 0; let losses = 0;
+
+    data["fights"].slice(0,5).forEach((fight) => { // create last 5 fights record
+        if (fight["result"] === "win") {
+            wins++
+        } else if (fight["result"] === "NC") {
+            NCs++
+        } else {
+            losses++
+        }
+    })
+
+    const last5FightsRec = `${wins}W - ${losses}L - ${NCs}NC`
+    const fights = data["fights"]
+
+    cardEl.querySelector("h2").classList.toggle("hidden") // remove loading text before inputting card element
+    cardEl.querySelector(".search-wrapper").classList.toggle("hidden") // remove search input
+
+    
+}
 async function init() {
     await loadFighters()
     searchInput("name-1")
