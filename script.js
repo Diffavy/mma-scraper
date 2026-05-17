@@ -11,11 +11,10 @@ function searchInput (id) {   // checks text input against fighter database and 
     const dropdown = document.getElementById(`fighter${id.slice(-1)}`)
     
     if (e.target.value.trim() === "") {  // returns early if input empty
-        selections = []
         dropdown.innerHTML = ""
         return
     }
-
+    
     let selections = fighters.filter(f => f.name.toLowerCase().includes(e.target.value.toLowerCase())).slice(0,10)
     
     dropdown.innerHTML = ""
