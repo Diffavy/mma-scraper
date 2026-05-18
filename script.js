@@ -11,6 +11,7 @@ function searchInput (id) {
     const dropdown = document.getElementById(`fighter${id.slice(-1)}`)
     const cardId = id === "name-1" ? "fighter-left" : "fighter-right" 
     const cardEl = document.getElementById(cardId)
+    const bioData = cardEl.querySelector(".bio-wrapper")
 
     dropdown.addEventListener("click", async (e) => {
         if (e.target.tagName === "LI") {
@@ -45,13 +46,14 @@ function searchInput (id) {
     const closeBtn = cardEl.querySelector(".close-btn")
     
     closeBtn.addEventListener("click", () => {
-        cardEl.querySelector("h2").classList.toggle("hidden")
-        cardEl.querySelector(".search-wrapper").classList.toggle("hidden")
+        cardEl.querySelector("h2").classList.remove("hidden")
+        cardEl.querySelector(".search-wrapper").classList.remove("hidden")
 
         fighterInput.value = ""
         dropdown.innerHTML = ""
+        bioData.innerHTML = ""
 
-        closeBtn.classList.toggle("hidden")
+        closeBtn.classList.add("hidden")
     })
 }
 
@@ -82,10 +84,26 @@ function loadInCards(cardId, data) {
     const last5FightsRec = `${wins}W - ${losses}L - ${NCs}NC`
     const fights = data["fights"]
 
-    cardEl.querySelector("h2").classList.toggle("hidden") // remove loading text before inputting card element
-    cardEl.querySelector(".search-wrapper").classList.toggle("hidden") // remove search input
-    cardEl.querySelector(".close-btn").classList.toggle("hidden") // show close button for fighter card
+    cardEl.querySelector("h2").classList.add("hidden") // remove loading text before inputting card element
+    cardEl.querySelector(".search-wrapper").classList.add("hidden") // remove search input
+    cardEl.querySelector(".close-btn").classList.remove("hidden") // show close button for fighter card
 
+    // update fighter card html with data
+    const bioData = cardEl.querySelector(".bio-wrapper")
+    bioData.innerHTML = `
+    \n<h3>${name}</h3>
+    \n<div class="horizontal-splitter"></div>
+    \n<h3>${age} (${DOB})</h3>
+    \n<div class="horizontal-splitter"></div>
+    \n<h3>${record["wins"]} W - ${record["losses"]} L - ${record["noContests"]} NC</h3>
+    \n<div class="horizontal-splitter"></div>
+    \n<h3>${height}</h3>
+    \n<div class="horizontal-splitter"></div>
+    \n<h3>${weightClass}</h3>
+    \n<div class="horizontal-splitter"></div>
+    \n<h3>${nationality}</h3>
+    \n<div class="horizontal-splitter"></div>
+    \n<h3>${last5FightsRec}</h3>` 
 }
 async function init() {
     await loadFighters()
