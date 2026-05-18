@@ -71,3 +71,20 @@ ul {
 .hidden {
     display: none;
 }
+
+.close-btn {
+    background: var(--primary-color);
+    border: none;
+    cursor: pointer;
+    font-size: 2rem;
+    color: rgba(0, 0, 0, 0.45);
+    border-radius: 5px;
+    padding: 0 5px;
+    font-weight: lighter
+}
+
+.close-btn:hover {
+    transform: translateY(-10%);
+    background: #c8c7c5;
+    color: rgba(0, 0, 0, 0.75);
+}

@@ -4,37 +4,59 @@ async function loadFighters() {
   const response = await fetch('fighters.json')
   fighters = await response.json()
 }
-
-function searchInput (id) {   // checks text input against fighter database and produces a dropdown
+// checks text input against fighter database, produces a dropdown, uses listeners to toggle between
+// search view and card view
+function searchInput (id) {  
     const fighterInput = document.getElementById(id)
     const dropdown = document.getElementById(`fighter${id.slice(-1)}`)
+    const cardId = id === "name-1" ? "fighter-left" : "fighter-right" 
+    const cardEl = document.getElementById(cardId)
 
     dropdown.addEventListener("click", async (e) => {
         if (e.target.tagName === "LI") {
+            // dropdown disappears whilst fetch is running 
+            dropdown.innerHTML = "" 
+            fighterInput.value = ""
             const filepath = e.target.dataset.filepath
             const response = await fetch(filepath)
+
+            fighterInput.disabled = true // prevents double-clicks from calling multiple fetches
             const fighterData = await response.json()
-            
-            const cardId = id === "name-1" ? "fighter-left" : "fighter-right"
+            fighterInput.disabled = false
             loadInCards(cardId, fighterData)
         }
     })
     
+    // implement dropdown functionality
     fighterInput.addEventListener("input", (e) => {
     if (e.target.value.trim() === "") {  // returns early if input empty
         dropdown.innerHTML = ""
         return
     }
-    
-    let selections = fighters.filter(f => f.name.toLowerCase().includes(e.target.value.toLowerCase())).slice(0,10)
+    let selections = fighters.filter(f => f.name.toLowerCase().includes(e.target.value.toLowerCase())).slice(0,10)  
     
     dropdown.innerHTML = ""
     selections.forEach((f) => {
         dropdown.innerHTML += `\n<li data-filepath="${f.filepath}"><strong>${f.name}</strong></li>`
     })
-})
+    })
+
+    // implement close button listener to reinstate fighter search/dropdwon and hide buttom
+    const closeBtn = cardEl.querySelector(".close-btn")
+    
+    closeBtn.addEventListener("click", () => {
+        cardEl.querySelector("h2").classList.toggle("hidden")
+        cardEl.querySelector(".search-wrapper").classList.toggle("hidden")
+
+        fighterInput.value = ""
+        dropdown.innerHTML = ""
+
+        closeBtn.classList.toggle("hidden")
+    })
 }
 
+
+// loads in card data and updates html
 function loadInCards(cardId, data) {
     const cardEl = document.getElementById(cardId)
     const name = data["name"].join(" ")
@@ -62,8 +84,8 @@ function loadInCards(cardId, data) {
 
     cardEl.querySelector("h2").classList.toggle("hidden") // remove loading text before inputting card element
     cardEl.querySelector(".search-wrapper").classList.toggle("hidden") // remove search input
+    cardEl.querySelector(".close-btn").classList.toggle("hidden") // show close button for fighter card
 
-    
 }
 async function init() {
     await loadFighters()
