@@ -23,7 +23,7 @@ body {
 }
 
 header {
-    font-size: 1.6rem;
+    font-size: 2rem;
     border-bottom: var(--text-color) solid 1px;
 }
 
@@ -37,6 +37,8 @@ ul {
     text-align: center;
     padding: 0;
 }
+
+/*Search Input styler*/
 
 .divider {
     border: solid var(--text-color) 10px;
@@ -68,6 +70,34 @@ ul {
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4); ;
 }
 
+/*Fighter card styling*/
+
+.bio-wrapper {
+    border-radius: 10px;
+    font-size: 2rem;
+}
+
+.name {
+    font-size: 4rem;
+    padding: 0;
+    margin: 20px 0 40px 0;
+}
+
+.horizontal-splitter {
+    height: 3px;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 80%;
+    margin: 20px auto;
+    border-radius: 100%;
+}
+
+.name-horizontal-splitter {
+    height: 4px;
+    background-color: #242124;
+    width: 80%;
+    margin: 20px auto;
+    border-radius: 100%;
+}
 .hidden {
     display: none;
 }
