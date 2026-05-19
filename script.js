@@ -48,6 +48,7 @@ function searchInput (id) {
     closeBtn.addEventListener("click", () => {
         cardEl.querySelector("h2").classList.remove("hidden")
         cardEl.querySelector(".search-wrapper").classList.remove("hidden")
+        cardEl.querySelector(".bio-wrapper").classList.add("hidden")
 
         fighterInput.value = ""
         dropdown.innerHTML = ""
@@ -87,6 +88,7 @@ function loadInCards(cardId, data) {
     cardEl.querySelector("h2").classList.add("hidden") // remove loading text before inputting card element
     cardEl.querySelector(".search-wrapper").classList.add("hidden") // remove search input
     cardEl.querySelector(".close-btn").classList.remove("hidden") // show close button for fighter card
+    cardEl.querySelector(".bio-wrapper").classList.remove("hidden") // show fighter card
 
     // update fighter card html with data
     const bioData = cardEl.querySelector(".bio-wrapper")

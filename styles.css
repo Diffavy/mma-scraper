@@ -10,8 +10,10 @@ html {
     --background-color: #F5F5F5;
     --primary-color: #E5E4E2;
     --secondary-color: #DBD7D2;
-    --fighter-one-accent: #98817B;
-    --fighter-two-accent: #8C92AC;
+    --fighter-one-accent: #fad9d0;
+    --fighter-two-accent: #d8dffe;
+    --fighter-one-accent-hover: #f9e9e5;
+    --fighter-two-accent-hover: #eaeefe;
     --text-color: #242124;
 }
 
@@ -25,6 +27,11 @@ body {
 header {
     font-size: 2rem;
     border-bottom: var(--text-color) solid 1px;
+}
+
+#ufc-logo {
+    width: 70px;
+    padding: 0;
 }
 
 main {
@@ -73,14 +80,18 @@ ul {
 /*Fighter card styling*/
 
 .bio-wrapper {
+    padding: 20px 0px;
     border-radius: 10px;
     font-size: 2rem;
+    width: 70%;
+    margin: 0 auto;
 }
 
 .name {
     font-size: 4rem;
     padding: 0;
-    margin: 20px 0 40px 0;
+    margin: 20px auto 40px auto;
+    width: 80%;
 }
 
 .horizontal-splitter {
@@ -98,6 +109,25 @@ ul {
     margin: 20px auto;
     border-radius: 100%;
 }
+
+#fighter-left .bio-wrapper {
+    background-color: var(--fighter-one-accent);
+}
+
+#fighter-right .bio-wrapper {
+    background-color: var(--fighter-two-accent);
+}
+
+#fighter-left .bio-wrapper:hover {
+    background-color: var(--fighter-one-accent-hover);
+    transform: translateY(2%);
+}
+
+#fighter-right .bio-wrapper:hover {
+    background-color: var(--fighter-two-accent-hover);
+    transform: translateY(2%);
+}
+
 .hidden {
     display: none;
 }
