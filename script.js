@@ -14,11 +14,12 @@ function searchInput (id) {
     const bioData = cardEl.querySelector(".bio-wrapper")
 
     dropdown.addEventListener("click", async (e) => {
-        if (e.target.tagName === "LI") {
+        const li = e.target.closest("LI")
+        if (li) {
             // dropdown disappears whilst fetch is running 
             dropdown.innerHTML = "" 
             fighterInput.value = ""
-            const filepath = e.target.dataset.filepath
+            const filepath = li.dataset.filepath
             const response = await fetch(filepath)
 
             fighterInput.disabled = true // prevents double-clicks from calling multiple fetches
