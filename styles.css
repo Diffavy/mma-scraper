@@ -46,11 +46,6 @@ ul {
 }
 
 /*Search Input styler*/
-
-.divider {
-    border: solid var(--text-color) 10px;
-}
-
 .search-wrapper {
     position: relative;
     width: 60%;
@@ -102,6 +97,10 @@ ul {
     height: 100px;
 }
 
+.age {
+    padding: 0px;
+    margin-top: 20px;
+}
 .horizontal-splitter {
     height: 3px;
     background-color: rgba(0, 0, 0, 0.4);
@@ -128,18 +127,35 @@ ul {
 
 #fighter-left .bio-wrapper:hover {
     background-color: var(--fighter-one-accent-hover);
-    transform: translateY(2%);
+
 }
 
 #fighter-right .bio-wrapper:hover {
     background-color: var(--fighter-two-accent-hover);
-    transform: translateY(2%);
 }
 
 .hidden {
     display: none;
 }
 
+/* Stat Names */
+
+.divider {
+    display: block;
+    padding-top: 240px;
+}
+.stats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 2.5rem;
+    width: 400px;
+}
+
+.stats li {
+    margin-bottom: 74px;
+}
 .close-btn {
     background: var(--primary-color);
     border: none;

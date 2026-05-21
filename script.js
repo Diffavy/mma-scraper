@@ -96,7 +96,7 @@ function loadInCards(cardId, data) {
     bioData.innerHTML = `
     \n<h3 class="name">${name}</h3>
     \n<div class="name-horizontal-splitter"></div>
-    \n<h3>${age} (${DOB})</h3>
+    \n<h3 class="age">${age} (${DOB})</h3>
     \n<div class="horizontal-splitter"></div>
     \n<h3>${record["wins"]} W - ${record["losses"]} L - ${record["noContests"]} NC</h3>
     \n<div class="horizontal-splitter"></div>
