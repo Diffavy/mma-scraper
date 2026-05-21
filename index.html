@@ -1,69 +1,76 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Fighter Comparison</title>
-  <link rel="stylesheet" href="styles.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Fighter Comparison</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <h1>The Fighter Comparison</h1>
+      <p id="slogan">
+        <em><strong>TFC for the </strong></em
+        ><a href="https://www.ufc.com/" target="_blank"
+          ><img id="ufc-logo" alt="The red UFC logo" src="images/UFC_Logo.svg"
+        /></a>
+      </p>
+    </header>
 
-  <header>
-    <h1>The Fighter Comparison</h1>
-    <p id="slogan"><em><strong>TFC for the  </strong></em><a href="https://www.ufc.com/" target="_blank"><img id="ufc-logo" alt="The red UFC logo" src="images/UFC_Logo.svg"/></a></p>
-  </header>
+    <main class="comparison-grid">
+      <!-- Fighter 1 -->
+      <div class="fighter-card" id="fighter-left">
+        <h2 class="loading">Loading...</h2>
+        <!-- Search View -->
+        <div class="search-wrapper">
+          <input
+            id="name-1"
+            type="text"
+            required
+            placeholder="Islam Makhachev"
+          />
+          <ul class="dropdown" id="fighter1"></ul>
+        </div>
+        <!-- Card View -->
+        <button class="close-btn hidden">&lt;</button>
+        <div class="bio-wrapper hidden"></div>
+      </div>
 
-  <main class="comparison-grid">
-
-    <!-- Fighter 1 -->
-    <div class="fighter-card" id="fighter-left">
-      <h2 class="loading">Loading...</h2>
-      <!-- Search View -->
-      <div class="search-wrapper">
-        <input id="name-1" type="text" required placeholder="Islam Makhachev"/>
-        <ul class="dropdown" id="fighter1">
+      <!-- Divider -->
+      <div class="divider hidden">
+        <ul class="stats">
+          <li>Age (D.O.B)</li>
+          <li>Record</li>
+          <li>Height (ft/cm)</li>
+          <li>Weight Class</li>
+          <li>Country Of Origin</li>
+          <li>Record in Last 5 fights</li>
         </ul>
       </div>
-      <!-- Card View -->
-      <button class="close-btn hidden">&lt;</button>
-      <div class="bio-wrapper hidden"></div>
-    </div>
 
-    <!-- Divider -->
-    <div class="divider">
-      <ul class="stats">
-        <li>Age (D.O.B)</li>
-        <li>Record</li>
-        <li>Height (ft/cm)</li>
-        <li>Weight Class</li>
-        <li>Country Of Origin</li>
-        <li>Record in Last 5 fights</li>
-      </ul>
-    </div>
-
-    <!-- Fighter 2 -->
-    <div class="fighter-card" id="fighter-right">
-      <!-- Search View -->
-      <h2 class="loading">Loading...</h2>
-      <div class="search-wrapper">
-        <input id="name-2" type="text" required placeholder="Tom Aspinall"/>
-        <ul class="dropdown" id="fighter2">
-        </ul>
+      <!-- Fighter 2 -->
+      <div class="fighter-card" id="fighter-right">
+        <!-- Search View -->
+        <h2 class="loading">Loading...</h2>
+        <div class="search-wrapper">
+          <input id="name-2" type="text" required placeholder="Tom Aspinall" />
+          <ul class="dropdown" id="fighter2"></ul>
+        </div>
+        <!-- Card View -->
+        <button class="close-btn hidden">&lt;</button>
+        <div class="bio-wrapper hidden"></div>
       </div>
-      <!-- Card View -->
-      <button class="close-btn hidden">&lt;</button>
-      <div class="bio-wrapper hidden"></div>
-    </div>
 
-    <!-- Complete fight history section-->
+      <!-- Complete fight history section-->
 
-    <section class="fight-history-wrapper">
+      <section class="fight-history-wrapper"></section>
+    </main>
 
-    </section>
-  </main>
-
-  <script src="script.js"></script>
-</body>
+    <script src="script.js"></script>
+  </body>
 </html>
