@@ -135,10 +135,6 @@ ul {
   background-color: var(--fighter-two-accent-hover);
 }
 
-.hidden {
-  display: none;
-}
-
 /* Stat Names */
 
 .divider {
@@ -173,4 +169,8 @@ ul {
 .close-btn:hover {
   background: #c8c7c5;
   color: rgba(0, 0, 0, 0.75);
+}
+
+.hidden {
+  display: none;
 }

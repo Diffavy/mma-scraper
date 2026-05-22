@@ -4,8 +4,8 @@ async function loadFighters() {
   const response = await fetch("fighters.json");
   fighters = await response.json();
 }
-// checks text input against fighter database, produces a dropdown, uses listeners to toggle between
-// search view and card view
+/* checks text input against fighter database, produces a dropdown, uses listeners to toggle between
+ search view and card view */
 function searchInput(id) {
   const fighterInput = document.getElementById(id);
   const dropdown = document.getElementById(`fighter${id.slice(-1)}`);
@@ -55,6 +55,7 @@ function searchInput(id) {
     cardEl.querySelector("h2").classList.remove("hidden");
     cardEl.querySelector(".search-wrapper").classList.remove("hidden");
     cardEl.querySelector(".bio-wrapper").classList.add("hidden");
+    updateDivider();
 
     fighterInput.value = "";
     dropdown.innerHTML = "";
@@ -62,6 +63,22 @@ function searchInput(id) {
 
     closeBtn.classList.add("hidden");
   });
+}
+
+/*toggles the central stat name divider dependent on if both cards are visible*/
+function updateDivider() {
+  const isLeftCard = !document
+    .getElementById("fighter-left")
+    .querySelector(".bio-wrapper")
+    .classList.contains("hidden");
+  const isRightCard = !document
+    .getElementById("fighter-right")
+    .querySelector(".bio-wrapper")
+    .classList.contains("hidden");
+
+  document
+    .querySelector(".stats")
+    .classList.toggle("hidden", !(isLeftCard && isRightCard));
 }
 
 // loads in card data and updates html
@@ -114,6 +131,8 @@ function loadInCards(cardId, data) {
     \n<h3>${nationality}</h3>
     \n<div class="horizontal-splitter"></div>
     \n<h3>${last5FightsRec}</h3>`;
+
+  updateDivider();
 }
 async function init() {
   await loadFighters();
