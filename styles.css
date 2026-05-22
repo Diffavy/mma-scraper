@@ -143,7 +143,7 @@ ul {
 
 .divider {
   display: block;
-  padding-top: 240px;
+  padding-top: 270px;
 }
 .stats {
   display: flex;
@@ -152,24 +152,25 @@ ul {
   flex-direction: column;
   font-size: 2.5rem;
   width: 400px;
+  font-style: italic;
 }
 
 .stats li {
-  margin-bottom: 74px;
+  margin-bottom: 76px;
 }
 .close-btn {
   background: var(--primary-color);
   border: none;
   cursor: pointer;
-  font-size: 2rem;
+  font-size: 3rem;
   color: rgba(0, 0, 0, 0.45);
   border-radius: 5px;
-  padding: 0 5px;
+  padding: 0 10px;
   font-weight: lighter;
+  margin: 10px 0;
 }
 
 .close-btn:hover {
-  transform: translateY(-10%);
   background: #c8c7c5;
   color: rgba(0, 0, 0, 0.75);
 }
