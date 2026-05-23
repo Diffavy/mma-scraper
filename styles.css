@@ -48,6 +48,21 @@ ul {
 }
 
 /*Search Input styler*/
+input[type="text"] {
+  all: unset;
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+  background-color: var(--secondary-color);
+  height: 5rem;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  font-size: 1.8rem;
+}
+
+input[type="text"]:focus {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+}
 .search-wrapper {
   position: relative;
   width: 60%;
@@ -141,6 +156,7 @@ ul {
   display: block;
   padding-top: 270px;
 }
+
 .stats {
   display: flex;
   align-items: center;
