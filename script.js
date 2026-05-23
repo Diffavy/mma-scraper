@@ -109,7 +109,6 @@ function loadInCards(cardId, data) {
   });
 
   const last5FightsRec = `${wins}W - ${losses}L - ${NCs}NC`;
-  const fights = data["fights"];
 
   // finding finish rate and average fight time
 
