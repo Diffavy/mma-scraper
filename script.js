@@ -91,12 +91,13 @@ function loadInCards(cardId, data) {
   const record = data["record"];
   const nationality = data["bioData"]["country"];
   const DOB = data["bioData"]["DOB"];
+  const allFights = data["fights"];
 
   let wins = 0;
   let NCs = 0;
   let losses = 0;
 
-  data["fights"].slice(0, 5).forEach((fight) => {
+  allFights.slice(0, 5).forEach((fight) => {
     // create last 5 fights record
     if (fight["result"] === "win") {
       wins++;
@@ -109,6 +110,47 @@ function loadInCards(cardId, data) {
 
   const last5FightsRec = `${wins}W - ${losses}L - ${NCs}NC`;
   const fights = data["fights"];
+
+  // finding finish rate and average fight time
+
+  let finishes = 0;
+  let decisions = 0;
+  let totalTimeForWinsInSecs = 0;
+
+  allFights.forEach((fight) => {
+    if (fight["result"] === "win") {
+      const currMethod = fight["method"].split(" ");
+      if (currMethod[0] === "Decision") {
+        decisions++;
+      } else if (currMethod[0] === "No") {
+        return;
+      } else {
+        finishes++;
+      }
+      const roundTimeInSecs = (Number(fight["round"]) - 1) * 60;
+      const finishTime = fight["time"].split(":");
+      totalTimeForWinsInSecs +=
+        roundTimeInSecs + Number(finishTime[0]) * 60 + Number(finishTime[1]);
+    }
+  });
+
+  const avgFightTimeInSecs = Math.floor(
+    totalTimeForWinsInSecs / record["wins"],
+  );
+  const remainingSeconds = avgFightTimeInSecs % 60;
+  const minutes = Math.floor(avgFightTimeInSecs / 60);
+  const remainingMinutes = minutes % 5;
+  const rounds = Math.floor(minutes / 5);
+
+  const finishRate =
+    ((finishes / (finishes + decisions)) * 100).toFixed(1) + "%";
+  let averageFightTimeWins = "";
+
+  if (rounds + 1 === 6) {
+    averageFightTimeWins = `R5 Time - 5:00`;
+  } else {
+    averageFightTimeWins = `R${rounds + 1} ${remainingMinutes.toString().padStart(2, "0")}:${remainingSeconds.toString().padStart(2, "0")}`;
+  }
 
   cardEl.querySelector("h2").classList.add("hidden"); // remove loading text before inputting card element
   cardEl.querySelector(".search-wrapper").classList.add("hidden"); // remove search input
@@ -130,7 +172,11 @@ function loadInCards(cardId, data) {
     \n<div class="horizontal-splitter"></div>
     \n<h3>${nationality}</h3>
     \n<div class="horizontal-splitter"></div>
-    \n<h3>${last5FightsRec}</h3>`;
+    \n<h3>${last5FightsRec}</h3>
+    \n<div class="horizontal-splitter"></div>
+    \n<h3>${finishRate}</h3>
+    \n<div class="horizontal-splitter"></div>
+    \n<h3>${averageFightTimeWins}</h3>`;
 
   updateDivider();
 }
