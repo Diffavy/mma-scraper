@@ -136,7 +136,7 @@ def saveFighter(url):
     fighterName = " ".join(fighterData["name"])
 
     os.makedirs("data", exist_ok=True) # Create data directory if it doesn't exist
-    filepath = os.path.join("data", f"{fileName}.json") #Builds file path for fighter data independent of OS
+    filepath =  f"data/{fileName}.json"
 
     data = {"name": fighterName, "filepath": filepath}
     currFighters = []

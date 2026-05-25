@@ -1,346 +1,346 @@
 [
-    {
-        "name": "Tom Aspinall",
-        "filepath": "data\\tom_aspinall.json"
-    },
-    {
-        "name": "Ciryl Gane",
-        "filepath": "data\\ciryl_gane.json"
-    },
-    {
-        "name": "Alexander Volkov",
-        "filepath": "data\\alexander_volkov.json"
-    },
-    {
-        "name": "Sergei Pavlovich",
-        "filepath": "data\\sergei_pavlovich.json"
-    },
-    {
-        "name": "Waldo Cortes-Acosta",
-        "filepath": "data\\waldo_cortes-acosta.json"
-    },
-    {
-        "name": "Josh Hokit",
-        "filepath": "data\\josh_hokit.json"
-    },
-    {
-        "name": "Serghei Spivac",
-        "filepath": "data\\serghei_spivac.json"
-    },
-    {
-        "name": "Curtis Blaydes",
-        "filepath": "data\\curtis_blaydes.json"
-    },
-    {
-        "name": "Rizvan Kuniev",
-        "filepath": "data\\rizvan_kuniev.json"
-    },
-    {
-        "name": "Derrick Lewis",
-        "filepath": "data\\derrick_lewis.json"
-    },
-    {
-        "name": "Tyrell Fortune",
-        "filepath": "data\\tyrell_fortune.json"
-    },
-    {
-        "name": "Carlos Ulberg",
-        "filepath": "data\\carlos_ulberg.json"
-    },
-    {
-        "name": "Alex Pereira",
-        "filepath": "data\\alex_pereira.json"
-    },
-    {
-        "name": "Jiri Prochazka",
-        "filepath": "data\\jiri_prochazka.json"
-    },
-    {
-        "name": "Khalil Rountree",
-        "filepath": "data\\khalil_rountree.json"
-    },
-    {
-        "name": "Jamahal Hill",
-        "filepath": "data\\jamahal_hill.json"
-    },
-    {
-        "name": "Paulo Costa",
-        "filepath": "data\\paulo_costa.json"
-    },
-    {
-        "name": "Azamat Murzakanov",
-        "filepath": "data\\azamat_murzakanov.json"
-    },
-    {
-        "name": "Volkan Oezdemir",
-        "filepath": "data\\volkan_oezdemir.json"
-    },
-    {
-        "name": "Dominick Reyes",
-        "filepath": "data\\dominick_reyes.json"
-    },
-    {
-        "name": "Sean Strickland",
-        "filepath": "data\\sean_strickland.json"
-    },
-    {
-        "name": "Khamzat Chimaev",
-        "filepath": "data\\khamzat_chimaev.json"
-    },
-    {
-        "name": "Dricus Du Plessis",
-        "filepath": "data\\dricus_du_plessis.json"
-    },
-    {
-        "name": "Nassourdine Imavov",
-        "filepath": "data\\nassourdine_imavov.json"
-    },
-    {
-        "name": "Brendan Allen",
-        "filepath": "data\\brendan_allen.json"
-    },
-    {
-        "name": "Caio Borralho",
-        "filepath": "data\\caio_borralho.json"
-    },
-    {
-        "name": "Anthony Hernandez",
-        "filepath": "data\\anthony_hernandez.json"
-    },
-    {
-        "name": "Joe Pyfer",
-        "filepath": "data\\joe_pyfer.json"
-    },
-    {
-        "name": "Reinier de Ridder",
-        "filepath": "data\\reinier_de_ridder.json"
-    },
-    {
-        "name": "Israel Adesanya",
-        "filepath": "data\\israel_adesanya.json"
-    },
-    {
-        "name": "Robert Whittaker",
-        "filepath": "data\\robert_whittaker.json"
-    },
-    {
-        "name": "Islam Makhachev",
-        "filepath": "data\\islam_makhachev.json"
-    },
-    {
-        "name": "Ian Garry",
-        "filepath": "data\\ian_garry.json"
-    },
-    {
-        "name": "Carlos Prates",
-        "filepath": "data\\carlos_prates.json"
-    },
-    {
-        "name": "Michael Morales",
-        "filepath": "data\\michael_morales.json"
-    },
-    {
-        "name": "Jack Della Maddalena",
-        "filepath": "data\\jack_della_maddalena.json"
-    },
-    {
-        "name": "Belal Muhammad",
-        "filepath": "data\\belal_muhammad.json"
-    },
-    {
-        "name": "Sean Brady",
-        "filepath": "data\\sean_brady.json"
-    },
-    {
-        "name": "Leon Edwards",
-        "filepath": "data\\leon_edwards.json"
-    },
-    {
-        "name": "Kamaru Usman",
-        "filepath": "data\\kamaru_usman.json"
-    },
-    {
-        "name": "Joaquin Buckley",
-        "filepath": "data\\joaquin_buckley.json"
-    },
-    {
-        "name": "Yaroslav Amosov",
-        "filepath": "data\\yaroslav_amosov.json"
-    },
-    {
-        "name": "Ilia Topuria",
-        "filepath": "data\\ilia_topuria.json"
-    },
-    {
-        "name": "Justin Gaethje",
-        "filepath": "data\\justin_gaethje.json"
-    },
-    {
-        "name": "Arman Tsarukyan",
-        "filepath": "data\\arman_tsarukyan.json"
-    },
-    {
-        "name": "Charles Oliveira",
-        "filepath": "data\\charles_oliveira.json"
-    },
-    {
-        "name": "Max Holloway",
-        "filepath": "data\\max_holloway.json"
-    },
-    {
-        "name": "Benoit St. Denis",
-        "filepath": "data\\benoit_st._denis.json"
-    },
-    {
-        "name": "Paddy Pimblett",
-        "filepath": "data\\paddy_pimblett.json"
-    },
-    {
-        "name": "Mateusz Gamrot",
-        "filepath": "data\\mateusz_gamrot.json"
-    },
-    {
-        "name": "Dan Hooker",
-        "filepath": "data\\dan_hooker.json"
-    },
-    {
-        "name": "Renato Carneiro",
-        "filepath": "data\\renato_carneiro.json"
-    },
-    {
-        "name": "Mauricio Ruffy",
-        "filepath": "data\\mauricio_ruffy.json"
-    },
-    {
-        "name": "Alexander Volkanovski",
-        "filepath": "data\\alexander_volkanovski.json"
-    },
-    {
-        "name": "Movsar Evloev",
-        "filepath": "data\\movsar_evloev.json"
-    },
-    {
-        "name": "Diego Lopes",
-        "filepath": "data\\diego_lopes.json"
-    },
-    {
-        "name": "Lerone Murphy",
-        "filepath": "data\\lerone_murphy.json"
-    },
-    {
-        "name": "Aljamain Sterling",
-        "filepath": "data\\aljamain_sterling.json"
-    },
-    {
-        "name": "Yair Rodriguez",
-        "filepath": "data\\yair_rodriguez.json"
-    },
-    {
-        "name": "Jean Silva",
-        "filepath": "data\\jean_silva.json"
-    },
-    {
-        "name": "Arnold Allen",
-        "filepath": "data\\arnold_allen.json"
-    },
-    {
-        "name": "Youssef Zalal",
-        "filepath": "data\\youssef_zalal.json"
-    },
-    {
-        "name": "Steve Garcia",
-        "filepath": "data\\steve_garcia.json"
-    },
-    {
-        "name": "Kevin Vallejos",
-        "filepath": "data\\kevin_vallejos.json"
-    },
-    {
-        "name": "Petr Yan",
-        "filepath": "data\\petr_yan.json"
-    },
-    {
-        "name": "Merab Dvalishvili",
-        "filepath": "data\\merab_dvalishvili.json"
-    },
-    {
-        "name": "Sean O'Malley",
-        "filepath": "data\\sean_o'malley.json"
-    },
-    {
-        "name": "Umar Nurmagomedov",
-        "filepath": "data\\umar_nurmagomedov.json"
-    },
-    {
-        "name": "Cory Sandhagen",
-        "filepath": "data\\cory_sandhagen.json"
-    },
-    {
-        "name": "Yadong Song",
-        "filepath": "data\\yadong_song.json"
-    },
-    {
-        "name": "Aiemann Zahabi",
-        "filepath": "data\\aiemann_zahabi.json"
-    },
-    {
-        "name": "Deiveson Figueiredo",
-        "filepath": "data\\deiveson_figueiredo.json"
-    },
-    {
-        "name": "Mario Bautista",
-        "filepath": "data\\mario_bautista.json"
-    },
-    {
-        "name": "David Martinez",
-        "filepath": "data\\david_martinez.json"
-    },
-    {
-        "name": "Marlon Vera",
-        "filepath": "data\\marlon_vera.json"
-    },
-    {
-        "name": "Joshua Van",
-        "filepath": "data\\joshua_van.json"
-    },
-    {
-        "name": "Alexandre Pantoja",
-        "filepath": "data\\alexandre_pantoja.json"
-    },
-    {
-        "name": "Manel Kape",
-        "filepath": "data\\manel_kape.json"
-    },
-    {
-        "name": "Tatsuro Taira",
-        "filepath": "data\\tatsuro_taira.json"
-    },
-    {
-        "name": "Brandon Royval",
-        "filepath": "data\\brandon_royval.json"
-    },
-    {
-        "name": "Kyoji Horiguchi",
-        "filepath": "data\\kyoji_horiguchi.json"
-    },
-    {
-        "name": "Lone'er Kavanagh",
-        "filepath": "data\\lone'er_kavanagh.json"
-    },
-    {
-        "name": "Amir Albazi",
-        "filepath": "data\\amir_albazi.json"
-    },
-    {
-        "name": "Asu Almabayev",
-        "filepath": "data\\asu_almabayev.json"
-    },
-    {
-        "name": "Brandon Moreno",
-        "filepath": "data\\brandon_moreno.json"
-    },
-    {
-        "name": "Steve Erceg",
-        "filepath": "data\\steve_erceg.json"
-    }
+  {
+    "name": "Tom Aspinall",
+    "filepath": "data/tom_aspinall.json"
+  },
+  {
+    "name": "Ciryl Gane",
+    "filepath": "data/ciryl_gane.json"
+  },
+  {
+    "name": "Alexander Volkov",
+    "filepath": "data/alexander_volkov.json"
+  },
+  {
+    "name": "Sergei Pavlovich",
+    "filepath": "data/sergei_pavlovich.json"
+  },
+  {
+    "name": "Waldo Cortes-Acosta",
+    "filepath": "data/waldo_cortes-acosta.json"
+  },
+  {
+    "name": "Josh Hokit",
+    "filepath": "data/josh_hokit.json"
+  },
+  {
+    "name": "Serghei Spivac",
+    "filepath": "data/serghei_spivac.json"
+  },
+  {
+    "name": "Curtis Blaydes",
+    "filepath": "data/curtis_blaydes.json"
+  },
+  {
+    "name": "Rizvan Kuniev",
+    "filepath": "data/rizvan_kuniev.json"
+  },
+  {
+    "name": "Derrick Lewis",
+    "filepath": "data/derrick_lewis.json"
+  },
+  {
+    "name": "Tyrell Fortune",
+    "filepath": "data/tyrell_fortune.json"
+  },
+  {
+    "name": "Carlos Ulberg",
+    "filepath": "data/carlos_ulberg.json"
+  },
+  {
+    "name": "Alex Pereira",
+    "filepath": "data/alex_pereira.json"
+  },
+  {
+    "name": "Jiri Prochazka",
+    "filepath": "data/jiri_prochazka.json"
+  },
+  {
+    "name": "Khalil Rountree",
+    "filepath": "data/khalil_rountree.json"
+  },
+  {
+    "name": "Jamahal Hill",
+    "filepath": "data/jamahal_hill.json"
+  },
+  {
+    "name": "Paulo Costa",
+    "filepath": "data/paulo_costa.json"
+  },
+  {
+    "name": "Azamat Murzakanov",
+    "filepath": "data/azamat_murzakanov.json"
+  },
+  {
+    "name": "Volkan Oezdemir",
+    "filepath": "data/volkan_oezdemir.json"
+  },
+  {
+    "name": "Dominick Reyes",
+    "filepath": "data/dominick_reyes.json"
+  },
+  {
+    "name": "Sean Strickland",
+    "filepath": "data/sean_strickland.json"
+  },
+  {
+    "name": "Khamzat Chimaev",
+    "filepath": "data/khamzat_chimaev.json"
+  },
+  {
+    "name": "Dricus Du Plessis",
+    "filepath": "data/dricus_du_plessis.json"
+  },
+  {
+    "name": "Nassourdine Imavov",
+    "filepath": "data/nassourdine_imavov.json"
+  },
+  {
+    "name": "Brendan Allen",
+    "filepath": "data/brendan_allen.json"
+  },
+  {
+    "name": "Caio Borralho",
+    "filepath": "data/caio_borralho.json"
+  },
+  {
+    "name": "Anthony Hernandez",
+    "filepath": "data/anthony_hernandez.json"
+  },
+  {
+    "name": "Joe Pyfer",
+    "filepath": "data/joe_pyfer.json"
+  },
+  {
+    "name": "Reinier de Ridder",
+    "filepath": "data/reinier_de_ridder.json"
+  },
+  {
+    "name": "Israel Adesanya",
+    "filepath": "data/israel_adesanya.json"
+  },
+  {
+    "name": "Robert Whittaker",
+    "filepath": "data/robert_whittaker.json"
+  },
+  {
+    "name": "Islam Makhachev",
+    "filepath": "data/islam_makhachev.json"
+  },
+  {
+    "name": "Ian Garry",
+    "filepath": "data/ian_garry.json"
+  },
+  {
+    "name": "Carlos Prates",
+    "filepath": "data/carlos_prates.json"
+  },
+  {
+    "name": "Michael Morales",
+    "filepath": "data/michael_morales.json"
+  },
+  {
+    "name": "Jack Della Maddalena",
+    "filepath": "data/jack_della_maddalena.json"
+  },
+  {
+    "name": "Belal Muhammad",
+    "filepath": "data/belal_muhammad.json"
+  },
+  {
+    "name": "Sean Brady",
+    "filepath": "data/sean_brady.json"
+  },
+  {
+    "name": "Leon Edwards",
+    "filepath": "data/leon_edwards.json"
+  },
+  {
+    "name": "Kamaru Usman",
+    "filepath": "data/kamaru_usman.json"
+  },
+  {
+    "name": "Joaquin Buckley",
+    "filepath": "data/joaquin_buckley.json"
+  },
+  {
+    "name": "Yaroslav Amosov",
+    "filepath": "data/yaroslav_amosov.json"
+  },
+  {
+    "name": "Ilia Topuria",
+    "filepath": "data/ilia_topuria.json"
+  },
+  {
+    "name": "Justin Gaethje",
+    "filepath": "data/justin_gaethje.json"
+  },
+  {
+    "name": "Arman Tsarukyan",
+    "filepath": "data/arman_tsarukyan.json"
+  },
+  {
+    "name": "Charles Oliveira",
+    "filepath": "data/charles_oliveira.json"
+  },
+  {
+    "name": "Max Holloway",
+    "filepath": "data/max_holloway.json"
+  },
+  {
+    "name": "Benoit St. Denis",
+    "filepath": "data/benoit_st._denis.json"
+  },
+  {
+    "name": "Paddy Pimblett",
+    "filepath": "data/paddy_pimblett.json"
+  },
+  {
+    "name": "Mateusz Gamrot",
+    "filepath": "data/mateusz_gamrot.json"
+  },
+  {
+    "name": "Dan Hooker",
+    "filepath": "data/dan_hooker.json"
+  },
+  {
+    "name": "Renato Carneiro",
+    "filepath": "data/renato_carneiro.json"
+  },
+  {
+    "name": "Mauricio Ruffy",
+    "filepath": "data/mauricio_ruffy.json"
+  },
+  {
+    "name": "Alexander Volkanovski",
+    "filepath": "data/alexander_volkanovski.json"
+  },
+  {
+    "name": "Movsar Evloev",
+    "filepath": "data/movsar_evloev.json"
+  },
+  {
+    "name": "Diego Lopes",
+    "filepath": "data/diego_lopes.json"
+  },
+  {
+    "name": "Lerone Murphy",
+    "filepath": "data/lerone_murphy.json"
+  },
+  {
+    "name": "Aljamain Sterling",
+    "filepath": "data/aljamain_sterling.json"
+  },
+  {
+    "name": "Yair Rodriguez",
+    "filepath": "data/yair_rodriguez.json"
+  },
+  {
+    "name": "Jean Silva",
+    "filepath": "data/jean_silva.json"
+  },
+  {
+    "name": "Arnold Allen",
+    "filepath": "data/arnold_allen.json"
+  },
+  {
+    "name": "Youssef Zalal",
+    "filepath": "data/youssef_zalal.json"
+  },
+  {
+    "name": "Steve Garcia",
+    "filepath": "data/steve_garcia.json"
+  },
+  {
+    "name": "Kevin Vallejos",
+    "filepath": "data/kevin_vallejos.json"
+  },
+  {
+    "name": "Petr Yan",
+    "filepath": "data/petr_yan.json"
+  },
+  {
+    "name": "Merab Dvalishvili",
+    "filepath": "data/merab_dvalishvili.json"
+  },
+  {
+    "name": "Sean O'Malley",
+    "filepath": "data/sean_o'malley.json"
+  },
+  {
+    "name": "Umar Nurmagomedov",
+    "filepath": "data/umar_nurmagomedov.json"
+  },
+  {
+    "name": "Cory Sandhagen",
+    "filepath": "data/cory_sandhagen.json"
+  },
+  {
+    "name": "Yadong Song",
+    "filepath": "data/yadong_song.json"
+  },
+  {
+    "name": "Aiemann Zahabi",
+    "filepath": "data/aiemann_zahabi.json"
+  },
+  {
+    "name": "Deiveson Figueiredo",
+    "filepath": "data/deiveson_figueiredo.json"
+  },
+  {
+    "name": "Mario Bautista",
+    "filepath": "data/mario_bautista.json"
+  },
+  {
+    "name": "David Martinez",
+    "filepath": "data/david_martinez.json"
+  },
+  {
+    "name": "Marlon Vera",
+    "filepath": "data/marlon_vera.json"
+  },
+  {
+    "name": "Joshua Van",
+    "filepath": "data/joshua_van.json"
+  },
+  {
+    "name": "Alexandre Pantoja",
+    "filepath": "data/alexandre_pantoja.json"
+  },
+  {
+    "name": "Manel Kape",
+    "filepath": "data/manel_kape.json"
+  },
+  {
+    "name": "Tatsuro Taira",
+    "filepath": "data/tatsuro_taira.json"
+  },
+  {
+    "name": "Brandon Royval",
+    "filepath": "data/brandon_royval.json"
+  },
+  {
+    "name": "Kyoji Horiguchi",
+    "filepath": "data/kyoji_horiguchi.json"
+  },
+  {
+    "name": "Lone'er Kavanagh",
+    "filepath": "data/lone'er_kavanagh.json"
+  },
+  {
+    "name": "Amir Albazi",
+    "filepath": "data/amir_albazi.json"
+  },
+  {
+    "name": "Asu Almabayev",
+    "filepath": "data/asu_almabayev.json"
+  },
+  {
+    "name": "Brandon Moreno",
+    "filepath": "data/brandon_moreno.json"
+  },
+  {
+    "name": "Steve Erceg",
+    "filepath": "data/steve_erceg.json"
+  }
 ]
