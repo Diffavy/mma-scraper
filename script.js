@@ -186,3 +186,7 @@ async function init() {
 }
 
 init();
+
+// Set the current year in the footer
+const yearElement = document.getElementById("current-year");
+yearElement.textContent = new Date().getFullYear();

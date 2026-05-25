@@ -39,6 +39,8 @@ def getBioData(soup):
 
 
 def getRecord(soup):
+    # Assusmes that if fighter has a no constest record try block will execute,
+    # if not, except block will execute assuming no contest record is 0
     try: 
         win = soup.find("div", class_="winloses win").text
         lose = soup.find("div", class_="winloses lose").text
